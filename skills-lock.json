@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "skills": {
+    "filemaker-xml": {
+      "source": "andykear/FileMaker-XMLsnippet-Claude-Skill",
+      "sourceType": "github",
+      "skillPath": "SKILL.md",
+      "computedHash": "5b36272db6c03f14d174514d18b64b3786fb2eb220a7e8c301a6f1ca4ae19704"
+    }
+  }
+}

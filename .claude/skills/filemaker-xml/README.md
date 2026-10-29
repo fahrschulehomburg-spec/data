@@ -1,0 +1,150 @@
+# FileMaker Script XML Specification
+
+[![Stars](https://img.shields.io/github/stars/andykear/FileMaker-XMLsnippet-Claude-Skill?style=social)](https://github.com/andykear/FileMaker-XMLsnippet-Claude-Skill)
+[![License](https://img.shields.io/badge/license-CC%20BY%204.0-green)](https://creativecommons.org/licenses/by/4.0/)
+
+Reverse-engineered specification of FileMaker's undocumented `fmxmlsnippet` clipboard format. Every step ID, element ordering rule, and silent failure mode, established through empirical round-trip testing against production FileMaker solutions.
+
+Developed by Andrew Kear of [Clockwork Creative Technology](https://www.clockworkct.co.uk) and shared openly with the FileMaker/Claris community.
+
+---
+
+## Why this exists
+
+FileMaker's Script Workspace accepts pasted scripts in a specific XML format. Claris has never published a specification for it. Get the XML wrong and FileMaker accepts it silently, dropping data without any error message.
+
+This specification documents what the paste handler actually accepts: all 222 step IDs in the FileMaker 2026 palette, canonical XML skeletons for every step, the element ordering constraints that cause silent drops when violated, and the calculation slot binding rules that cause multi-slot steps to misbind.
+
+---
+
+## What it catches
+
+The specification documents several classes of silent failure that are invisible in the Script Workspace after paste:
+
+**Set Variable name drop.** If the variable name element is emitted as a single-letter tag instead of the canonical four-letter `Name` form, FileMaker pastes the step with no variable name. No error. No warning. You find out when the script runs.
+
+**Calculation slot misbinding.** Install OnTimer Script, Perform JavaScript in Web Viewer, and other steps with multiple calculation slots silently bind a calculation to the wrong internal slot when elements are in the wrong order. The script appears to work. The calculation runs in the wrong context.
+
+**Element ordering.** Several steps require child elements in a specific order. The XML is valid either way. Only one order produces the correct paste result.
+
+These are not edge cases. They are the default failure mode when any tool, human or AI, generates FileMaker script XML without knowing the paste handler rules.
+
+---
+
+## Packaged as a Claude Skill
+
+The specification is packaged as a [Claude](https://claude.ai) skill with progressive loading: the model reads core rules plus only the step categories each task needs. This keeps token usage proportional to task complexity.
+
+Once installed, Claude uses the specification automatically when generating or reviewing FileMaker script XML. The structural rules are handled deterministically. The model handles the logic.
+
+**Tested with Claude. Model agnostic by design.** The deterministic approach means any capable model with the specification in context should produce reliable output. Claude is the only model Clockwork has tested against; others have reported success.
+
+## Beyond Claude
+
+The specification is packaged here as a Claude skill, but the format rules are model-agnostic. The reference files are plain markdown, readable by any LLM or human. If you're building tools that generate FileMaker script XML, the spec is yours to integrate.
+
+---
+
+## What's in the box
+
+```
+SKILL.md                            — Claude skill definition + routing index
+references/
+  core.md                           — Paste rules, conventions, Set Variable,
+                                      silent failures, appendices (§1-7, A, B, C)
+  steps-control.md                  — §8.1 Control
+  steps-navigation-editing.md       — §8.3-8.4
+  steps-fields-records.md           — §8.5-8.7
+  steps-windows-files.md            — §8.8-8.9
+  steps-accounts-ai-misc.md         — §8.2, §8.10-8.14
+  steps-pdf.md                      — §8.15 PDF Files (FM 26)
+  steps-plugin.md                   — §9 Plugin steps (MBS)
+  custom-functions.md               — §11 Custom Functions
+  worked-example.md                 — §10 Worked example (optional)
+```
+
+---
+
+## Installation
+
+1. Download the zip from the [Releases](../../releases) page
+2. Extract to get `SKILL.md` and the `references/` folder
+3. Upload to your Claude organisation's skills library, preserving the folder structure
+
+Upgrading from v1.12: replace all files. No new files this release, all changes are within the existing file set.
+
+Upgrading from v1.11: replace all files. The `references/steps-pdf.md` file is new; all other files are updated in place.
+
+Upgrading from v1.10.x: remove the old single `references/filemaker_xml_rules.md` and replace with the current file set.
+
+---
+
+## Usage
+
+Once installed, Claude applies the specification automatically when you ask for FileMaker scripts or fmxmlsnippet XML. No special prompt needed.
+
+**Generate a script:**
+> "Write a FileMaker script that loops through the found set and sets a flag field"
+
+**Review existing XML:**
+> Paste your fmxmlsnippet and ask Claude to review it for paste handler errors
+
+**With schema context:**
+> Attach your DDR and Claude will use real field, layout, and script names from your solution. You can also attach a DDR exported using [Clockwork Inspector](https://github.com/andykear/FileMaker-XML-inspector-open-source).
+
+---
+
+## Pasting into FileMaker
+
+The Script Workspace accepts `fmxmlsnippet type="FMObjectList"` via clipboard paste in FileMaker's internal clipboard format, not plain text. This skill has been tested with the **MBS Plugin** in FileMaker 2024 and 2025. Paste handlers in FileMaker Pro 2026 remain compatible.
+
+---
+
+## The rest of the collection
+
+**[Menu](https://github.com/andykear)**
+
+**Reference skills**
+
+**[FileMaker Second Opinion](https://github.com/andykear/FileMaker-second-opinion)**\
+**[FileMaker AI Vocabulary](https://github.com/andykear/FileMaker-AI-vocabulary)**
+
+**Research / Specialist**
+
+**[FileMaker XML bit-flags](https://github.com/andykear/FileMaker-XML-bit-flags)** (SaXML)\
+**[FileMaker AI Grammar](https://github.com/andykear/FileMaker-AI-grammar)**
+
+**Generation, paste-ready FileMaker XML**
+
+**[Script XML Skill](https://github.com/andykear/FileMaker-XMLsnippet-Claude-Skill)** (XMSS, XMSC, XMFN)\
+**[Layout XML Skill](https://github.com/andykear/FileMaker-XMLsnippet-Layout-Claude-Skill)** (XML2)\
+**[Field, Table & Value List Definitions](https://github.com/andykear/FileMaker-XML-field-definitions)** (XMFD, XMTB, XMVL)
+
+**Analyse a FileMaker solution in your browser**
+
+**[Clockwork Inspector](https://github.com/andykear/FileMaker-XML-inspector-open-source)** (SaXML)\
+**[XML Scrubber](https://github.com/andykear/FileMaker-XML-scrubber)** (SaXML + others)
+
+## Licence
+
+CC BY 4.0 — free to use, share, and adapt with attribution.
+
+## Contributing
+
+Found something that doesn't round-trip? A production export that contradicts the spec? Open an issue or PR.
+
+---
+
+## Version history
+
+| Version | Notes |
+|---------|-------|
+| 2.0 | **Complete step coverage of the FileMaker 2026 26.02 — 222 of 222 ids.**  |
+| 1.14 | Minor corrections from a full bit flag decode of the script step format. |
+| 1.13 | Continued FM 26 verification. Configured forms added for five steps previously documented only as unconfigured placeholders: Add Account, Open File, Perform Script on Server with Callback, Fine-Tune Model, Save a Copy as XML (destination path). One structural correction: Configure Machine Learning Model's ConfigureCoreML value. New elements confirmed on DisableStepCollapsed's one exception, Comment, three AI-section steps, and Sort Records. Resolved the long-standing Create PDF/Save Records as PDF bare-Calculation question (mirrors Title). New structural rule: Commit/Revert Transaction cannot nest inside If/Else. Thanks to Darrin Southern of CadenceUX for sharing a number of excellent additions in this point release. |
+| 1.12 | FM 26 (FileMaker Pro 2026) support. 10 new steps: PDF Files category (Create PDF, Open PDF, Append PDF, Print PDF, Close PDF, Cancel PDF), Configure Persistent Data, Insert Image Caption, Insert Image Captions in Found Set, Flush Web Viewer Cache. Updated steps: Save Records as PDF, Show Custom Dialog, Configure AI Account. New elements: DisableStepCollapsed. Error codes 605-608, 829-833. 16 new Open menu steps. |
+| 1.11 | Progressive loading restructure: spec split into core rules plus on-demand step category files with a routing index. Simple tasks load around 55% fewer reference tokens than v1.10, typical tasks 30-35% fewer. All steps remain fully documented. |
+| 1.10.4 | Added support for custom functions. Fixes an installation path issue affecting all previous versions. |
+| 1.10.3 | Removed changelog, validation suite, and step index appendices to reduce token load. Public release. |
+| 1.10.2 | Removed pre-release version history narrative. |
+| 1.10 | First complete version. All AI steps (212-228) added. Placeholder-ID pattern documented. |
