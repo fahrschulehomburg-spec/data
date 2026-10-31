@@ -33,10 +33,13 @@ function el(n,a,p){var e=document.createElementNS(NS,n);for(var k in a)e.setAttr
 function car(svg,sp){var c=sp.c,L=sp.L||28,W=sp.W||14,h=L/2,w=W/2;var g=el('g',{},svg);var b=el('g',{},g);
  if(sp.kind==='ped'){el('ellipse',{cx:0,cy:0,rx:4,ry:7,fill:c},b);el('circle',{cx:1,cy:0,r:3.6,fill:'#e9c7a0',stroke:'#5a4030','stroke-width':.6},b);return g;}
  if(sp.kind==='rad'){el('rect',{x:-10,y:-1.5,width:20,height:3,rx:1.5,fill:'#222'},b);el('rect',{x:5,y:-5,width:2,height:10,rx:1,fill:'#222'},b);el('ellipse',{cx:-1,cy:0,rx:5,ry:6,fill:c},b);el('circle',{cx:0,cy:0,r:3.4,fill:'#e9c7a0',stroke:'#5a4030','stroke-width':.6},b);return g;}
- if(sp.kind==='trak'){el('rect',{x:-h,y:-w,width:L,height:W,rx:2,fill:c,stroke:'rgba(0,0,0,.35)','stroke-width':.8},b);
+ if(sp.kind==='lkw'){if(sp.tw)el('polygon',{points:(h-4)+','+w+' '+(h+6)+','+(w+34)+' '+(-h+6)+','+(w+34)+' '+(-h+16)+','+w,fill:'#c8102e',opacity:.22,stroke:'#c8102e','stroke-dasharray':'4 3','stroke-width':1},b);
+  el('rect',{x:-h,y:-w,width:L-16,height:W,rx:2,fill:'#e9e6df',stroke:'rgba(0,0,0,.45)','stroke-width':.8},b);
+  el('rect',{x:h-14,y:-w+1,width:14,height:W-2,rx:3,fill:c,stroke:'rgba(0,0,0,.4)','stroke-width':.8},b);el('rect',{x:h-5,y:-w+3,width:3.5,height:W-6,rx:1,fill:'rgba(255,255,255,.6)'},b);}
+ else if(sp.kind==='trak'){el('rect',{x:-h,y:-w,width:L,height:W,rx:2,fill:c,stroke:'rgba(0,0,0,.35)','stroke-width':.8},b);
   el('rect',{x:-h+3,y:-w+2,width:L*0.4,height:W-4,rx:1.5,fill:'rgba(0,0,0,.28)'},b);
   el('rect',{x:-h-3,y:-w-2,width:9,height:4,rx:1,fill:'#222'},b);el('rect',{x:-h-3,y:w-2,width:9,height:4,rx:1,fill:'#222'},b);}
- else{el('rect',{x:-h,y:-w,width:L,height:W,rx:4,fill:c,stroke:'rgba(0,0,0,.35)','stroke-width':.8},b);
+ else if(sp.kind!=='lkw'){el('rect',{x:-h,y:-w,width:L,height:W,rx:4,fill:c,stroke:'rgba(0,0,0,.35)','stroke-width':.8},b);
   el('rect',{x:h-11,y:-w+1.5,width:6,height:W-3,rx:1.5,fill:'rgba(255,255,255,.6)'},b);
   el('rect',{x:-h+3,y:-w+1.5,width:4,height:W-3,rx:1.5,fill:'rgba(0,0,0,.2)'},b);}
  el('circle',{cx:h-1.5,cy:-w+1,r:2.6,fill:'#f5a300','class':'tr-bl'},b);
@@ -146,6 +149,10 @@ var LIB={
  'linksab':{scenes:[
   {lay:'',cars:{G:{c:'#d63a2f',p:'M180,-40 L180,340'},F:{c:'#8a939e',p:'M232,340 L232,-40'},A:{c:'#2f6fd6',p:'M216,330 L209,205 L208,152 L208,146 Q208,130 192,130 L-40,130'}},
    steps:[{t:2.2,A:[30,100],G:[0,40],F:[0,30],bl:'A'},{t:2.6,A:[100,178],G:[40,150],F:[30,120],bl:'A'},{t:3,A:[178,178],G:[150,390],F:[120,390],bl:'A'},{t:2.8,A:[178,360],G:[390,390],F:[390,390],bl:'A'},{t:0,A:[360,360],G:[390,390],F:[390,390]}]}
+ ]},
+ 'lkwrechts':{scenes:[
+  {lay:'radweg',cars:{C:{c:'#e08a1e',kind:'rad',p:'M250,360 L250,-40'},T:{c:'#2f6fd6',kind:'lkw',L:62,W:18,tw:1,p:'M226,380 L226,270 C226,252 218,250 218,232 L218,200 C218,174 238,170 262,170 L460,170'}},
+   steps:[{t:2.4,T:[0,70],C:[0,20],br:'T'},{t:2.8,T:[70,140],C:[20,150],br:'T'},{t:3,T:[140,140],C:[150,330],br:'T'},{t:3.4,T:[140,390],C:[330,420],br:'T'},{t:0,T:[390,390],C:[420,420]}]}
  ]}
 };
 function ease(x){return x<.5?2*x*x:1-Math.pow(-2*x+2,2)/2;}
