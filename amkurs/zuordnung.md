@@ -1,0 +1,1454 @@
+# Zuordnung Kurs B → Kurs Motorrad & Moped (A/AM)
+
+Legende: **alle** = übernommen (Text unverändert, fr in tu-Form umgewandelt) · **angepasst** = übernommen mit Wortlaut-Änderung (Auto → neutral/Motorrad, Prüfungstipps entfernt) · **gestrichen** = nur Pkw/B-Prüfung bzw. durch neue A/AM-Inhalte ersetzt.
+Überblick- und Merksätze-Lektionen aller Module wurden neu geschrieben (A/AM-bezogen). Kachel-Index i wie in fixhelper (i=0 Einleitung).
+Kacheln: 784 alle · 33 angepasst · 249 gestrichen. Quizfragen: 247 alle · 29 angepasst · 71 gestrichen.
+
+
+## Modul 1: Straßenraum & besondere Verkehrsteilnehmer → neues Modul 3
+
+- L42097 Überblick & Lernziele: **gestrichen** (ganze Lektion)
+- L42098 Grundbegriffe: Fußgänger, Führer & öffentlicher Ort:
+  - 1 Fußgänger oder Führer?: **alle**
+  - 2 Rollstuhl, Moped und Motorrad: **alle**
+  - 3 Öffentliche Straße: **alle**
+  - 4 Öffentlicher Ort: **alle**
+- L42105 Teile und Ränder der Straße:
+  - 0 (Einleitung): **angepasst**
+  - 1 Bürgersteig und Seitenstreifen: **alle**
+  - 2 Radweg vs. angedeuteter Radweg: **alle**
+  - 3 Erdweg und Fußweg: **alle**
+  - 4 Kernfahrbahn und Schutzstreifen: **alle**
+  - 5 Notspur: **alle**
+  - 6 Fahrbahnanhebung: **alle**
+  - 7 Angedeuteter Radweg: ganz normal befahren: **alle**
+  - 8 Zwei gestrichelte Linien oder eine?: **alle**
+  - 9 Parkstreifen und einzelne Parkfelder: **alle**
+  - 10 Seitenstreifen oder Pannenstreifen?: **alle**
+  - 11 Linie am Rand: zwei Bedeutungen: **alle**
+  - 12 Straße, Platz, Kreuzung: **alle**
+- L42106 Bodenmarkierungen & Leitinseln:
+  - 1 Sperrflächen: **alle**
+  - 2 Schraffierte Felder an der Bushaltestelle: **alle**
+  - 3 Aufstellfläche für Radfahrer: **angepasst**
+  - 4 Leitinsel mit Schild F21: **alle**
+  - 5 Einordnungsbereich und -spur: **alle**
+- L42107 Sonderspuren im Blick:
+  - 1 Busspur: **alle**
+  - 2 Überfahrbare Sonderspur: **alle**
+  - 3 Fahrspur für Fahrgemeinschaften: **gestrichen**
+  - 4 Spur mit variabler Freigabe: **alle**
+  - 5 Busspur nur kurz vor der Kreuzung: **alle**
+  - 6 Prüfungsfrage: Lkw auf deiner Spur: **angepasst**
+  - 7 Überfahrbare Sonderspur nur bei Hindernis: **alle**
+  - 8 Schachbrettmuster: **alle**
+  - 9 Gelber Blinkpfeil an der Stoßzeitspur: **alle**
+  - 10 Fahrgemeinschaftsspur: **gestrichen**
+- L42114 Verkehrsberuhigte Zonen & Sonderzonen:
+  - 0 (Einleitung): **angepasst**
+  - 1 Verkehrsberuhigter Bereich: **alle**
+  - 2 Spielstraße: **alle**
+  - 3 Schulstraße: **alle**
+  - 4 Fahrradzone: **angepasst**
+  - 5 Fußgängerbereich: **alle**
+  - 6 Vorbehaltene Wege: **alle**
+  - 7 Fußgängerbereich im Detail: **alle**
+  - 8 Fahrradzone bei Gegenverkehr: **alle**
+  - 9 Vorbehaltene Wege: wer sonst noch darf: **alle**
+  - 10 Verkehrsberuhigt: nicht behindern: **alle**
+- L42115 Die Rettungsgasse:
+  - 1 Wie die Gasse gebildet wird: **alle**
+  - 2 Wann du reagieren musst: **angepasst**
+  - 3 Rechtzeitig ausweichen: **alle**
+  - 4 Die Gasse ist tabu: **alle**
+- L42122 Kleinkrafträder & Speed Pedelecs im Verkehr: **gestrichen** (ganze Lektion)
+- L42123 Motorräder & Landwirtschaftliche Fahrzeuge:
+  - 1 Filtern zwischen Fahrspuren: **gestrichen**
+  - 2 Gruppenfahrten: **gestrichen**
+  - 3 Warnweste bei Motorrädern: **gestrichen**
+  - 4 Traktoren erkennen und einschätzen: **alle**
+  - 5 Sicherheitsabstand in der Kolonne: **gestrichen**
+  - 6 Position des Motorrads: **gestrichen**
+  - 7 Fahrräder nebeneinander: **alle**
+- L42124 Fahrbahnmarkierungen richtig lesen:
+  - 0 (Einleitung): **angepasst**
+  - 1 Durchgezogene Mittellinie: **alle**
+  - 2 Gestrichelte Linie: nur vier Gründe: **alle**
+  - 3 Hindernis oder Überholen?: **alle**
+  - 4 Doppellinie: **alle**
+  - 5 Kürzer werdende Lücken: **alle**
+  - 6 Orange Baustellenmarkierung: **alle**
+  - 7 Querlinien: Haifischzähne und Stopplinie: **alle**
+  - 8 Pfeile, die zur Seite zeigen: **alle**
+  - 9 Schülertransport und Fahrgemeinschaft auf der Busspur: **alle**
+- L42125 Vertiefung: Begriffe, Markierungen und Sonderfahrzeuge:
+  - 1 Fahrspur und Trennstreifen: **alle**
+  - 2 Geschlossene Ortschaft und Platz: **alle**
+  - 3 Wer noch als Fußgänger gilt: **alle**
+  - 4 Wer noch als Führer gilt: **alle**
+  - 5 Privatwege: **alle**
+  - 6 Durchgehende Linie: **alle**
+  - 7 Leitinsel: **alle**
+  - 8 Markierungen erkennen: **alle**
+  - 9 Wer die Busspur mitbenutzt: **alle**
+  - 10 Fahrgemeinschaftsspur: **gestrichen**
+  - 11 Fahrradzone genauer: **alle**
+  - 12 Fußgängerbereich genauer: **alle**
+  - 13 Spielstraße genauer: **alle**
+  - 14 Straße sauber halten: **alle**
+  - 15 Motorrad in der Spur: **alle**
+  - 16 Traktoren überholen: **alle**
+- L42126 Merksätze: **gestrichen** (ganze Lektion)
+- Quiz 42127:
+  - F69 Ein Landwirt treibt Kühe über die Straße. Rechtlich ist er:: **alle**
+  - F70 Darf ein Motorrad in seiner Fahrspur von rechts nach links wechseln, ohne zu blinken?: **alle**
+  - F71 Bei zwei Fahrspuren je Richtung musst du bei Stau eine Rettungsgasse bilden, indem du:: **alle**
+  - F72 Wann musst du eine Rettungsgasse bilden?: **alle**
+  - F73 Auf einer Kernfahrbahn fährst du:: **alle**
+  - F74 Ein angedeuteter Radweg (z. B. durch Piktogramme markiert) unterscheidet sich von einem ec: **alle**
+  - F75 In einer Spielstraße musst du als Kraftfahrzeugführer:: **alle**
+  - F76 In einer Fahrradzone darfst du als Autofahrer:: **gestrichen**
+  - F77 Die Notspur auf der Autobahn darf genutzt werden von:: **alle**
+  - F78 Ein Kleinkraftrad der Klasse B muss den vorhandenen Radweg benutzen, wenn:: **alle**
+  - F79 Dürfen Kleinkrafträder die Autobahn benutzen?: **angepasst**
+  - F80 Ein Motorrad bewegt sich zwischen zwei langsam fahrenden Fahrspuren hindurch. Dies gilt al: **alle**
+  - F81 Bei einer Motorradgruppe ab 15 Teilnehmern dürfen die Mannschaftskapitäne an einer Kreuzun: **alle**
+  - F82 Landwirtschaftliche Traktoren erkennst du unter anderem an:: **alle**
+  - F83 In einem Fußgängerbereich dürfen ohne besondere Beschilderung normalerweise fahren:: **alle**
+  - F84 Als Autofahrer darfst du die Busspur kurz mitbenutzen:: **gestrichen**
+  - F85 Wer gilt rechtlich als Fußgänger?: **alle**
+  - F86 Du schiebst ein Motorrad. Rechtlich bist du:: **alle**
+  - F87 Ein Supermarktparkplatz, der für jeden zugänglich ist, gilt in Belgien als:: **alle**
+  - F88 Welchen Führerschein brauchst du für ein Kleinkraftrad der Klasse B (bis 45 km/h)?: **alle**
+  - F89 Auf einer schraffierten Sperrfläche darfst du:: **alle**
+  - F91 An einer Ampel mit Aufstellfläche für Radfahrer hältst du als Autofahrer:: **angepasst**
+  - F92 Eine Straße hat am Rand rote Streifen (angedeuteter Radweg). Wo fährst du mit dem Auto?: **angepasst**
+  - F93 Was bedeuten zwei gestrichelte Linien am Fahrbahnrand, zwischen denen kein Auto Platz hat?: **alle**
+  - F94 Eine Fahrbahnanhebung (Plateau) hat kein Schild. Was gilt seit 2026?: **alle**
+  - F95 Ein Lkw steht auf deiner Spur, rechts ist eine Busspur, links Gegenverkehr. Darfst du rech: **alle**
+  - F96 Du willst in 300 m rechts abbiegen. Darfst du jetzt schon in die Busspur wechseln?: **alle**
+  - F97 Wen darfst du in einer Fahrradzone NICHT überholen?: **alle**
+  - F98 Ein Mofa der Klasse B fährt auf einer Straße mit 70 km/h. Daneben gibt es einen Radweg. Es: **alle**
+  - F99 Ein blaues Schild zeigt Fußgänger und Fahrrad übereinander ohne Trennlinie. Darf ein Mofa : **alle**
+  - F100 Ein Traktor fährt mit 5 km/h auf deiner Spur, eine durchgezogene Mittellinie. Darfst du ih: **alle**
+  - F101 Wann darfst du über eine gestrichelte Mittellinie fahren?: **alle**
+  - F102 Du kommst nachts an eine Kreuzung mit Stoppschild und Stopplinie, weit und breit niemand. : **alle**
+  - F103 Vorläufige orange Linien und alte weiße Linien liegen nebeneinander. Was gilt?: **alle**
+  - F104 Ab wie vielen Reitern gilt eine Gruppe als Reitergruppe mit Gruppenleiter?: **alle**
+  - F105 Ist ein Erdweg eine öffentliche Straße?: **alle**
+
+## Modul 2: Vorfahrtsregeln → neues Modul 4
+
+- L42135 Überblick & Lernziele: **gestrichen** (ganze Lektion)
+- L42160 Die Grundregel: rechts vor links:
+  - 1 Wer kommt von rechts?: **alle**
+  - 2 Kein Vorfahrt-Erzwingen: **alle**
+  - 3 Erdwege sind eine Ausnahme: **alle**
+  - 4 Kreisverkehr folgt eigener Regel: **alle**
+  - 5 Gilt praktisch überall: **alle**
+  - 6 Fahrzeugtyp und Tempo spielen keine Rolle: **alle**
+  - 7 Vorfahrt bleibt auch nach dem Anhalten: **alle**
+- L42191 Voranzeige- und Zusatzschilder:
+  - 1 B3 · Voranzeige von B1: **alle**
+  - 2 B7 · Voranzeige von B5: **alle**
+  - 3 Blaues Zusatzschild mit gebogener Linie: **alle**
+  - 4 B19/B21 · Fahrbahnverengung: **alle**
+  - 5 Zusatzschild: Zahl ohne Pfeil: **alle**
+  - 6 Zusatzschild: Zahl mit Pfeil: **alle**
+  - 7 Beide Angaben zusammen: **angepasst**
+  - 8 Pfeile ohne Zahl: **alle**
+  - 9 Zusatzschild: Radweg in beiden Richtungen: **alle**
+- L42234 Die Vorfahrtsschilder:
+  - 1 B1 · Vorfahrt gewähren: **alle**
+  - 2 B15 · Vorfahrt an der nächsten Kreuzung: **alle**
+  - 3 B5 · Stop: **alle**
+  - 4 B9 · Vorfahrtsstraße: **alle**
+  - 5 B11 · Ende der Vorfahrtsstraße: **alle**
+  - 6 B17 · Erinnerungsschild: **alle**
+  - 7 D5 · Kreisverkehr: **alle**
+- L42253 Ausnahmen von rechts vor links:
+  - 1 Radwege & Bürgersteige: **angepasst**
+  - 2 Erdwege im Detail: **alle**
+  - 3 Ausfahrt von Parkplatz oder Grundstück: **alle**
+  - 4 Schienenfahrzeuge: **alle**
+  - 5 Ampeln vor rechts vor links: **alle**
+  - 6 Einsatzfahrzeuge: **alle**
+  - 7 Kreisverkehr: die Beschilderung im Detail: **alle**
+  - 8 Haupt- oder Nebenstraße spielt keine Rolle: **alle**
+  - 9 Verbotene Fahrtrichtung: keine Vorfahrt: **alle**
+  - 10 Fußgänger und Richtungswechsel: **alle**
+  - 11 Straßenbahn trotz Vorfahrtsschild: **alle**
+  - 12 Nur Blaulicht reicht nicht: **angepasst**
+  - 13 Bahnübergang nicht blockieren: **alle**
+  - 14 Einsatzfahrzeug bei Rot: **alle**
+- L42260 Verhalten an Kreuzungen:
+  - 1 Die richtige Fahrspur wählen: **alle**
+  - 2 Kreuzung nicht blockieren: **alle**
+  - 3 Die Kreuzung zügig räumen: **alle**
+  - 4 Erhöhte Vorsicht, auch mit Vorfahrt: **alle**
+- L42285 Anweisungen befugter Bediensteter:
+  - 1 Die Rangordnung der Vorschriften: **alle**
+  - 2 Wer darf den Verkehr regeln?: **alle**
+  - 3 Arm(e) waagerecht: wie eine Ampel lesen: **alle**
+  - 4 Ein Arm senkrecht erhoben: Halt für alle: **alle**
+  - 5 Abwärts wedelnde Hand: langsamer fahren: **alle**
+  - 6 Kreisende Armbewegung: schneller fahren: **alle**
+  - 7 Drei Befehle, zwei Anweisungen: **angepasst**
+  - 8 Pfeifsignal: **alle**
+  - 9 Auch Laien können den Verkehr anhalten: **alle**
+  - 10 Ermächtigte Personen: **alle**
+  - 11 Weitere Befugte: **alle**
+  - 12 Bedienstete des Nahverkehrs: **alle**
+  - 13 Rotes Licht geschwenkt: **alle**
+  - 14 Hinweise, die du befolgen musst: **alle**
+- L42286 Vertiefung: Einsatzfahrzeuge, Bahnübergang & Gruppen:
+  - 0 (Einleitung): **angepasst**
+  - 1 Was Einsatzfahrzeuge dürfen: **alle**
+  - 2 Durchfahrt sofort freigeben: **alle**
+  - 3 Auf den Schienen: **alle**
+  - 4 Bahnübergang gilt für alle: **alle**
+  - 5 Geschwenktes rotes Licht: **alle**
+  - 6 Wer nur Hinweise geben darf: **alle**
+  - 7 Gruppen mit Kapitänen: **alle**
+  - 8 Aufsichtspersonen: **alle**
+- L42287 Merksätze: **gestrichen** (ganze Lektion)
+- Quiz 42288:
+  - F106 Darf ein Einsatzfahrzeug im dringenden Einsatz bei Rot durchfahren?: **alle**
+  - F107 Der Verkehr staut sich hinter einem Bahnübergang. Du:: **alle**
+  - F108 An einer Kreuzung ohne Schilder und ohne Ampel gilt:: **alle**
+  - F109 Das Schild B1 bedeutet:: **alle**
+  - F110 An einem Stop-Schild (B5) musst du:: **alle**
+  - F111 Ein Auto verlässt einen Erdweg und fährt auf eine normale Straße. Es:: **alle**
+  - F112 Du fährst mit dem Auto von einem Supermarktparkplatz auf die öffentliche Straße. Es gilt:: **angepasst**
+  - F113 Beim Überqueren eines Radwegs mit dem Auto:: **angepasst**
+  - F114 Eine Ampel und ein Vorfahrtsschild widersprechen sich an derselben Kreuzung. Es gilt:: **alle**
+  - F115 Ein Fahrzeug mit Blaulicht und Sirene nähert sich im Einsatz von hinten. Du solltest:: **alle**
+  - F116 Das Schild B3 bedeutet:: **alle**
+  - F117 Bei einer geregelten Fahrbahnverengung mit B19/B21 gilt:: **alle**
+  - F118 An einem Bahnübergang ohne Schranken und Lichtzeichen darfst du:: **alle**
+  - F119 Ein Rechtsabbieger an einer Kreuzung mit Einordnungspfeilen:: **alle**
+  - F120 Du bist bereits regulär in eine Kreuzung eingefahren, als die Ampel für deine Richtung wec: **alle**
+  - F121 Bei widersprüchlichen Anweisungen gilt an oberster Stelle:: **alle**
+  - F122 Ein senkrecht erhobener Arm eines Polizisten bedeutet:: **alle**
+  - F123 Ein Auto kommt verbotenerweise entgegen der Einbahnstraße von rechts heraus. Hat es Vorfah: **alle**
+  - F124 Du biegst links ab. Eine Fußgängerin überquert gerade die Straße, in die du einbiegst — oh: **alle**
+  - F125 Unter einem Steigungsschild stehen „200 m“ und „↑ 10 km“. Das bedeutet:: **alle**
+  - F126 Ein Zusatzschild zeigt einen Doppelpfeil nach oben und unten. Das bedeutet:: **alle**
+  - F127 Ein Polizist steht mit waagerecht ausgestreckten Armen auf der Kreuzung, du siehst seine B: **alle**
+  - F128 Du siehst den Polizisten von der Seite, sein Arm zeigt in deine Richtung. Du willst links : **alle**
+  - F129 Ein senkrecht erhobener Arm des Polizisten bedeutet Halt für:: **alle**
+  - F130 Ein Pfiff des Polizisten bedeutet:: **alle**
+  - F131 Du hast ein Vorfahrtsschild, für die Straßenbahn steht ein Vorfahrt-gewähren-Schild. Wer h: **alle**
+  - F132 Ein Krankenwagen kommt nur mit Blaulicht, ohne Sirene. Musst du ihm Vorfahrt gewähren?: **alle**
+
+## Modul 3: Kreisverkehr, Überholen & Ampeln → neues Modul 5
+
+- L42296 Überblick & Lernziele: **gestrichen** (ganze Lektion)
+- L42297 Einfahren in den Kreisverkehr:
+  - 1 Wer hat Vorfahrt?: **alle**
+  - 2 Blinken beim Einfahren: **alle**
+  - 3 Rechts einordnen: **alle**
+  - 4 Räder beim Warten einschlagen: **gestrichen**
+  - 5 Kreisverkehr nur mit Schild: **alle**
+  - 6 Leitinsel, die wie ein Kreisverkehr aussieht: **alle**
+- L42304 Im Kreisverkehr fahren und verlassen:
+  - 1 Rechts blinken beim Verlassen: **alle**
+  - 2 Vorfahrt für Querende: **alle**
+  - 3 Auch beim Verlassen rechts einordnen: **alle**
+  - 4 Zweispuriger Kreisverkehr: **angepasst**
+  - 5 Außerorts zweispurig zum Kreisverkehr: **alle**
+- L42305 Kreuzen (Begegnungsverkehr):
+  - 1 Grundregel: rechts kreuzen: **alle**
+  - 2 Enge Fahrbahn: **alle**
+  - 3 Hindernis blockiert die eigene Spur: **alle**
+  - 4 Schienenfahrzeuge kreuzen: **alle**
+  - 5 Zwei Linksabbieger begegnen sich: **alle**
+  - 6 Engstelle ohne Schild: **alle**
+  - 7 Ausweichen beim Kreuzen: **alle**
+- L42306 Überholen: Grundregeln:
+  - 1 Grundsätzlich links überholen: **alle**
+  - 2 Ausnahmen für rechtsseitiges Überholen: **alle**
+  - 3 Vor dem Überholen prüfen: **alle**
+  - 4 Ablauf des Überholvorgangs: **alle**
+  - 5 Pflichten des Überholten: **alle**
+  - 6 Blinkerpflicht bei jedem Ausscheren: **alle**
+  - 7 Überholen auf Kreuzungen erlaubt: **alle**
+  - 8 Darum beim Rechtsabbiegen nach rechts schauen: **alle**
+  - 9 Stehendes Fahrzeug ist ein Hindernis: **alle**
+  - 10 Was zählt als Überholen: **alle**
+  - 11 Auch bei freier Spurwahl ein Überholen: **alle**
+  - 12 Platz zum Überholen: **alle**
+  - 13 Nicht sofort wieder rechts: **alle**
+- L42307 Überholverbote:
+  - 1 Bei Gegenverkehr oder durchgezogener Linie: **alle**
+  - 2 An Kreuzungen und Bahnübergängen: **alle**
+  - 3 An Kuppen und in Kurven: **alle**
+  - 4 Vor Fußgänger- und Radüberwegen: **alle**
+  - 5 Schild C35: **alle**
+  - 6 Kein Überholen des Überholers: **alle**
+- L42308 Rechtsabbiegen:
+  - 1 Rechtsabbiegen: **alle**
+  - 2 Spur richtig wählen: **alle**
+  - 3 Vorfahrt für Fußgänger und Radfahrer: **alle**
+  - 4 Schulterblick: **alle**
+  - 5 Radweg: Blick in den rechten Spiegel: **alle**
+  - 6 Andere Spur nur mit Pfeilen: **alle**
+- L42309 Linksabbiegen:
+  - 1 Linksabbiegen: **alle**
+  - 2 Auf der Einbahnstraße: **alle**
+  - 3 Vorfahrt für Radfahrer aus beiden Richtungen: **alle**
+  - 4 Vorfahrt beim Abbiegen: **alle**
+  - 5 Weit nach links: **alle**
+- L42310 Fahrbewegungen und Reißverschlussverfahren:
+  - 1 Was zählt als Fahrbewegung?: **alle**
+  - 2 Reißverschlussverfahren: **alle**
+  - 3 Ausnahme Linienbus: **alle**
+  - 4 Ausnahme Radweg-Ende: **alle**
+  - 5 Linksabbiegen: Gegenverkehr durchlassen: **alle**
+  - 6 Reißverschluss von beiden Seiten: **alle**
+  - 7 Nur ohne Unfallgefahr: **alle**
+- L42317 Ampeln & Lichtzeichen:
+  - 0 (Einleitung): **angepasst**
+  - 1 Wo die gültige Ampel steht: **alle**
+  - 2 Von Rot direkt auf Grün: **alle**
+  - 3 Gelb heißt anhalten: **alle**
+  - 4 Pfeilampeln: **alle**
+  - 5 Grüner Zusatzpfeil neben Rot: **alle**
+  - 6 Räumungspfeil: **angepasst**
+  - 7 Radfahrer bei Rot: **alle**
+  - 8 Ampel mit vier Pfeilen: **alle**
+  - 9 Gelbes Blinklicht oder Ampel aus: **alle**
+  - 10 Busampeln: **alle**
+  - 11 Fußgängerampel als Frühwarnung: **alle**
+  - 12 Abstand an der roten Ampel: **alle**
+  - 13 Bahnübergang: Blinklicht vor Schranke: **alle**
+  - 14 Wo du bei Rot stehst: **alle**
+  - 15 Busampel: blinkender Kreis: **alle**
+- L42318 Dein Platz auf der Fahrbahn:
+  - 1 Rechts, aber mit Verstand: **gestrichen**
+  - 2 Eis, Schäden, Parker: **alle**
+  - 3 Hindernisse umfahren: **alle**
+  - 4 Wo kein Rechtsfahrgebot gilt: **alle**
+  - 5 Freie Wahl des Fahrstreifens: **alle**
+  - 6 Rechts vorbeifahren ist dort kein Überholen: **angepasst**
+  - 7 Spurwechsel heißt keine Vorfahrt: **alle**
+- L42319 Vertiefung: Fahrbahn, Überholen & Abbiegen:
+  - 1 Mehrere getrennte Fahrbahnen: **alle**
+  - 2 Leitinseln rechts umfahren: **alle**
+  - 3 Nach dem Einordnen wieder rechts: **alle**
+  - 4 Reihenverkehr: **alle**
+  - 5 Manöver nur ohne Gefahr: **alle**
+  - 6 Reißverschluss, wenn beide Spuren stauen: **alle**
+  - 7 Überholverbot beim Überholten: **alle**
+  - 8 Hintermann zuerst: **alle**
+  - 9 Schienenfahrzeuge überholen: **alle**
+  - 10 Vor dem Überweg zählt es als Überholen: **alle**
+  - 11 Wiedereinordnen nicht immer nötig: **alle**
+  - 12 Seitenstreifen beim Überholen: **alle**
+  - 13 Der Überholte weicht aus: **alle**
+  - 14 Armzeichen: **alle**
+  - 15 Linksabbiegen bei Fahrstreifen: **alle**
+  - 16 Haltelinie: **alle**
+  - 17 Fußgängerampel: **alle**
+  - 18 Ampel mit Fahrradsymbol: **alle**
+- L42320 Merksätze: **gestrichen** (ganze Lektion)
+- Quiz 42321:
+  - F133 Dein Vordermann überholt gerade ein Auto. Darfst du ihn gleichzeitig überholen?: **alle**
+  - F134 Auf welcher Seite überholst du eine fahrende Straßenbahn normalerweise?: **alle**
+  - F135 Wo hältst du bei Rot, wenn es keine Haltelinie gibt?: **alle**
+  - F136 Beim Einfahren in einen Kreisverkehr hat Vorfahrt:: **alle**
+  - F137 Beim Einfahren in den Kreisverkehr musst du blinken:: **alle**
+  - F138 Beim Verlassen des Kreisverkehrs musst du:: **alle**
+  - F139 Im Kreisverkehr solltest du fahren:: **alle**
+  - F140 Beim Rechtsabbiegen an einer Kreuzung gilt:: **alle**
+  - F141 Beim Linksabbiegen bei Gegenverkehr solltest du:: **alle**
+  - F142 Ein Fußgänger überquert die Straße, in die du einbiegen willst. Du musst:: **alle**
+  - F143 Grundsätzlich wird überholt:: **alle**
+  - F144 Rechtsseitiges Überholen ist ausnahmsweise erlaubt, wenn:: **alle**
+  - F145 Linksüberholen ist verboten:: **alle**
+  - F146 Ein Schild C35 verbietet:: **alle**
+  - F147 Das Reißverschlussverfahren gilt:: **alle**
+  - F148 Beim Kreuzen mit entgegenkommendem Verkehr gilt:: **alle**
+  - F149 Neben der roten Ampel leuchtet ein grüner Zusatzpfeil nach rechts. Du:: **alle**
+  - F150 Der Räumungspfeil zeigt noch Grün, deine eigene Hauptampel ist aber schon Rot. Darfst du i: **alle**
+  - F151 In Flandern steht eine Ampel nur links der Fahrbahn und zeigt Rot, rechts steht ein B1-Sch: **alle**
+  - F152 In der Wallonie steht eine Ampel nur links der Fahrbahn und zeigt Rot. Gilt sie für dich?: **alle**
+  - F153 Welche Ampelphase gibt es in Belgien nicht?: **alle**
+  - F154 Wie viel Abstand hältst du an der roten Ampel zum Vordermann?: **alle**
+  - F155 Am Bahnübergang geht die Schranke hoch, das rote Licht blinkt aber noch. Du:: **alle**
+  - F156 Ein Fahrradsymbol an der Ampel ist von vier Pfeilen umgeben. Das bedeutet:: **alle**
+  - F157 Darf ein Speed Pedelec bei Rot dem gelb blinkenden Fahrradpfeil folgen?: **alle**
+  - F158 Eine runde Verkehrsinsel mit Baum, aber ohne Schild D5. Du willst links abbiegen. Wie blin: **alle**
+  - F159 Im zweispurigen Kreisverkehr fährst du auf dem inneren Ring. Deine Ausfahrt kommt. Du:: **alle**
+  - F160 Außerorts führen zwei Spuren je Richtung auf einen einspurigen Kreisverkehr zu. Welche Spu: **alle**
+  - F161 Du biegst rechts ab, hinter dir kommt ein Radfahrer auf einem Radweg. Wer hat Vorfahrt?: **alle**
+  - F162 Innerorts, zwei Spuren je Richtung, du fährst rechts und bist ohne Tempoüberschreitung sch: **alle**
+  - F163 Wie weit rechts fährst du normalerweise?: **alle**
+  - F164 Darfst du auf einer Kreuzung überholen, auf der du durch eine Vorfahrtsstraße Vorfahrt has: **alle**
+  - F165 Ein Schulbus steht mit Warnblinker vor einem Zebrastreifen. Darfst du vorbeifahren?: **alle**
+  - F166 Auf einer Straße mit zwei Spuren je Richtung überholst du einen Lkw, der gerade einen Pkw : **alle**
+  - F167 Eine Ampel in Eupen steht nur links der Fahrbahn und zeigt Rot. Gilt sie für dich?: **alle**
+
+## Modul 4: Geschwindigkeit & Abstand → neues Modul 6
+
+- L42329 Überblick & Lernziele: **gestrichen** (ganze Lektion)
+- L42330 Tempolimits in Belgien:
+  - 1 Autobahn: **angepasst**
+  - 2 Außerorts: **alle**
+  - 3 Innerorts: **alle**
+  - 4 Zone 30 & verkehrsberuhigte Bereiche: **alle**
+  - 5 120 km/h außerorts: baulich getrennte Fahrbahnen: **alle**
+  - 6 Schwere Fahrzeuge: **gestrichen**
+  - 7 Schild C43: **alle**
+  - 8 Zonale Tempolimits: **alle**
+  - 9 Tempo 30 innerorts per Zusatzschild: **alle**
+  - 10 Leuchtende Tempoanzeige: **alle**
+  - 11 Wiederholung 50: **alle**
+- L42331 Situativ anpassen: die relative Geschwindigkeit:
+  - 1 Immer bremsbereit auf Sicht: **alle**
+  - 2 Vorhersehbare Hindernisse: **alle**
+  - 3 Weder zu schnell noch grundlos zu langsam: **alle**
+  - 4 Tiere auf der Straße: **alle**
+  - 5 Nebelbank oder Stauende: leicht bremsen: **angepasst**
+  - 6 Was du beeinflussen kannst: **alle**
+- L42338 Reaktionszeit und Anhalteweg:
+  - 1 Reaktionsweg: **alle**
+  - 2 Reaktionsweg nach Tempo: **alle**
+  - 3 Verlängerte Reaktionszeit: **alle**
+  - 4 Bremsweg: **alle**
+  - 5 Faustformel Anhalteweg: **alle**
+  - 6 Anhalteweg nach Tempo (trocken/nass): **alle**
+  - 7 Nässe verlängert den Bremsweg: **alle**
+  - 8 Faustformel bei Nässe: **alle**
+  - 9 Bremsen müssen voll wirken: **gestrichen**
+- L42351 Sicherheitsabstand:
+  - 1 2-Sekunden-Regel: **alle**
+  - 2 3 Sekunden bei schlechter Witterung: **alle**
+  - 3 Faustregel in Metern: halber Tacho: **alle**
+  - 4 Kolonnenabstand: **gestrichen**
+  - 5 Der Blickwinkel verengt sich mit dem Tempo: **alle**
+  - 6 2-Sekunden-Regel: eine Empfehlung: **gestrichen**
+- L42352 Sondergeschwindigkeiten:
+  - 1 Kleinkrafträder: **alle**
+  - 2 Abschleppen: **gestrichen**
+  - 3 Fahrradzonen & verkehrsberuhigte Bereiche: **alle**
+  - 4 Spikesreifen: **gestrichen**
+  - 5 Fahrbahnanhebungen: **alle**
+- L42359 Schilder, Kreuzungen und Zonen:
+  - 1 Jede Kreuzung hebt ein Schild auf: **alle**
+  - 2 Zonen haben Anfang und Ende: **alle**
+  - 3 Durchgestrichenes 70er-Schild: **alle**
+  - 4 Auch eine Autobahnauffahrt ist eine Kreuzung: **alle**
+  - 5 C43 über dem Ortsschild: **alle**
+- L42360 Tempo: weitere Regeln:
+  - 1 Anhalteweg setzt sich zusammen: **alle**
+  - 2 Nicht grundlos bremsen: **alle**
+  - 3 Gefahrenschild heißt langsamer: **alle**
+  - 4 Schulumgebung: **alle**
+  - 5 Kernfahrbahn außerorts: **alle**
+  - 6 Busse in der Wallonie: **gestrichen**
+  - 7 Radwege und gemeinsame Wege: **alle**
+  - 8 C43 in einer Zone: **alle**
+  - 9 C46 und Autobahnauffahrt: **alle**
+  - 10 Ortsschild F43: **alle**
+  - 11 Zusatzschild Wiederholung: **alle**
+  - 12 Abstand schwerer Fahrzeuge: **gestrichen**
+- L42361 Merksätze: **gestrichen** (ganze Lektion)
+- Quiz 42362:
+  - F168 Welches Tempo gilt auf einer Kernfahrbahn außerhalb geschlossener Ortschaften?: **alle**
+  - F169 In einer Zone 30 steht ein einzelnes Schild „50“. Wie lange gilt es?: **alle**
+  - F170 Auf der Autobahn gilt für PKW ein Tempolimit von:: **angepasst**
+  - F171 Linienbusse und Fahrzeuge über 3,5 t dürfen auf der Autobahn höchstens fahren:: **gestrichen**
+  - F172 Innerorts gilt in Flandern und der Wallonie standardmäßig:: **alle**
+  - F173 In Brüssel gilt innerorts standardmäßig:: **alle**
+  - F174 Der empfohlene Sicherheitsabstand entspricht mindestens:: **alle**
+  - F175 Auf nasser Fahrbahn verändert sich der Bremsweg gegenüber trockener Straße:: **alle**
+  - F176 Außerhalb geschlossener Ortschaften müssen Fahrzeuge über 7,5 t untereinander mindestens A: **gestrichen**
+  - F177 Die Faustformel für den Anhalteweg auf trockener Fahrbahn lautet:: **alle**
+  - F178 Bei 90 km/h beträgt der Reaktionsweg (1 Sekunde) etwa:: **alle**
+  - F179 Mit steigender Geschwindigkeit verändert sich der wahrgenommene Blickwinkel:: **alle**
+  - F180 Ein Kleinkraftrad der Klasse B darf höchstens fahren:: **alle**
+  - F181 Am Straßenrand spielende Kinder mit einem Ball gelten verkehrsrechtlich als:: **alle**
+  - F182 Ein Schild C43 mit abweichendem Tempo gilt in der Regel:: **alle**
+  - F183 Bei schlechter Witterung solltest du den Sicherheitsabstand:: **alle**
+  - F184 Welchen Sicherheitsabstand in Metern solltest du bei 90 km/h mindestens einhalten?: **alle**
+  - F185 Die leuchtende 30er-Anzeige vor einer Schule ist ausgeschaltet. Es gilt:: **alle**
+  - F186 Du fährst in einer Zone 30 über eine Kreuzung. Danach gilt:: **alle**
+  - F187 Ein einzelnes Schild „30 km/h“ (keine Zone) steht vor einer Kreuzung. Wie lange gilt es?: **alle**
+  - F188 Außerorts in der Wallonie folgt auf ein 70er-Schild ein durchgestrichenes 70er-Schild. Wie: **alle**
+  - F189 Eine Straße außerorts hat zwei Spuren je Richtung und einen baulichen Mittelstreifen, aber: **alle**
+
+## Modul 5: Fußgänger, Radfahrer & Schulen → neues Modul 7
+
+- L42364 Überblick & Lernziele: **gestrichen** (ganze Lektion)
+- L42365 Verhalten gegenüber Fußgängern:
+  - 1 Seitlicher Sicherheitsabstand: **alle**
+  - 2 Erhöhte Vorsicht: **alle**
+  - 3 Blinde mit weißem Stock: **alle**
+  - 4 Ausweichen um Hindernisse: **alle**
+  - 5 Spielende Kinder als Hindernis: **alle**
+  - 6 Fußgänger ohne Zebrastreifen: **alle**
+  - 7 Schrittgeschwindigkeit, wenn der Abstand fehlt: **alle**
+  - 8 Weißer oder gelber Stock: **alle**
+  - 9 Wo Fußgänger gehen müssen: **alle**
+  - 10 Fußgänger beim Überqueren: **alle**
+- L42372 Fußgängerüberwege:
+  - 1 Vorfahrt für Fußgänger: **angepasst**
+  - 2 Überholverbot: **alle**
+  - 3 Gemäßigte Geschwindigkeit: **alle**
+  - 4 Halten vor dem Überweg: **alle**
+  - 5 Ein Zebrastreifen in der Nähe muss genutzt werden: **alle**
+  - 6 Blindenstock im Detail: **alle**
+  - 7 Schutzinsel: auch die andere Seite prüfen: **alle**
+- L42373 Rad- und Mofafahrer:
+  - 1 Seitlicher Sicherheitsabstand: **alle**
+  - 2 Erhöhte Vorsicht bei Kindern und älteren Radfahrern: **alle**
+  - 3 Radrennen-Gruppen: **alle**
+  - 4 E-Scooter & Fortbewegungsgeräte: **alle**
+  - 5 Rad-/Mofa-Überwege: **alle**
+  - 6 Zweirichtungsverkehr an Kreuzungen: **alle**
+  - 7 Radüberweg wie Zebrastreifen: **alle**
+  - 8 Wo Radfahrer fahren dürfen: **alle**
+  - 9 Mehr Platz für Fahrräder: **alle**
+- L42380 Schulen, Spielstraßen & verkehrsberuhigte Bereiche:
+  - 1 Schrittgeschwindigkeit: **alle**
+  - 2 Vorrang für Fußgänger: **alle**
+  - 3 Schülertransport: **alle**
+  - 4 Erkennungsschilder: **alle**
+  - 5 Ein- und aussteigende Fahrgäste: **alle**
+- L42381 Geschützte Gruppen im Straßenverkehr:
+  - 1 Gruppen dürfen nicht getrennt werden: **alle**
+  - 2 Fußgängergruppen allgemein: **alle**
+  - 3 Weitere Gruppen: **alle**
+  - 4 Haltestelle ohne Insel: **alle**
+- L42382 Pflichten der Fußgänger und Radfahrer:
+  - 1 Wo Fußgänger gehen: **alle**
+  - 2 Fußgänger auf dem Radweg: **alle**
+  - 3 So überqueren Fußgänger: **alle**
+  - 4 Kein Licht, keine Weste: **alle**
+  - 5 Wenn der Seitenabstand nicht reicht: **alle**
+  - 6 Blinde und Sehbehinderte: **alle**
+  - 7 Fahrbahnanhebung ist kein Zebrastreifen: **alle**
+  - 8 Am Radüberweg: **alle**
+  - 9 Radfahrer und Radweg: **alle**
+  - 10 Radfahrer ohne Radweg: **alle**
+  - 11 Was Radfahrern verboten ist: **alle**
+  - 12 Fortbewegungsgeräte: **alle**
+  - 13 Bus an der Haltestelle: **alle**
+  - 14 Weitere geschützte Gruppen: **alle**
+  - 15 Verkehrsberuhigter Bereich: beide Seiten: **alle**
+  - 16 Schulweg: die kritischen Zeiten: **alle**
+- L42383 Merksätze: **gestrichen** (ganze Lektion)
+- Quiz 42384:
+  - F190 Es gibt weder Bürgersteig noch Seitenstreifen. Wo gehen Fußgänger?: **alle**
+  - F191 Du kannst den Seitenabstand zu einem Fußgänger nicht einhalten. Du:: **alle**
+  - F192 Müssen Fußgänger nachts eine Warnweste tragen?: **alle**
+  - F193 Der seitliche Sicherheitsabstand zu Fußgängern beträgt innerorts mindestens:: **alle**
+  - F194 Außerorts beträgt der seitliche Sicherheitsabstand zu Fußgängern mindestens:: **alle**
+  - F195 Eine blinde Person streckt ihren weißen Stock aus. Du musst:: **alle**
+  - F196 Überholen vor einem Fußgängerüberweg ist erlaubt, wenn der Vordermann dort anhält:: **alle**
+  - F197 In einer Spielstraße darfst du fahren mit:: **alle**
+  - F198 In verkehrsberuhigten Bereichen dürfen Fußgänger:: **alle**
+  - F199 Ein Schulbus schaltet beim Halten alle Blinker gleichzeitig ein. Du solltest:: **alle**
+  - F200 Wie viel Freiraum musst du Fußgängern lassen, die durch ein Hindernis auf die Fahrbahn ged: **alle**
+  - F201 Liegt ein Zebrastreifen in weniger als 20 m Entfernung, müssen Fußgänger:: **alle**
+  - F202 Der seitliche Sicherheitsabstand zu Radfahrern beträgt außerorts mindestens:: **alle**
+  - F203 Ein Rad-/Mofa-Überweg wird markiert durch:: **alle**
+  - F204 Nähert sich eine Gruppe von Radrennen-Teilnehmern, musst du:: **alle**
+  - F205 Marschierende Gruppen wie Schulklassen oder Militärkolonnen dürfen von Fahrzeugen:: **alle**
+  - F206 Blindenführhunde queren die Fahrbahn typischerweise erst, wenn:: **alle**
+  - F207 Nachts fährst du einen Fußgänger an, der weder Licht noch Warnweste trug. Wer ist schuld?: **alle**
+
+## Modul 6: Parken & Halten → neues Modul 8
+
+- L42392 Überblick & Lernziele: **gestrichen** (ganze Lektion)
+- L42393 Halten, Parken und Anhalten im Unterschied:
+  - 1 Halten: **alle**
+  - 2 Parken: **angepasst**
+  - 3 Anhalten: **alle**
+  - 4 Warnblinkanlage beim Halten/Parken: **alle**
+  - 5 Wie ausgerichtet wird: **alle**
+  - 6 Nur eine Fahrzeugreihe: **alle**
+  - 7 Wo genau abstellen? Die Reihenfolge: **alle**
+  - 8 Erhöhter Seitenstreifen: **alle**
+  - 9 Nicht quer, sondern längs: **gestrichen**
+  - 10 Motorräder und Mofas: **alle**
+  - 11 Halten kennt keine Zeitgrenze: **alle**
+  - 12 Halten oder parken: nicht dasselbe Abstellen: **alle**
+  - 13 Versetzen auf Anweisung: **alle**
+  - 14 Motor aus beim Halten: **alle**
+  - 15 Fahrräder und Mofas abstellen: **alle**
+- L42412 Wo Halten und Parken verboten sind:
+  - 1 Kreuzungsnähe: **alle**
+  - 2 Fußgängerüberwege & Radwege: **alle**
+  - 3 Auf Bürgersteigen: **alle**
+  - 4 Autobahn & Kraftfahrstraße: **alle**
+  - 5 Schild: Parken verboten (E1): **alle**
+  - 6 Schild: Halten und Parken verboten (E3): **alle**
+  - 7 Bahnübergänge & Leitinseln: **alle**
+  - 8 In Unterführungen und Tunneln: **alle**
+  - 9 Ampeln und Schilder: 20 m: **alle**
+  - 10 Wo ein Radweg auf die Fahrbahn führt: **alle**
+  - 11 Zebrastreifen: nur davor: **alle**
+  - 12 Sonderspur und Schachbrettmuster: **alle**
+  - 13 Fußgänger- und verkehrsberuhigte Bereiche: **alle**
+  - 14 Nicht zum Verkauf ausstellen: **alle**
+- L42413 Weitere Park- und Halteverbote:
+  - 1 Mindestabstand zu anderen Fahrzeugen: **alle**
+  - 2 Private Einfahrten: **alle**
+  - 3 Bus- und Straßenbahnhaltestellen: **alle**
+  - 4 Zugang versperren: **alle**
+  - 5 Außerorts auf Vorfahrtsstraßen: **alle**
+  - 6 Busspur: Halten und Parken verboten: **alle**
+  - 7 Linie zwischen den Spuren heißt Parkverbot: **alle**
+  - 8 Gelb gestrichelter Bordstein: **angepasst**
+  - 9 Parken gegen die Fahrtrichtung: **alle**
+  - 10 Halten erlaubt, Parken verboten: **alle**
+  - 11 Mittelstreifen: **alle**
+  - 12 Reservierte Parkplätze: **alle**
+  - 13 Drei Fahrbahnen, zwei Fahrbahnen: **alle**
+  - 14 Lkw über 7,5 t: **gestrichen**
+- L42432 Parkscheibe & Behindertenparkplätze:
+  - 1 Blaue Zone: **gestrichen**
+  - 2 Behindertenparkplatz: **alle**
+  - 3 Abwechselndes Parken: **alle**
+  - 4 Parkscheibe richtig einstellen: **gestrichen**
+  - 5 Wann keine Parkscheibe nötig ist: **gestrichen**
+  - 6 Die blaue Zone gilt werktags: **gestrichen**
+  - 7 Kurz vor der vollen Stunde: **gestrichen**
+  - 8 Wechselparken im ganzen Ort (E11): **alle**
+  - 9 Parkscheibe auch bei Zusatzschild: **gestrichen**
+  - 10 Scheibe nicht schummeln: **gestrichen**
+  - 11 Ohne Parkscheibe: **gestrichen**
+  - 12 Wechselparken im Detail: **alle**
+- L42433 Parkzeitbegrenzungen & Gebühren:
+  - 1 Langzeitparken: **alle**
+  - 2 Gebührenpflichtiges Parken: **gestrichen**
+  - 3 Bezahlen per SMS: **alle**
+  - 4 Anlieger- und Sharing-Parkplätze: **alle**
+  - 5 Per SMS bezahlen: **alle**
+- L42434 Fahrzeug ordnungsgemäß abstellen: **gestrichen** (ganze Lektion)
+- L42435 Halten und Parken: weitere Regeln:
+  - 1 Brücken, Kuppen, Kurven: **alle**
+  - 2 Mehrere Fahrbahnen: **alle**
+  - 3 Fußgängerbereich: **alle**
+  - 4 Laden ist Parken: **gestrichen**
+  - 5 Versetzen auf Aufforderung: **alle**
+  - 6 Kein Verkauf am Straßenrand: **alle**
+  - 7 Wie lange E1 und E3 gelten: **alle**
+  - 8 Aufschriften auf Parkschildern: **alle**
+  - 9 Parkscheibe auch außerhalb der blauen Zone: **alle**
+  - 10 Parkscheibe nicht nachstellen: **alle**
+  - 11 Für wen die Parkscheibe gilt: **alle**
+  - 12 Behindertenkarte: **gestrichen**
+  - 13 Wechselparken: Sonderfälle: **alle**
+  - 14 Licht beim Parken im Dunkeln: **gestrichen**
+  - 15 Parkleuchte: **gestrichen**
+  - 16 Keile und Zweiräder: **gestrichen**
+  - 17 Ladung verloren: **gestrichen**
+  - 18 Motor aus: **alle**
+- L42436 Merksätze: **gestrichen** (ganze Lektion)
+- Quiz 42437:
+  - F208 Dein Elektroauto lädt an einer Ladesäule, du sitzt im Auto. Das ist:: **gestrichen**
+  - F209 Du parkst nachts innerorts in einer gut beleuchteten Straße, dein Auto ist auf 100 m sicht: **gestrichen**
+  - F210 Darfst du unter einer Brücke auf der Fahrbahn parken?: **alle**
+  - F211 Der Unterschied zwischen Halten und Parken ist:: **alle**
+  - F212 Vor einer Kreuzung ist Halten und Parken verboten in einem Abstand von weniger als:: **alle**
+  - F213 Auf einem Behindertenparkplatz ohne Behindertenausweis darfst du:: **alle**
+  - F214 In einer Zone mit Parkscheibe musst du einstellen:: **gestrichen**
+  - F215 Auf einem Radweg zu parken ist:: **alle**
+  - F216 Auf der Autobahn darfst du halten oder parken:: **alle**
+  - F217 Der Seitenwechsel beim abwechselnden Parken (E5/E7) erfolgt:: **alle**
+  - F218 Weniger als 1 Meter vor oder hinter einem anderen Fahrzeug zu parken ist:: **alle**
+  - F219 In der Nähe einer Bushaltestelle darfst du nicht parken innerhalb von:: **alle**
+  - F220 Betriebsunfähige Fahrzeuge dürfen höchstens ununterbrochen auf der Straße stehen:: **alle**
+  - F221 Die blaue Zone mit Parkscheibenpflicht gilt an Werktagen zwischen:: **gestrichen**
+  - F222 Zählt Samstag in der blauen Zone als Werktag?: **gestrichen**
+  - F223 Halten und Parken „in zweiter Reihe“ neben einem anderen Fahrzeug ist:: **alle**
+  - F224 Vor dem Verlassen deines Fahrzeugs solltest du:: **gestrichen**
+  - F225 Du kommst um genau 10:00 Uhr in der blauen Zone an. Die Parkscheibe stellst du auf:: **gestrichen**
+  - F226 Darfst du auf einer Busspur kurz halten, um jemanden aussteigen zu lassen?: **alle**
+  - F227 Der Bordstein ist gelb gestrichelt, vor dir kommt eine Kreuzung. Darfst du einen Mitfahrer: **alle**
+  - F228 Wo darfst du links, also gegen die Fahrtrichtung, parken?: **alle**
+  - F229 Eine gestrichelte Mittellinie trennt die Fahrspuren. Darfst du am rechten Rand parken?: **alle**
+  - F230 Du parkst auf einem ebenerdigen Seitenstreifen, den Fußgänger benutzen müssen. Wie viel Pl: **alle**
+  - F231 Vor einem Schild ist Halten und Parken auf 20 m verboten — außer:: **alle**
+  - F232 Wann musst du beim Wechselparken die Straßenseite wechseln?: **alle**
+  - F233 Du lädst dein Elektroauto an einer öffentlichen Ladesäule. Ist das Halten oder Parken?: **gestrichen**
+  - F234 Nachts parkst du außerorts auf dem Seitenstreifen ohne Straßenbeleuchtung. Standlicht nöti: **gestrichen**
+
+## Modul 7: Autobahn & Schnellstraßen → neues Modul 9
+
+- L42445 Überblick & Lernziele: **gestrichen** (ganze Lektion)
+- L42446 Auffahren & Einfädeln:
+  - 1 Auf Verkehrstempo bringen: **alle**
+  - 2 Reißverschlussverfahren: **alle**
+  - 3 Kein Vorfahrtsanspruch an Auffahrten: **alle**
+  - 4 Beginn und Ende der Autobahn: **alle**
+- L42453 Verbote auf der Autobahn:
+  - 1 Wenden & Rückwärtsfahren: **alle**
+  - 2 Halten & Parken: **alle**
+  - 3 Wer die Autobahn nicht nutzen darf: **alle**
+  - 4 Keine Umzüge und Verkaufsangebote: **alle**
+  - 5 Querverbindungen tabu: **alle**
+- L42454 Tempolimits auf der Autobahn:
+  - 1 Mindesttempo 70 km/h: **alle**
+  - 2 Höchsttempo 120 km/h: **angepasst**
+  - 3 Reisebusse: **gestrichen**
+  - 4 Bedarfsumleitung: **alle**
+  - 5 C43 bis zur nächsten Auffahrt: **alle**
+- L42455 Kraftfahrstraßen:
+  - 1 Beginn und Ende: **alle**
+  - 2 Wer fahren darf: **alle**
+  - 3 Kein Mindesttempo: **alle**
+  - 4 Tempolimits: **alle**
+  - 5 Dieselben Verbote wie auf der Autobahn: **alle**
+- L42456 Fahrstreifensignale & Stoßzeitspur:
+  - 0 (Einleitung): **angepasst**
+  - 1 Rotes Kreuz: **alle**
+  - 2 Gelber blinkender Pfeil: **alle**
+  - 3 Grüner Pfeil: **alle**
+  - 4 Stoßzeitspur mit rotem Kreuz: **alle**
+  - 5 Stoßzeitspur freigegeben: **alle**
+  - 6 Stoßzeitspur bei rotem Kreuz: **alle**
+  - 7 Orange Vorwegweiser: **alle**
+- L42457 Liegenbleiben: Warnweste und Sicherheit:
+  - 1 Warnwestenpflicht für den Fahrer: **alle**
+  - 2 Empfehlung für Mitfahrer: **angepasst**
+- L42458 Autobahn: richtig verhalten:
+  - 1 Was eine Autobahn ausmacht: **alle**
+  - 2 Immer rechts: **alle**
+  - 3 Auffahren nicht erzwingen: **alle**
+  - 4 Ausfahrt verpasst: **alle**
+  - 5 Wofür der Pannenstreifen da ist: **alle**
+  - 6 Bei einer Panne: **alle**
+  - 7 Stauende: **alle**
+  - 8 Stoßzeitspur mit rotem Kreuz: **alle**
+  - 9 Fahrspursignale über Sonderspuren: **alle**
+  - 10 Kraftfahrstraße: gleiche Verbote: **alle**
+- L42459 Merksätze: **gestrichen** (ganze Lektion)
+- Quiz 42460:
+  - F235 Du hast deine Autobahnausfahrt verpasst. Du:: **alle**
+  - F236 Wofür darfst du den Pannenstreifen benutzen?: **alle**
+  - F237 Der Beschleunigungsstreifen dient dazu:: **alle**
+  - F238 Das Reißverschlussverfahren gilt an Autobahnauffahrten:: **alle**
+  - F239 Wenden ist auf der Autobahn:: **alle**
+  - F240 Halten auf der Autobahn ist erlaubt:: **alle**
+  - F241 Auf die Autobahn dürfen nicht:: **alle**
+  - F242 Das Mindesttempo auf der Autobahn beträgt:: **angepasst**
+  - F243 Das Schild C45 bedeutet:: **alle**
+  - F244 Schild F5 markiert:: **alle**
+  - F245 Auf Kraftfahrstraßen gilt im Gegensatz zur Autobahn:: **alle**
+  - F246 Reisebusse dürfen auf der Autobahn 100 km/h fahren, wenn:: **gestrichen**
+  - F247 Eine Bedarfsumleitung kommt zum Einsatz, wenn:: **alle**
+  - F248 Bleibt dein Fahrzeug an einer Halte-/Parkverbotsstelle auf der Autobahn liegen, musst du b: **alle**
+  - F249 Wer darf eine Kraftfahrstraße benutzen?: **alle**
+  - F250 Die Nutzung der Mittelstreifen-Querverbindungen auf der Autobahn ist:: **alle**
+  - F251 Über drei Fahrstreifen leuchten grüne Pfeile, über der Stoßzeitspur ein rotes Kreuz. Hast : **alle**
+  - F252 Alle vier Fahrstreifen einschließlich der Stoßzeitspur zeigen grüne Pfeile. Du fährst:: **alle**
+  - F253 Ein gelber blinkender Pfeil über deinem Fahrstreifen bedeutet:: **alle**
+
+## Modul 8: Fahrzeugtechnik & Ladung → neues Modul 2
+
+- L42468 Überblick & Lernziele: **gestrichen** (ganze Lektion)
+- L42475 Inspektion & Kontrollleuchten: **gestrichen** (ganze Lektion)
+- L42488 Reifen: **gestrichen** (ganze Lektion)
+- L42489 Bremsen: ABS & ESP: **gestrichen** (ganze Lektion)
+- L42490 Motor, Flüssigkeiten & Verschleißteile: **gestrichen** (ganze Lektion)
+- L42491 Beleuchtung & akustische Signale:
+  - 1 Wann Licht Pflicht ist: **alle**
+  - 2 Fernlicht abblenden: **alle**
+  - 3 Nebelscheinwerfer & Nebelschlussleuchte: **alle**
+  - 4 Blinkerpflicht: **alle**
+  - 5 Warnblinkanlage: **alle**
+  - 6 Hupe: **alle**
+  - 7 Blaues und gelbes Blinklicht: **alle**
+  - 8 Welche Lichter ein Pkw hat: **gestrichen**
+  - 9 Blinker zu schnell: **gestrichen**
+  - 10 Gelbe Rundumleuchten: **alle**
+- L42492 Klimaanlage & Wintercheck: **gestrichen** (ganze Lektion)
+- L42493 Kleine Zahlen, die oft gefragt werden:
+  - 0 (Einleitung): **angepasst**
+  - 1 Blinkfrequenz: **alle**
+  - 2 Breite des Fahrersitzes: **gestrichen**
+- L42500 Ladung:
+  - 0 (Einleitung): **angepasst**
+  - 1 Grundregeln für die Ladung: **alle**
+  - 2 Das Gesamtgewicht zählt: **alle**
+  - 3 Abmessungen: **alle**
+  - 4 Kennzeichnung bei Überstand: **alle**
+  - 5 Gefahrguttransport: **gestrichen**
+  - 6 Was die Ladung nicht darf: **alle**
+  - 7 Vorne nie, Fahrradträger 1 m: **gestrichen**
+  - 8 Gefahrgut-Tafel lesen: **gestrichen**
+  - 9 Ladung auf Zweirädern: **alle**
+- L42507 Gewichte & Anhänger: **gestrichen** (ganze Lektion)
+- L42508 Gurt und Kindersicherung im Detail: **gestrichen** (ganze Lektion)
+- L42509 Fahrzeuglichter im Detail:
+  - 0 (Einleitung): **angepasst**
+  - 1 Pflichtlichter am Auto: **gestrichen**
+  - 2 Abblend- und Fernlicht zusammen: **gestrichen**
+  - 3 Wann du noch abblendest: **alle**
+  - 4 Defekter Blinker: **gestrichen**
+  - 5 Gelbes Blinklicht: **alle**
+  - 6 Zweiräder und Traktoren: **gestrichen**
+- L42510 Technik: weitere Prüfungsdetails: **gestrichen** (ganze Lektion)
+- L42511 Ladung und Anhänger im Detail: **gestrichen** (ganze Lektion)
+- L42512 Merksätze: **gestrichen** (ganze Lektion)
+- Quiz 42513:
+  - F254 Wann darf der Fahrer ohne Gurt fahren?: **gestrichen**
+  - F255 Eine rückwärts gerichtete Babyschale auf dem Beifahrersitz ist erlaubt, wenn:: **gestrichen**
+  - F256 Die Blinker-Kontrollleuchte blinkt plötzlich viel schneller. Was ist los?: **angepasst**
+  - F257 Blauer Rauch aus dem Auspuff bedeutet:: **gestrichen**
+  - F258 Wie weit darf Ladung nach vorne über das Auto hinausragen?: **gestrichen**
+  - F259 Die gesetzliche Mindestprofiltiefe für Autoreifen beträgt:: **gestrichen**
+  - F260 Spikes-Reifen dürfen verwendet werden vom:: **gestrichen**
+  - F261 Bei Aquaplaning solltest du:: **gestrichen**
+  - F262 ABS dient dazu:: **alle**
+  - F263 Leuchtet eine rote Kontrollleuchte auf, solltest du:: **gestrichen**
+  - F264 Auf der Autobahn stellst du das Warndreieck auf in einer Entfernung von mindestens:: **gestrichen**
+  - F265 Die Warnweste muss angezogen werden:: **gestrichen**
+  - F266 ESP ist in der EU für Neuwagen Pflicht seit:: **gestrichen**
+  - F267 Ein „Rubbeln“ im Bremspedal bei Vollbremsung bedeutet:: **gestrichen**
+  - F268 Motoröl hat unter anderem die Aufgabe:: **gestrichen**
+  - F269 Vor jedem Abbiegen musst du:: **alle**
+  - F270 Die Warnblinkanlage darfst du benutzen:: **alle**
+  - F271 Die maximale Breite eines beladenen Fahrzeugs beträgt:: **gestrichen**
+  - F272 Du fährst mit einem Auto mit 2.800 kg HZG und einem Anhänger mit 1.000 kg HZG. Dein Anhäng: **gestrichen**
+  - F273 Wie oft muss der Fahrtrichtungsanzeiger pro Minute blinken?: **alle**
+  - F274 Die orangefarbene Kontrollleuchte der Nebelschlussleuchte leuchtet. Was bedeutet das?: **gestrichen**
+  - F275 Was bedeutet die Angabe DOT 2624 auf einem Reifen?: **alle**
+  - F276 Worauf deutet schwarzer Rauch aus dem Auspuff hin?: **gestrichen**
+  - F277 Mit welchem Fahrzeugteil hängt es zusammen, wenn der Wagen beim Bremsen zur Seite zieht?: **gestrichen**
+  - F278 Wann bist du von der Gurtpflicht befreit?: **gestrichen**
+
+## Modul 9: Führerschein, Alkohol & Sanktionen → neues Modul 12
+
+- L42521 Überblick & Lernziele: **gestrichen** (ganze Lektion)
+- L42522 Fahrzeugdokumente: **gestrichen** (ganze Lektion)
+- L42529 Führerschein & Fahrtauglichkeit:
+  - 0 (Einleitung): **angepasst**
+  - 1 Mindestalter für Führerschein B: **gestrichen**
+  - 2 Was Klasse B erlaubt: **gestrichen**
+  - 3 Führerschein ständig mitführen: **alle**
+  - 4 Körperliche Tauglichkeit: **alle**
+  - 5 Ablenkung am Steuer: **alle**
+  - 6 Gurtpflicht & Kindersicherheit: **gestrichen**
+  - 7 Führerschein aushändigen: **alle**
+  - 8 Atemtest: **alle**
+  - 9 Mindestalter im Überblick: **gestrichen**
+  - 10 Wer einen belgischen Führerschein braucht: **alle**
+  - 11 Verlust und Duplikat: **alle**
+  - 12 Führerschein abgeben: **alle**
+  - 13 Gurt: Kinder und Ausnahmen: **gestrichen**
+  - 14 Kontrollvignette und Kennzeichen: **gestrichen**
+- L42530 Provisorischer Führerschein & Begleiter: **gestrichen** (ganze Lektion)
+- L42537 Alkohol und Drogen am Steuer:
+  - 0 (Einleitung): **angepasst**
+  - 1 Wirkung von Alkohol: **alle**
+  - 2 Risikoerhöhung nach Promillewert: **alle**
+  - 3 Grenzwerte bei der Atemanalyse: **alle**
+  - 4 Folgen ab 0,22 mg/l: **alle**
+  - 5 Folgen ab 0,35 mg/l: **alle**
+  - 6 Drogentest: **alle**
+  - 7 Faustregel zum Abbau: **alle**
+  - 8 Atemtest und Atemanalyse: **alle**
+  - 9 Verweigern zählt als positiv: **alle**
+  - 10 Blutprobe als Gegenbeweis: **alle**
+  - 11 Auch der Begleiter wird kontrolliert: **gestrichen**
+  - 12 Medikamente: **alle**
+  - 13 Wer getestet werden darf: **alle**
+  - 14 Fahrverbot ist keine Strafe: **alle**
+  - 15 Rückfall und Alcolock: **alle**
+- L42544 Verstöße, Bußgelder & Führerscheinentzug:
+  - 1 Vier Schweregrade: **alle**
+  - 2 1. Grad · 64 €: **alle**
+  - 3 2. Grad · 128 €: **alle**
+  - 4 3. Grad · 191 €: **alle**
+  - 5 4. Grad · immer vor Gericht: **alle**
+  - 6 Nicht bezahlt?: **alle**
+  - 7 Zu schnell innerorts: **alle**
+  - 8 Zu schnell außerorts: **alle**
+  - 9 Ab wann der Führerschein weg ist: **alle**
+  - 10 Einzug oder Entzug?: **alle**
+  - 11 Fahranfänger: Entzug ist Pflicht: **gestrichen**
+  - 12 Radarwarner verboten: **alle**
+  - 13 Ab 2027 angekündigt: **gestrichen**
+  - 14 Vier Gruppen von Übertretungen: **alle**
+  - 15 Sofortige Geldbuße: wann nicht: **alle**
+  - 16 Einzug: 15 Tage: **alle**
+  - 17 Entzug: 8 Tage bis 5 Jahre: **alle**
+  - 18 Innerortstarif auch hier: **alle**
+- L42545 Vertiefung: Fahrzeug, Papiere und Führerschein:
+  - 1 Fahrzeuge der Klasse B: **gestrichen**
+  - 2 Eigengewicht: **gestrichen**
+  - 3 Zulassungsbescheinigung: **angepasst**
+  - 4 Kennzeichen: **alle**
+  - 5 Fahrzeugzustand: **alle**
+  - 6 Provisorischer Führerschein: **gestrichen**
+  - 7 Vermerk Automatik: **gestrichen**
+  - 8 Krankheit melden: **alle**
+  - 9 Verlust und Sonderfälle: **gestrichen**
+  - 10 Ablenkung: **alle**
+- L42546 Vertiefung: Sanktionen und Kontrollen:
+  - 1 Kommunale Verwaltungsstrafe: **alle**
+  - 2 Sofortzahlung: wann nicht: **alle**
+  - 3 Sofortiger Einzug: **alle**
+  - 4 Entzug durch den Richter: **alle**
+  - 5 Weitere Gründe für den Entzug: **alle**
+  - 6 Fahranfänger: **alle**
+  - 7 Fahrverbot oder Entzug: **alle**
+  - 8 Wer zum Atemtest muss: **alle**
+  - 9 Betrunken ohne Messwert: **alle**
+  - 10 Verweigerung und Alcolock: **alle**
+  - 11 Drogen: **alle**
+  - 12 Alkohol im Körper: **alle**
+- L42547 Merksätze: **gestrichen** (ganze Lektion)
+- Quiz 42548:
+  - F279 Du hast ein Fahrverbot von einigen Stunden nach einem Alkoholtest. Darfst du Rad fahren?: **alle**
+  - F280 Beim Gebrauchtwagenkauf muss der Verkäufer übergeben:: **gestrichen**
+  - F281 Das Mindestalter für den regulären Führerschein B beträgt:: **gestrichen**
+  - F282 Mit Klasse B darf ein Anhänger bis 750 kg angekuppelt werden:: **gestrichen**
+  - F283 Ein Handy darfst du während der Fahrt benutzen:: **alle**
+  - F284 0,35 mg/l Atemluft entsprechen einem Promillewert von:: **alle**
+  - F285 Wie lange dauert das Fahrverbot nach einem positiven Alkoholtest seit der Neuregelung?: **alle**
+  - F286 Wie viel Alkohol baut der Körper im Schnitt pro Stunde ab?: **alle**
+  - F287 Mit Klasse B beträgt die maximale Anzahl von Fahrgästen neben dem Fahrer:: **gestrichen**
+  - F288 Wer ist beim begleiteten Fahren der verantwortliche Fahrzeugführer?: **gestrichen**
+  - F289 Wie viele Kilometer müssen beim freien Weg vor der praktischen Prüfung mindestens gefahren: **gestrichen**
+  - F290 Wann müssen beim freien Weg das E-Learning und die Übungsphase erfolgen?: **gestrichen**
+  - F291 Wo darfst du mit dem provisorischen Führerschein fahren?: **gestrichen**
+  - F292 Telefonieren mit Freisprecheinrichtung während der Fahrt ist:: **alle**
+  - F293 Telefonieren mit dem Handy in der Hand während der Fahrt ist:: **alle**
+  - F294 Du fährst innerorts 20 km/h zu schnell. Die Sofortzahlung beträgt:: **alle**
+  - F295 Ein Verstoß 4. Grades führt zu:: **alle**
+  - F296 Du hast den Führerschein seit einem Jahr und fährst über eine durchgezogene Linie. Was dro: **gestrichen**
+  - F297 Was passiert, wenn du den Alkoholtest verweigerst?: **alle**
+  - F298 Ein positiver Speicheltest auf Drogen bedeutet mindestens:: **alle**
+  - F299 Muss beim begleiteten Fahren auch der Begleiter nüchtern sein?: **gestrichen**
+  - F300 Was ist der Unterschied zwischen Einzug und Entzug des Führerscheins?: **alle**
+  - F301 Ein Medikament allein beeinträchtigt dich nicht. Was gilt in Kombination mit Alkohol?: **alle**
+  - F302 Nach einem epileptischen Anfall wird bei dir Epilepsie festgestellt. Was musst du tun?: **alle**
+  - F303 Mit welchen Buchstaben kennzeichnest du beim Fahren mit provisorischem Führerschein dein F: **gestrichen**
+
+## Modul 10: Erste Hilfe & Pannenverhalten → neues Modul 13
+
+- L42550 Überblick & Lernziele: **gestrichen** (ganze Lektion)
+- L42551 Verhalten bei einem Unfall mit Sachschaden:
+  - 1 Verkehr absichern: **angepasst**
+  - 2 An Ort und Stelle bleiben: **alle**
+  - 3 Europäischer Unfallbericht: **alle**
+  - 4 Wenn niemand vor Ort ist: **alle**
+  - 5 Praxistipp: **alle**
+  - 6 Keine Polizei nötig: **alle**
+  - 7 Nur die Vorderseite gemeinsam: **alle**
+  - 8 Ausweis zeigen: **alle**
+  - 9 Unfallbericht per App: **alle**
+  - 10 Uneinigkeit: **alle**
+  - 11 Unfallbericht ausfüllen: **alle**
+- L42552 Verhalten bei einem Unfall mit Verletzten:
+  - 1 1. Absichern: **angepasst**
+  - 2 2. Hilfe leisten: **alle**
+  - 3 3. Notdienst benachrichtigen: **alle**
+  - 4 Meldefrist: **alle**
+  - 5 Kurzes Entfernen ist erlaubt: **alle**
+  - 6 Immer Polizei — und nichts verstellen: **alle**
+  - 7 Leichte Verletzungen: weg nur mit Erlaubnis der Polizei: **alle**
+  - 8 Nichts zu trinken, keine Medikamente: **alle**
+  - 9 Mit gesundem Menschenverstand: **angepasst**
+- L42559 Erste Hilfe: die ersten Schritte:
+  - 1 Ablaufschritte am Unfallort: **angepasst**
+  - 2 Eigenschutz geht vor: **alle**
+  - 3 Verunfallte möglichst nicht bewegen: **alle**
+  - 4 Rechtliche Helfer-Pflicht: **alle**
+  - 5 Weitere Sofortmaßnahmen: **alle**
+- L42560 Die vier lebensbedrohlichen Zustände:
+  - 1 Atemwege freihalten: **alle**
+  - 2 Warnzeichen für Sauerstoffmangel: **alle**
+  - 3 Wiederbelebung: **alle**
+  - 4 Herzdruckmassage: **alle**
+  - 5 Starke Blutungen stillen: **alle**
+- L42567 Der Notruf 112:
+  - 1 Europaweite Nummer: **alle**
+  - 2 In der Warteschleife: **alle**
+  - 3 Notrufsäule auf der Autobahn: **alle**
+  - 4 Das W-Merkschema: **alle**
+  - 5 1711 am Bahnübergang: **alle**
+  - 6 Wo bin ich?: **alle**
+  - 7 WIEVIEL und WELCHE genauer: **alle**
+- L42574 Fahrerflucht & Panne:
+  - 0 (Einleitung): **angepasst**
+  - 1 Was ist Fahrerflucht?: **alle**
+  - 2 Mögliche Folgen: **alle**
+  - 3 Bei einer Panne: **angepasst**
+  - 4 Feinheiten der Fahrerflucht: **alle**
+  - 5 Ohne Pannenstreifen: **alle**
+- L42575 Pflichtzubehör im Fahrzeug: **gestrichen** (ganze Lektion)
+- L42582 Verhalten im Tunnel:
+  - 1 Einfahrt: **alle**
+  - 2 Im Tunnel: **alle**
+  - 3 Panne oder Unfall im Tunnel: **alle**
+  - 4 Rauch oder Feuer am eigenen Fahrzeug: **alle**
+  - 5 Tunnelschilder: **alle**
+  - 6 Vor langen Tunneln: Tank prüfen: **angepasst**
+  - 7 Notruftelefon statt Handy: **alle**
+  - 8 Warndreieck im Tunnel: **gestrichen**
+  - 9 Im Stau im Tunnel: **alle**
+- L42583 Vertiefung: Unfall, Brand und Tunnel:
+  - 1 Feuerlöscher benutzen: **alle**
+  - 2 Brennende Kleidung: **alle**
+  - 3 Unfallfahrzeug sichern: **alle**
+  - 4 Ein anderes Fahrzeug brennt im Tunnel: **alle**
+  - 5 Stau im Tunnel: **angepasst**
+  - 6 Beatmung: **alle**
+  - 7 Wunde am Arm: **alle**
+  - 8 Notruf: der Ort: **alle**
+  - 9 Unfallbericht: **alle**
+  - 10 Fahrerflucht: Sonderfälle: **alle**
+  - 11 Warnweste: wie viele?: **gestrichen**
+  - 12 Nützliches Zubehör: **gestrichen**
+- L42584 Merksätze: **gestrichen** (ganze Lektion)
+- Quiz 42585:
+  - F304 Im Tunnel brennt ein Fahrzeug vor dir. Du:: **alle**
+  - F305 Jemand blutet stark am Unterarm. Wohin kommt der Druckverband?: **alle**
+  - F306 Die richtige Reihenfolge bei einem Unfall mit Verletzten ist:: **angepasst**
+  - F307 Die europaweite Notrufnummer lautet:: **alle**
+  - F308 Das Warndreieck sollte außerorts aufgestellt werden in etwa:: **gestrichen**
+  - F309 Fahrerflucht liegt vor, wenn:: **alle**
+  - F310 Bei einem reinen Sachschaden ohne Verletzte solltest du zuerst:: **alle**
+  - F311 Beim Notruf sollten die Angaben in dieser Reihenfolge erfolgen:: **alle**
+  - F312 Vor dem Aussteigen bei einer Panne auf der Autobahn solltest du:: **angepasst**
+  - F313 Wie viele lebensbedrohliche Zustände werden unterschieden?: **alle**
+  - F314 Ein bläuliches Munddreieck weist hin auf:: **alle**
+  - F315 Rippenbrüche bei der Herzdruckmassage sind:: **alle**
+  - F316 Ein Blutverlust von etwa wie viel gilt bei Erwachsenen als lebensbedrohlich?: **alle**
+  - F317 Du rufst die 112 an und landest in der Warteschleife. Du solltest:: **alle**
+  - F318 Auf der Autobahn wird für den Notruf empfohlen:: **alle**
+  - F319 In einem Tunnel solltest du bei Stau:: **alle**
+  - F320 Bei Rauch oder Feuer am eigenen Fahrzeug im Tunnel solltest du:: **alle**
+  - F321 Das Tunnelschild F52 kennzeichnet:: **alle**
+  - F322 Wo muss die Warnweste im Fahrzeug liegen?: **gestrichen**
+  - F323 Wie viele Feuerlöscher müssen mindestens im Auto mitgeführt werden?: **gestrichen**
+  - F324 Wie lange darf ein Feuerlöscher im Auto höchstens alt sein?: **gestrichen**
+  - F325 Auf einer Landstraße außerhalb der Ortschaft stellst du das Warndreieck auf in:: **gestrichen**
+  - F326 Welche Seite des Europäischen Unfallberichts füllst du gemeinsam mit dem Unfallgegner aus?: **alle**
+  - F327 Ab welchem Alter musst du in Belgien einen Personalausweis bei dir haben?: **alle**
+  - F328 Welche Nummer rufst du bei einem Problem an einem Bahnübergang an?: **alle**
+  - F329 Worauf achtest du vor der Einfahrt in einen langen Tunnel?: **alle**
+  - F330 Was trägst du in Rubrik 12 des Europäischen Unfallberichts ein?: **alle**
+
+## Modul 11: Defensiv fahren, Umwelt & Mobilität → neues Modul 11
+
+- L42593 Überblick & Lernziele: **gestrichen** (ganze Lektion)
+- L42600 Was defensives Fahren bedeutet:
+  - 0 (Einleitung): **angepasst**
+  - 1 Wissen, Können, Wollen: **alle**
+  - 2 Mit Fehlern anderer rechnen: **alle**
+  - 3 Weit nach vorne schauen: **angepasst**
+  - 4 Äußere Umstände einrechnen: **alle**
+  - 5 Selbst fahrtüchtig sein: **alle**
+  - 6 Keine verlorene Zeit aufholen: **alle**
+- L42601 Schon vor der Fahrt: **gestrichen** (ganze Lektion)
+- L42614 Richtig sitzen, Spiegel einstellen: **gestrichen** (ganze Lektion)
+- L42615 Unterwegs: aufmerksam und gelassen:
+  - 1 Vor der Kurve bremsen: **alle**
+  - 2 Pausen einlegen: **alle**
+  - 3 Wetter beachten: **alle**
+  - 4 Assistenzsysteme helfen — nicht mehr: **gestrichen**
+  - 5 Mit allen Sinnen fahren: **alle**
+  - 6 Anderen Raum lassen: **alle**
+- L42634 Schwächere Verkehrsteilnehmer:
+  - 1 Kinder: **alle**
+  - 2 Ältere Menschen: **alle**
+  - 3 Jugendliche und Gruppen: **alle**
+  - 4 Fußgänger im Dunkeln: **alle**
+  - 5 Radfahrer: **alle**
+  - 6 Mofas und Motorräder: **gestrichen**
+  - 7 Motorräder im Stau: **gestrichen**
+  - 8 Rollschuhe, Tretroller, Kinder auf dem Rad: **alle**
+- L42641 Lkw und Busse:
+  - 1 Ausholen nach links: **alle**
+  - 2 Große tote Winkel: **angepasst**
+  - 3 Langer Bremsweg: **alle**
+  - 4 Rückwärtsfahren: **alle**
+- L42648 Auf der Autobahn:
+  - 1 Route vorher planen: **alle**
+  - 2 Monotonie erkennen: **alle**
+  - 3 Stau: früh und sanft bremsen: **alle**
+  - 4 Ausfahrt richtig nehmen: **alle**
+- L42649 Am Ende der Fahrt: **gestrichen** (ganze Lektion)
+- L42656 Umwelt: Abgase und Lärm:
+  - 0 (Einleitung): **angepasst**
+  - 1 Kohlendioxid (CO₂): **angepasst**
+  - 2 Stickoxide und Ozon: **alle**
+  - 3 Feinstaub: **alle**
+  - 4 Kohlenmonoxid (CO): **alle**
+  - 5 Smog: **alle**
+  - 6 Lärm: **alle**
+  - 7 Smog-Tempolimit gilt für alle: **gestrichen**
+- L42663 Antriebe und Kraftstoffe:
+  - 1 Benzin, Diesel, Autogas: **alle**
+  - 2 Biokraftstoff: **alle**
+  - 3 Hybrid: **gestrichen**
+  - 4 Elektro: **alle**
+  - 5 Schwefelarmer Diesel: **gestrichen**
+  - 6 „CO₂-neutral“ heißt nicht harmlos: **alle**
+- L42664 Sparsam fahren: **gestrichen** (ganze Lektion)
+- L42671 Mobilität: Welches Verkehrsmittel passt?:
+  - 0 (Einleitung): **angepasst**
+  - 1 Faustregel nach Entfernung: **alle**
+  - 2 Bus und Bahn: **alle**
+  - 3 Platzbedarf: **alle**
+  - 4 Fahrgemeinschaften und Carsharing: **gestrichen**
+  - 5 Junge Fahrer: **alle**
+  - 6 Tempo entscheidet über Leben: **alle**
+  - 7 Nachhaltige Mobilität und Raumordnung: **alle**
+- L42672 Vertiefung: Mobilität und Umwelt:
+  - 1 Verkehrsmittel vergleichen: **alle**
+  - 2 Taxi und Fahrgemeinschaft: **gestrichen**
+  - 3 Nachhaltige Mobilität: **alle**
+  - 4 Schultransportplan: **alle**
+  - 5 Raumordnung: **alle**
+  - 6 Zahlen zum Merken: **alle**
+  - 7 Alternative Kraftstoffe: **alle**
+  - 8 Lärm und Smog: **alle**
+  - 9 Noch sparsamer: **gestrichen**
+  - 10 Auto passend wählen: **gestrichen**
+  - 11 Hinweise im Straßenbild: **alle**
+  - 12 Radfahrer brauchen Platz: **alle**
+  - 13 Tür und Parklücke: **gestrichen**
+  - 14 Fußgänger im Stadtverkehr: **alle**
+- L42673 Merksätze: **gestrichen** (ganze Lektion)
+- Quiz 42674:
+  - F331 Welches Fahrzeug ist pro Kilometer am preiswertesten?: **alle**
+  - F332 Was ist ein Schultransportplan?: **alle**
+  - F333 Was bedeutet defensives Fahren?: **alle**
+  - F334 Wie gehst du am sichersten zur Fahrertür?: **gestrichen**
+  - F335 In welcher Reihenfolge stellst du die Spiegel ein?: **gestrichen**
+  - F336 Wo bremst du bei einer Kurve?: **alle**
+  - F337 Wie oft solltest du auf langen Fahrten eine Pause einlegen?: **alle**
+  - F338 Am Straßenrand liegt ein Ball. Was solltest du tun?: **alle**
+  - F339 Ein Lkw holt vor dem Rechtsabbiegen nach links aus und blinkt rechts. Was tust du?: **alle**
+  - F340 Du parkst bergab. Welchen Gang legst du ein?: **gestrichen**
+  - F341 Warum ist ein gelbes Auto im Verkehr sicherer als ein schwarzes?: **gestrichen**
+  - F342 Welches Abgas ist geruchlos und besonders im Tunnel gefährlich?: **alle**
+  - F343 Wie fährst du am sparsamsten auf eine rote Ampel zu?: **gestrichen**
+  - F344 Ab wann lohnt es sich, an der Ampel den Motor abzustellen?: **alle**
+  - F345 Für welche Entfernung ist das Fahrrad meist das ideale Verkehrsmittel?: **alle**
+
+## Modul 12: Prüfungssimulation → gestrichen (Prüfung B; ersetzt durch Modul 15)
+
+- L42682 Überblick & Lernziele: **gestrichen** (ganze Lektion)
+- L42683 So läuft die echte Prüfung ab: **gestrichen** (ganze Lektion)
+- L42684 Bilder genau lesen: **gestrichen** (ganze Lektion)
+- L42686 Der Risikoerkennungstest: **gestrichen** (ganze Lektion)
+- L42687 Die Manöver in der praktischen Prüfung: **gestrichen** (ganze Lektion)
+- L42688 Merksätze: **gestrichen** (ganze Lektion)
+- Quiz 42689:
+  - F346 Wie viele Fehlerpunkte darf die Theorieprüfung in Belgien höchstens ergeben, um zu bestehe: **gestrichen**
+  - F347 An einer unbeschilderten Kreuzung gilt:: **gestrichen**
+  - F348 Der empfohlene Sicherheitsabstand entspricht mindestens:: **gestrichen**
+  - F349 Auf einem Behindertenparkplatz ohne Ausweis darfst du:: **gestrichen**
+  - F350 Die europaweite Notrufnummer lautet:: **gestrichen**
+  - F351 Die gesetzliche Mindestprofiltiefe für Autoreifen beträgt:: **gestrichen**
+  - F352 Beim Einfahren in einen Kreisverkehr hat Vorfahrt:: **gestrichen**
+  - F353 Auf der Autobahn gilt für PKW ein Tempolimit von:: **gestrichen**
+  - F354 An einem Kreisverkehr befindet sich bereits ein Radfahrer im Kreis, während gleichzeitig e: **alle**
+  - F355 An einer unbeschilderten Kreuzung nähern sich gleichzeitig ein Motorrad von Süden (geradea: **alle**
+  - F356 Sie nähern sich einer Kreuzung mit einem achteckigen roten Schild mit der Aufschrift „STOP: **gestrichen**
+  - F357 150 Meter vor einer Kreuzung sehen Sie ein Zusatzschild mit Entfernungsangabe, gefolgt vom: **angepasst**
+  - F358 Ein Fahrradkurier biegt an einer Kreuzung nach rechts in eine Nebenstraße ein, während Fuß: **alle**
+  - F359 Ein rundes weißes Schild mit rotem Rand zeigt die Silhouette eines Pkw. Was bedeutet diese: **alle**
+  - F360 Ein rundes blaues Schild zeigt einen nach links weisenden weißen Pfeil. Was bedeutet diese: **angepasst**
+  - F361 Ein rot umrandetes dreieckiges Warnschild zeigt eine S-förmige Doppelkurve, zuerst nach li: **alle**
+  - F362 An einer Kreuzung blinkt statt der normalen Ampelschaltung nur ein gelbes Licht. Wie verha: **angepasst**
+  - F363 An einer Ampel leuchtet Rot, gleichzeitig ein zusätzlicher grüner Pfeil nach rechts. Was b: **gestrichen**
+  - F364 Ein Polizist an einer Kreuzung streckt beide Arme waagerecht zur Seite aus. Was bedeutet d: **angepasst**
+  - F365 Wie hoch ist die gesetzlich zulässige Blutalkoholgrenze für Führer eines gewöhnlichen Pkw : **gestrichen**
+  - F366 Ein Führer wird von der Polizei zu einem Atemtest aufgefordert. Darf er darum bitten, den : **alle**
+  - F367 Sie überschreiten die zulässige Höchstgeschwindigkeit außerorts um 6 km/h. Welche ungefähr: **angepasst**
+  - F368 Sie fahren mit 110 km/h auf trockener Fahrbahn. Wie lang ist der gesamte Anhalteweg vom Er: **angepasst**
+  - F369 Sie fahren durch eine als „Schulstraße“ ausgewiesene Zone. Welche Höchstgeschwindigkeit gi: **angepasst**
+  - F370 Innerhalb einer geschlossenen Ortschaft ist kein Geschwindigkeitsschild aufgestellt. Welch: **alle**
+  - F371 In welchen Situationen müssen Sie zwingend den Fahrtrichtungsanzeiger benutzen?: **angepasst**
+  - F372 Ein Lkw vor Ihnen nähert sich erkennbar einem Fußgängerüberweg, um dort anzuhalten. Dürfen: **angepasst**
+  - F373 Sie nähern sich einem unbeschrankten Bahnübergang ohne Lichtzeichenanlage, vor Ihnen fährt: **angepasst**
+  - F374 An einer Ampel möchten Sie mit Ihrem Pkw nach rechts abbiegen, der rechte Fahrstreifen ist: **angepasst**
+  - F375 Sie fahren auf einer dreispurigen Autobahn ohne dichten Verkehr durchgehend auf der linken: **angepasst**
+  - F376 Ein Kleinkraftrad, das technisch nicht schneller als 60 km/h fahren kann, möchte die Autob: **gestrichen**
+  - F377 Dürfen landwirtschaftliche Zugmaschinen (Traktoren) eine Kraftfahrstraße benutzen?: **alle**
+  - F378 Ihnen kommt nachts ein Fahrzeug entgegen und nähert sich zunehmend. Wann müssen Sie spätes: **angepasst**
+  - F379 Sie befinden sich tagsüber außerorts und möchten ein Fahrzeug überholen. Dürfen Sie hupen,: **angepasst**
+  - F380 Wie groß muss der Mindestabstand beim Parken vor und hinter einem bereits stehenden Fahrze: **alle**
+  - F381 Dürfen Sie innerorts grundsätzlich auf dem erhöhten Gehweg parken, wenn kein Schild dies a: **angepasst**
+  - F382 Sie kommen als Erster an einen Unfallort mit Verletzten. Was ist Ihre erste Priorität?: **angepasst**
+  - F383 Sie sind an einem Unfall mit ausschließlich geringem Sachschaden beteiligt, keine Verletzt: **angepasst**
+  - F384 Ihr Fahrzeug bleibt an einer Stelle liegen, an der Halten und Parken verboten ist und ein : **gestrichen**
+  - F385 Reicht es aus, nur Kopien der Fahrzeugdokumente im Auto mitzuführen?: **alle**
+  - F386 Bis zu welcher Profiltiefe dürfen die Hauptprofilrillen eines Pkw-Reifens höchstens abgefa: **gestrichen**
+  - F387 Welche Aussage beschreibt korrekt, wer als Verkehrsteilnehmer gilt?: **alle**
+  - F388 Auf einem Prüfungsbild fährt ein Auto innerorts auf der linken von zwei Spuren. Auf beiden: **gestrichen**
+  - F389 Woran erkennst du auf einem Bild am sichersten eine Autobahn?: **alle**
+  - F390 Wann musst du die Rettungsgasse bilden?: **alle**
+  - F391 Was passiert in der Wallonie, wenn du den Risikoerkennungstest nicht bestanden hast?: **gestrichen**
+  - F392 Wie viele Klicks hast du beim Risikoerkennungstest in der Wallonie?: **gestrichen**
+
+## Modul 13: Verkehrszeichen erkennen → neues Modul 14
+
+- L43147 Überblick & Lernziele: **gestrichen** (ganze Lektion)
+- L43154 Gefahrenzeichen (Kategorie A):
+  - 1 Gefährliche Linkskurve (A1a): **alle**
+  - 2 Gefälle (A3): **alle**
+  - 3 Steigung (A5): **alle**
+  - 4 Fußgängerüberweg (A21): **alle**
+  - 5 Bahnübergang mit Schranke (A41): **alle**
+  - 6 Aufeinanderfolgende Kurven (A1d): **alle**
+- L43155 Am Bahnübergang selbst: das Andreaskreuz:
+  - 1 Einfaches Andreaskreuz — 1 Gleis: **alle**
+  - 2 Doppeltes Andreaskreuz — 2 oder mehr Gleise: **alle**
+- L43173 Verbots-, Gebots- und weitere Schilder:
+  - 1 Einfahrt verboten für alle Fahrzeuge (C3): **alle**
+  - 2 Überholverbot (C35): **alle**
+  - 3 Ende des Überholverbots (C37): **alle**
+  - 4 Vorgeschriebene Fahrtrichtung (D1a): **alle**
+  - 5 Kreisverkehr: **alle**
+  - 6 Beginn Geschwindigkeitsbegrenzung (C43): **alle**
+  - 7 Ende der Geschwindigkeitsbegrenzung (C45): **alle**
+  - 8 Beginn Zone 30: **alle**
+  - 9 Ende Zone 30: **alle**
+  - 10 Beginn Ortschaft (F1): **alle**
+  - 11 Ende Ortschaft (F3): **alle**
+  - 12 Fahrbahnanhebung (A14): **alle**
+  - 13 Kraftfahrstraße — Beginn (F9): **alle**
+  - 14 Kraftfahrstraße — Ende (F11): **alle**
+  - 15 Busspur: **alle**
+  - 16 Überfahrbare Sonderspur (Bus/Tram): **alle**
+  - 17 Wenden verboten (C33): **alle**
+- L43179 Vorrangzeichen (Kategorie B):
+  - 0 (Einleitung): **angepasst**
+  - 1 B1 · Vorfahrt gewähren: **alle**
+  - 2 B5 · Stop: **alle**
+  - 3 B9 · Vorfahrtsstraße: **alle**
+  - 4 B17 · Vorfahrt von rechts: **alle**
+  - 5 Vorrangzeichen für eine Kreuzung (B15a–d): **alle**
+- L43204 Weitere Gefahrenzeichen (Kategorie A):
+  - 1 A7a – Fahrbahnverengung: **alle**
+  - 2 A13 – Schlagloch oder Bodenwelle: **alle**
+  - 3 A15 – Schleudergefahr: **alle**
+  - 4 A17 – Rollsplitt: **alle**
+  - 5 A19 – Steinschlag: **alle**
+  - 6 A23 – Kinder: **alle**
+  - 7 A25 – Radfahrer kreuzen: **alle**
+  - 8 A27 – Wildwechsel: **alle**
+  - 9 A29 – Viehtrieb: **alle**
+  - 10 A31 – Baustelle: **alle**
+  - 11 A33 – Ampel: **alle**
+  - 12 A37 – Seitenwind: **angepasst**
+  - 13 A39 – Gegenverkehr: **alle**
+  - 14 A9 – Bewegliche Brücke: **alle**
+  - 15 A11 – Ufer: **alle**
+  - 16 A43 – Unbeschrankter Bahnübergang: **alle**
+  - 17 A49 – Straßenbahn: **alle**
+  - 18 A50 – Stau: **alle**
+  - 19 A51 – Sonstige Gefahr: **alle**
+  - 20 Schülertransport: **alle**
+  - 21 A1b – Gefährliche Rechtskurve: **alle**
+  - 22 A35 – Tiefer Flugbetrieb: **alle**
+  - 23 A45 – Andreaskreuz, ein Gleis: **alle**
+  - 24 Schülertransport (Behinderte): **alle**
+  - 25 A15/A51 + Zusatz – Gefahr genauer bezeichnet: **alle**
+- L43224 Weitere Verbotszeichen (Kategorie C):
+  - 1 C1 – Einfahrt verboten: **alle**
+  - 2 C3 – Verbot für alle Fahrzeuge: **alle**
+  - 3 C5 – Verbot für Autos: **alle**
+  - 4 C7 – Verbot für Motorräder: **alle**
+  - 5 C9 – Verbot für Mofas: **alle**
+  - 6 C11 – Verbot für Fahrräder: **alle**
+  - 7 C19 – Verbot für Fußgänger: **alle**
+  - 8 C21 – Gewichtsgrenze: **alle**
+  - 9 C23 – Verbot für Lkw: **alle**
+  - 10 C24a – Gefahrgut: **alle**
+  - 11 C25 – Längenbegrenzung: **alle**
+  - 12 C27 – Breitenbegrenzung: **alle**
+  - 13 C29 – Höhenbegrenzung: **alle**
+  - 14 C31a – Linksabbiegen verboten: **alle**
+  - 15 C31b – Rechtsabbiegen verboten: **alle**
+  - 16 C39 – Lkw-Überholverbot: **alle**
+  - 17 C47 – Zollstelle / Maut: **alle**
+  - 18 C24b – Entzündliche Güter: **alle**
+  - 19 Zone – Zonen-Verbote: **alle**
+  - 20 Zone 50 – Zone mit Tempolimit: **alle**
+  - 21 Verbot angekündigt: **alle**
+  - 22 Veränderliche Anzeigetafeln: **alle**
+- L43231 Weitere Gebotszeichen (Kategorie D):
+  - 1 D3 – Zwei Richtungen erlaubt: **alle**
+  - 2 D7 – Radweg: **alle**
+  - 3 D9 – Getrennter Rad- und Fußweg: **alle**
+  - 4 D10 – Gemeinsamer Rad- und Fußweg: **alle**
+  - 5 D11 – Fußweg: **alle**
+  - 6 D13 – Reitweg: **alle**
+  - 7 Gebot angekündigt: **alle**
+- L43254 Halte- und Parkschilder (Kategorie E):
+  - 1 E1 – Parkverbot: **alle**
+  - 2 E3 – Halte- und Parkverbot: **alle**
+  - 3 E5 – Parkverbot 1.–15.: **alle**
+  - 4 E7 – Parkverbot 16.–Monatsende: **alle**
+  - 5 E11 – Wechselparken im ganzen Ort: **alle**
+  - 6 E9a – Parkplatz: **alle**
+  - 7 E9b – Parken nur für Pkw: **alle**
+  - 8 E9e – Parken auf dem Gehweg: **alle**
+  - 9 E9f – Halb auf dem Gehweg: **alle**
+  - 10 E9g – Parken auf der Fahrbahn: **alle**
+  - 11 E9h – Wohnmobile: **alle**
+  - 12 Parkschein: **alle**
+  - 13 Parkscheibe: **angepasst**
+  - 14 Behindertenparkplatz: **alle**
+  - 15 E9c – Parken nur Lieferwagen und Lkw: **alle**
+  - 16 E9d – Parken nur Reisebusse: **alle**
+  - 17 E9i – Parken nur Motorräder: **alle**
+  - 18 E9j – Geteilter Parkplatz: **alle**
+  - 19 E1 + Zusatz – Zeitlich begrenztes Verbot: **alle**
+  - 20 E5/E7 + Parkscheibe – Wechselparken mit Parkscheibe: **alle**
+  - 21 Anlieger, Parkausweis, Carsharing: **angepasst**
+  - 22 Elektrofahrzeuge: **alle**
+  - 23 Fahrradstellplätze: **alle**
+  - 24 Zone – Zonale Parkregeln: **alle**
+- L43290 Hinweisschilder (Kategorie F):
+  - 1 F5 – Autobahn: **alle**
+  - 2 F7 – Ende der Autobahn: **alle**
+  - 3 F8 – Tunnel: **alle**
+  - 4 F12a – Verkehrsberuhigter Bereich: **alle**
+  - 5 F12b – Ende verkehrsberuhigter Bereich: **alle**
+  - 6 F13 – Einordnen: **alle**
+  - 7 F45 – Sackgasse: **alle**
+  - 8 F45b – Sackgasse mit Durchgang: **alle**
+  - 9 F47 – Ende der Baustelle: **alle**
+  - 10 F49 – Fußgängerüberweg: **alle**
+  - 11 F50 – Radfahrerüberweg: **alle**
+  - 12 F50bis – Achtung beim Abbiegen: **alle**
+  - 13 F17 – Busspur: **alle**
+  - 14 F18 – Sonderspur Bus/Tram: **alle**
+  - 15 F21 – Vorbeifahren links oder rechts: **alle**
+  - 16 F87 – Fahrbahnanhebung: **alle**
+  - 17 F95 – Auslaufspur: **alle**
+  - 18 F97 – Fahrstreifen endet: **alle**
+  - 19 F98 – Nothaltebucht: **alle**
+  - 20 F99a – Gemeinsamer Weg: **alle**
+  - 21 F101a – Ende des Weges: **alle**
+  - 22 F111 – Fahrradzone: **angepasst**
+  - 23 F113 – Ende Fahrradzone: **alle**
+  - 24 F39 – Umleitung: **alle**
+  - 25 F23a – Nationalstraße: **alle**
+  - 26 F23c – Europastraße: **alle**
+  - 27 F1/F3 – Mit oder ohne Ortsname: **alle**
+  - 28 F13b – Einordnungsspur für Radfahrer: **alle**
+  - 29 F15 – Fahrtrichtung je Spur: **alle**
+  - 30 F23b/F23d – Autobahn- und Ringnummer: **alle**
+  - 31 F34 – Wegweiser für bestimmte Gruppen: **alle**
+  - 32 F43 – Ortsschild ohne Tempolimit: **alle**
+  - 33 F51 – Fußgängerunter- oder -überführung: **alle**
+  - 34 F59/F60 – Parkplatz angekündigt: **alle**
+  - 35 F63–F77 – Service-Hinweise: **alle**
+  - 36 F89/F91 – Regel nur für bestimmte Spuren: **alle**
+  - 37 F111 alt – Alte Fahrradzonen-Schilder: **alle**
+  - 38 F117 – Umweltzone (LEZ): **alle**
+- L43344 Weitere Schilder im Überblick:
+  - 0 (Einleitung): **angepasst**
+  - 1 A35 – Tiefflug: **alle**
+  - 2 A45 / A47 – Andreaskreuz: **alle**
+  - 3 B13 – Voranzeige Ende der Vorfahrtsstraße: **alle**
+  - 4 B15a–d – Varianten von B15: **alle**
+  - 5 C6 – Verbot für Quads: **alle**
+  - 6 C13 – Verbot für Gespanne: **alle**
+  - 7 C15 – Verbot für Reiter: **alle**
+  - 8 C17 – Verbot für Handkarren: **alle**
+  - 9 C22 – Verbot für Reisebusse: **alle**
+  - 10 C24b – Entzündliche oder explosive Güter: **alle**
+  - 11 C24c – Wasserverunreinigende Güter: **alle**
+  - 12 C41 – Ende des Lkw-Überholverbots: **alle**
+  - 13 C46 – Ende aller örtlichen Verbote: **alle**
+  - 14 D4 – Pflichtrichtung für Gefahrgut: **alle**
+  - 15 E9c – Parken nur für Lieferwagen und Lkw: **alle**
+  - 16 E9d – Parken nur für Reisebusse: **alle**
+  - 17 E9i – Parken nur für Motorräder: **alle**
+  - 18 F4a / F4b – Beginn und Ende der Zone 30: **alle**
+  - 19 F14 – Einordnungsbereich für Radfahrer: **alle**
+  - 20 F15 – Einordnen nach Fahrziel: **alle**
+  - 21 F23b – Autobahnnummer: **alle**
+  - 22 F23d – Ringstraße: **alle**
+  - 23 F25 / F27 – Vorwegweiser: **alle**
+  - 24 F29 / F31 – Wegweiser: **alle**
+  - 25 F33a / F34a – Wegweiser zu Einrichtungen: **alle**
+  - 26 F34b / F34c – Empfohlene Strecke: **alle**
+  - 27 F35 / F37 – Touristische Wegweiser: **alle**
+  - 28 F41 – Umleitungsstrecke: **alle**
+  - 29 F43 – Ortsschild: **alle**
+  - 30 F51–F77 – Dienstleistungsschilder: **alle**
+  - 31 F57 – Wasserlauf: **alle**
+  - 32 F79 – Verminderung der Fahrspuren: **alle**
+  - 33 F81 – Ausweichstelle: **alle**
+  - 34 F83 – Überleitung über den Mittelstreifen: **alle**
+  - 35 F85 – Gegenverkehr: **alle**
+  - 36 F89 / F91 – Regelung für einzelne Fahrspuren: **alle**
+  - 37 F93 – Verkehrsfunk: **alle**
+  - 38 F99b / F101b – Vorbehaltener Weg mit getrennten Teilen: **alle**
+  - 39 F99c / F101c – Weg für landwirtschaftliche Fahrzeuge: **alle**
+  - 40 F103 / F105 – Beginn und Ende des Fußgängerbereichs: **alle**
+  - 41 F117 / F118 – Umweltzone: **alle**
+  - 42 F119 / F120 – Flughafenbereich: **alle**
+- L43348 Weitere Zusatzschilder und Zonenschilder:
+  - 1 Zone – Zonenschilder für andere Verbote: **alle**
+  - 2 M2 – Unter C31: **alle**
+  - 3 M3 – Unter D1: **alle**
+  - 4 M8 – Unter B1 oder B5: **alle**
+  - 5 M11 – Unter C3: **alle**
+  - 6 Außer 2+ – Unter C5: **alle**
+  - 7 B / C / D / E – Unter C24a oder D4: **alle**
+  - 8 Entfernung – Voranzeige eines Verbots: **alle**
+  - 9 Länge – Unter Gefahrenschildern: **alle**
+  - 10 Ausfahrt – Gilt nur für die Ausfahrt rechts: **alle**
+  - 11 Glatteis · Aquaplaning · Ausfahrt – Unter A15 bzw. A51: **alle**
+- L43349 Wo Schilder stehen:
+- L43354 Zusatzschilder unter Verbotszeichen:
+  - 1 +2,5 t – Gewicht unter C5 oder C22: **alle**
+  - 2 5 t – Gewicht unter C23, C39, C43 oder E9a: **alle**
+  - 3 Außer Ortsverkehr: **alle**
+  - 4 Außer 3+: **alle**
+  - 5 Schräger Pfeil nach unten: **alle**
+  - 6 M-Schilder für Radfahrer – Zusatz für Zweiräder: **alle**
+- L43355 Zusatzschilder:
+  - 1 Zweiräder queren in beiden Fahrtrichtungen (M10, ergänzt B1/B5): **alle**
+  - 2 Radfahrer aus beiden Richtungen (nur Fahrrad, ohne Mofa): **alle**
+  - 3 Entfernungsangabe — Gefahr liegt in dieser Distanz voraus: **alle**
+  - 4 Längenangabe mit Pfeilen — das Hauptschild gilt auf dieser Strecke: **alle**
+  - 5 Kurze Entfernung — die Halte- oder Parkregel gilt nur auf der angegebenen Strecke (z. B. 20 m): **alle**
+  - 6 Beginn der Regelung — ohne Entfernungsangabe: die Regelung des Hauptschilds gilt ab sofort: **alle**
+  - 7 Schräger Pfeil — das Hauptschild gilt nur für die Straße in Pfeilrichtung: **alle**
+  - 8 Wiederholung — du bist mitten im geregelten Abschnitt; die Regelung gilt vor und hinter dem Schild weiter: **alle**
+  - 9 Ende der Regelung — Pfeil nach unten: hier endet der durch das Hauptschild angekündigte Bereich: **alle**
+- L43356 Merksätze: **gestrichen** (ganze Lektion)
+- Quiz 43357:
+  - F1365 Was bedeutet das Schild F43 mit dem Namen einer Gemeinde?: **alle**
+  - F1366 Das Schild C46 bedeutet:: **alle**
+  - F1367 Welche Gefahrenschilder stehen direkt an der Gefahrenstelle und nicht etwa 150 m davor?: **alle**
+  - F1368 Ein dreieckiges Schild mit rotem Rand kündigt an:: **alle**
+  - F1369 Ein rundes Schild mit rotem Rand und weißem Grund bedeutet:: **alle**
+  - F1370 Ein rundes, blaues Schild mit weißem Symbol bedeutet:: **alle**
+  - F1371 Das Schild „Vorfahrt gewähren“ (B1) erkennst du an:: **alle**
+  - F1372 Ein rotes Achteck mit der Aufschrift STOP (B5) bedeutet:: **alle**
+  - F1373 Eine gelbe Raute entlang der Strecke (B9) zeigt an:: **alle**
+  - F1374 Ein quadratisches Schild mit blauem Grund ist meist:: **alle**
+  - F1375 Welche zwei Merkmale verraten dir sofort die Schilderkategorie, noch bevor du das Symbol l: **alle**
+  - F1376 Über wie viele Gleise führt dieser Bahnübergang?: **alle**
+  - F1377 Unter dem Schild B1 hängt ein Zusatzschild mit Fahrrad, Mofa und zwei gegenläufigen Pfeile: **alle**
+  - F1378 Was bedeutet ein dreieckiges Schild mit Hirsch?: **alle**
+  - F1379 Ein runder, leerer Kreis mit rotem Rand (C3) bedeutet:: **alle**
+  - F1380 Was gilt beim Schild E1 (blauer Kreis, roter Rand, ein roter Schrägstrich)?: **alle**
+  - F1381 Das Schild E7 (16–31) steht an deiner Straßenseite. Wann darfst du dort nicht parken?: **alle**
+  - F1382 Ein rundes blaues Schild mit Fahrrad (D7) bedeutet:: **angepasst**
+  - F1383 Welche Höchstgeschwindigkeit gilt im verkehrsberuhigten Bereich (F12a)?: **alle**
+  - F1384 In einer Fahrradzone (F111) darfst du als Autofahrer:: **angepasst**
+  - F1385 Unter C23 (Lkw-Verbot) hängt ein Zusatzschild „5 t“. Worauf bezieht sich das Gewicht?: **alle**
+  - F1386 Ein gelbes Schild mit rotem Rand und dem Ortsnamen „Bütgenbach“ (F43). Gilt ab hier 50 km/: **alle**
+  - F1387 Welches Schild ist das rote Gefahrendreieck für eine Fahrbahnanhebung?: **alle**
+  - F1388 Was bedeutet das weiße Schild mit schwarzem Schrägbalken (C46)?: **alle**
