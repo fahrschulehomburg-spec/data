@@ -10,7 +10,7 @@ $out=['kachel_ok'=>0,'kachel_fail'=>[],'q'=>[],'files'=>[]];
 $dry=!empty($DRY);
 // A1a: gespiegeltes offizielles A1b (tr-m14-002) -> schild-A1a.png
 $src=$u['basedir'].'/2026/10/tr-m14-002.png'; $dst=$u['basedir'].'/fh-kurse/b/img/schild-A1a.png';
-if(!file_exists($dst) && !$dry){ $im=imagecreatefrompng($src); imagealphablending($im,false); imagesavealpha($im,true); imageflip($im,IMG_FLIP_HORIZONTAL); imagepng($dst,$dst?null:null); imagepng($im,$dst); imagedestroy($im); $out['files'][]='schild-A1a.png '.filesize($dst); }
+if(!file_exists($dst) && !$dry){ $im=imagecreatefrompng($src); imagealphablending($im,false); imagesavealpha($im,true); imageflip($im,IMG_FLIP_HORIZONTAL); imagepng($im,$dst); imagedestroy($im); $out['files'][]='schild-A1a.png '.filesize($dst); }
 // Kacheln
 foreach($plan['kachel_edits'] as $e){
   $k=trb_get_kachel($e['lid'],$e['i']);
