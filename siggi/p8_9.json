@@ -1,0 +1,242 @@
+[
+{
+"lid": 43355,
+"i": 2,
+"imgs": [
+{
+"f": "schild-M9.png",
+"h": 80,
+"alt": {
+"de": "Zusatzschild M9: Radfahrer in beiden Fahrtrichtungen",
+"fr": "Panneau additionnel M9 : cyclistes dans les deux sens",
+"ar": "اللوحة الإضافية M9: راكبو الدراجات في الاتجاهين",
+"th": "ป้ายเสริม M9: จักรยานทั้งสองทิศทาง"
+}
+}
+]
+},
+{
+"lid": 43355,
+"i": 3,
+"imgs": [
+{
+"f": "schild-GIa-150m.png",
+"h": 60,
+"alt": {
+"de": "Zusatzschild: Entfernungsangabe „150 m“",
+"fr": "Panneau additionnel : distance « 150 m »",
+"ar": "لوحة إضافية: بيان المسافة «150 m»",
+"th": "ป้ายเสริม: บอกระยะทาง \"150 m\""
+}
+}
+]
+},
+{
+"lid": 43355,
+"i": 4,
+"imgs": [
+{
+"f": "schild-GII-10km.png",
+"h": 60,
+"alt": {
+"de": "Zusatzschild: Streckenlänge „↑ 10 km ↑“",
+"fr": "Panneau additionnel : longueur « ↑ 10 km ↑ »",
+"ar": "لوحة إضافية: طول المقطع «↑ 10 km ↑»",
+"th": "ป้ายเสริม: ความยาวช่วงถนน \"↑ 10 km ↑\""
+}
+}
+]
+},
+{
+"lid": 43355,
+"i": 5,
+"imgs": [
+{
+"f": "schild-GXc-20m.png",
+"h": 90,
+"alt": {
+"de": "Zusatzschild „20 m“ mit Pfeil nach oben — Regelung über eine kurze Entfernung",
+"fr": "Panneau additionnel « 20 m » avec flèche vers le haut — réglementation sur une courte distance",
+"ar": "لوحة إضافية «20 m» مع سهم إلى الأعلى — تنظيم لمسافة قصيرة",
+"th": "ป้ายเสริม \"20 m\" พร้อมลูกศรชี้ขึ้น — ข้อกำหนดสำหรับระยะสั้น"
+}
+}
+]
+},
+{
+"lid": 43355,
+"i": 6,
+"imgs": [
+{
+"f": "schild-GXa.png",
+"h": 90,
+"alt": {
+"de": "Zusatzschild: Pfeil nach oben — Beginn der Regelung",
+"fr": "Panneau additionnel : flèche vers le haut — début de la réglementation",
+"ar": "لوحة إضافية: سهم إلى الأعلى — بداية التنظيم",
+"th": "ป้ายเสริม: ลูกศรชี้ขึ้น — เริ่มต้นข้อกำหนด"
+}
+}
+]
+},
+{
+"lid": 43355,
+"i": 7,
+"imgs": [
+{
+"f": "schild-GXI.png",
+"h": 80,
+"alt": {
+"de": "Zusatzschild: schräger Pfeil nach rechts unten — gilt nur für die Ausfahrt rechts",
+"fr": "Panneau additionnel : flèche oblique vers le bas à droite — valable uniquement pour la sortie à droite",
+"ar": "لوحة إضافية: سهم مائل إلى الأسفل يمينًا — يسري فقط على المخرج الأيمن",
+"th": "ป้ายเสริม: ลูกศรเฉียงลงขวา — ใช้เฉพาะทางออกด้านขวา"
+}
+}
+],
+"head": {
+"de": "Schräger Pfeil — das Hauptschild gilt nur für die Straße in Pfeilrichtung",
+"fr": "Flèche oblique — le signal principal ne vaut que pour la route indiquée par la flèche",
+"ar": "سهم مائل — الإشارة الرئيسية تسري فقط على الطريق في اتجاه السهم",
+"th": "ลูกศรเฉียง — ป้ายหลักใช้เฉพาะกับถนนตามทิศทางลูกศร"
+},
+"addp": {
+"de": "<p>Zeigt der Pfeil auf dem Zusatzschild schräg zur Seite, gilt das Hauptschild nur für die Straße in Pfeilrichtung — zum Beispiel nur für die Ausfahrt rechts von einer in Fahrspuren unterteilten Fahrbahn, nicht für die Fahrbahn, auf der du geradeaus weiterfährst.</p>",
+"fr": "<p>Si la flèche du panneau additionnel est oblique, le signal principal ne s'applique qu'à la route dans la direction de la flèche — par exemple uniquement à la sortie à droite d'une chaussée divisée en bandes de circulation, et non à la chaussée sur laquelle vous continuez tout droit.</p>",
+"ar": "<p>إذا كان السهم على اللوحة الإضافية مائلًا إلى الجانب، فإن الإشارة الرئيسية لا تسري إلا على الطريق في اتجاه السهم — مثلًا على المخرج الأيمن فقط من طريق مقسّم إلى حارات، وليس على الطريق الذي تواصل السير عليه مباشرةً.</p>",
+"th": "<p>หากลูกศรบนป้ายเสริมชี้เฉียงออกด้านข้าง ป้ายหลักจะใช้เฉพาะกับถนนตามทิศทางลูกศรเท่านั้น เช่น ใช้เฉพาะทางออกด้านขวาของถนนที่แบ่งเป็นช่องจราจร ไม่ใช้กับถนนที่คุณขับตรงไปต่อ</p>"
+}
+},
+{
+"lid": 43355,
+"i": 8,
+"imgs": [
+{
+"f": "schild-GXd.png",
+"h": 90,
+"alt": {
+"de": "Zusatzschild: Doppelpfeil — Wiederholung der Regelung",
+"fr": "Panneau additionnel : double flèche — rappel de la réglementation",
+"ar": "لوحة إضافية: سهم مزدوج — تذكير بالتنظيم",
+"th": "ป้ายเสริม: ลูกศรสองหัว — ย้ำข้อกำหนด"
+}
+}
+]
+},
+{
+"lid": 43355,
+"i": 9,
+"imgs": [
+{
+"f": "schild-GXb.png",
+"h": 90,
+"alt": {
+"de": "Zusatzschild: Pfeil nach unten — Ende der Regelung",
+"fr": "Panneau additionnel : flèche vers le bas — fin de la réglementation",
+"ar": "لوحة إضافية: سهم إلى الأسفل — نهاية التنظيم",
+"th": "ป้ายเสริม: ลูกศรชี้ลง — สิ้นสุดข้อกำหนด"
+}
+}
+]
+},
+{
+"lid": 42191,
+"i": 5,
+"imgs": [
+{
+"f": "schild-GIa-150m.png",
+"h": 60,
+"alt": {
+"de": "Zusatzschild: Entfernungsangabe „150 m“",
+"fr": "Panneau additionnel : distance « 150 m »",
+"ar": "لوحة إضافية: بيان المسافة «150 m»",
+"th": "ป้ายเสริม: บอกระยะทาง \"150 m\""
+}
+}
+]
+},
+{
+"lid": 42191,
+"i": 6,
+"imgs": [
+{
+"f": "schild-GII-10km.png",
+"h": 60,
+"alt": {
+"de": "Zusatzschild: Streckenlänge „↑ 10 km ↑“",
+"fr": "Panneau additionnel : longueur « ↑ 10 km ↑ »",
+"ar": "لوحة إضافية: طول المقطع «↑ 10 km ↑»",
+"th": "ป้ายเสริม: ความยาวช่วงถนน \"↑ 10 km ↑\""
+}
+}
+]
+},
+{
+"lid": 42191,
+"i": 8,
+"imgs": [
+{
+"f": "schild-GXa.png",
+"h": 90,
+"alt": {
+"de": "Zusatzschild: Pfeil nach oben — Beginn der Regelung",
+"fr": "Panneau additionnel : flèche vers le haut — début de la réglementation",
+"ar": "لوحة إضافية: سهم إلى الأعلى — بداية التنظيم",
+"th": "ป้ายเสริม: ลูกศรชี้ขึ้น — เริ่มต้นข้อกำหนด"
+}
+},
+{
+"f": "schild-GXd.png",
+"h": 90,
+"alt": {
+"de": "Zusatzschild: Doppelpfeil — Wiederholung der Regelung",
+"fr": "Panneau additionnel : double flèche — rappel de la réglementation",
+"ar": "لوحة إضافية: سهم مزدوج — تذكير بالتنظيم",
+"th": "ป้ายเสริม: ลูกศรสองหัว — ย้ำข้อกำหนด"
+}
+},
+{
+"f": "schild-GXb.png",
+"h": 90,
+"alt": {
+"de": "Zusatzschild: Pfeil nach unten — Ende der Regelung",
+"fr": "Panneau additionnel : flèche vers le bas — fin de la réglementation",
+"ar": "لوحة إضافية: سهم إلى الأسفل — نهاية التنظيم",
+"th": "ป้ายเสริม: ลูกศรชี้ลง — สิ้นสุดข้อกำหนด"
+}
+}
+]
+},
+{
+"lid": 43155,
+"i": 1,
+"imgs": [
+{
+"f": "schild-A45.png",
+"h": 90,
+"alt": {
+"de": "Schild A45: einfaches Andreaskreuz — Bahnübergang mit einem Gleis",
+"fr": "Signal A45 : croix de Saint-André simple — passage à niveau à une seule voie",
+"ar": "الإشارة A45: صليب أندراوس مفرد — معبر سكة حديد بسكة واحدة",
+"th": "ป้าย A45: กากบาทเซนต์แอนดรูว์เดี่ยว — ทางข้ามทางรถไฟรางเดียว"
+}
+}
+]
+},
+{
+"lid": 43155,
+"i": 2,
+"imgs": [
+{
+"f": "schild-A47.png",
+"h": 90,
+"alt": {
+"de": "Schild A47: doppeltes Andreaskreuz (übereinander) — Bahnübergang mit zwei oder mehr Gleisen",
+"fr": "Signal A47 : double croix de Saint-André (superposées) — passage à niveau à deux voies ou plus",
+"ar": "الإشارة A47: صليب أندراوس مزدوج (أحدهما فوق الآخر) — معبر بسكتين أو أكثر",
+"th": "ป้าย A47: กากบาทเซนต์แอนดรูว์คู่ (ซ้อนบนล่าง) — ทางข้ามทางรถไฟสองรางขึ้นไป"
+}
+}
+]
+}
+]
