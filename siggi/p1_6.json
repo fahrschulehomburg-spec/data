@@ -1,0 +1,54 @@
+[
+ {"lid":42098,"i":2,"text":{
+  "de":"<p>Wer sich mit einem Rollstuhl fortbewegt, gilt immer als Fußgänger — auch mit einem elektrischen Rollstuhl. Wer ein Moped oder Fahrrad schiebt, ist Fußgänger. Wer ein Motorrad oder Auto schiebt, bleibt Fahrzeugführer.</p>",
+  "fr":"<p>Une personne qui se déplace en fauteuil roulant est toujours considérée comme un piéton — même avec un fauteuil roulant électrique. Celui qui pousse un cyclomoteur ou un vélo est piéton. Celui qui pousse une moto ou une voiture reste conducteur.</p>",
+  "ar":"<p>من يتنقل بكرسي متحرك يُعدّ دائمًا راجلًا، حتى لو كان الكرسي كهربائيًا. من يدفع موبيد أو دراجة هوائية فهو راجل. من يدفع دراجة نارية أو سيارة يبقى سائق مركبة.</p>",
+  "th":"<p>ผู้ที่เคลื่อนที่ด้วยรถเข็นผู้พิการถือเป็นคนเดินเท้าเสมอ แม้จะเป็นรถเข็นไฟฟ้าก็ตาม ผู้ที่จูงโมเพ็ดหรือจักรยานเป็นคนเดินเท้า ผู้ที่เข็นมอเตอร์ไซค์หรือรถยนต์ยังคงเป็นผู้ขับขี่ยานพาหนะ</p>"},
+  "repl":{
+  "de":[["Elektrischer Rollstuhl in Schrittgeschwindigkeit auf dem Bürgersteig — gilt als Fußgänger","Elektrischer Rollstuhl auf dem Bürgersteig — gilt immer als Fußgänger"]],
+  "fr":[["Fauteuil roulant électrique à l'allure du pas sur le trottoir — considéré comme piéton","Fauteuil roulant électrique sur le trottoir — toujours considéré comme piéton"]],
+  "ar":[["كرسي متحرك كهربائي بسرعة المشي على الرصيف — يُعد من المشاة","كرسي متحرك كهربائي على الرصيف — يُعد دائمًا من المشاة"]],
+  "th":[["รถเข็นไฟฟ้าวิ่งเท่าความเร็วเดินบนทางเท้า — ถือเป็นคนเดินเท้า","รถเข็นไฟฟ้าบนทางเท้า — ถือเป็นคนเดินเท้าเสมอ"]]}},
+ {"lid":42382,"i":12,"text":{
+  "de":"<p>Dazu gehören Tretroller, Rollschuhe, Einrad und Segway. Motorisierte Geräte fahren bauartbedingt höchstens 25 km/h. Wer nicht schneller als Schritttempo fährt, gilt als Fußgänger. Rollstuhlfahrer — auch mit elektrischem Rollstuhl — gelten immer als Fußgänger.</p>",
+  "fr":"<p>Il s'agit des trottinettes, des patins à roulettes, du monoroue et du gyropode. Les engins motorisés ne dépassent pas, par construction, 25 km/h. Celui qui ne va pas plus vite que la vitesse d'homme est considéré comme un piéton. Les personnes en fauteuil roulant — même électrique — sont toujours considérées comme des piétons.</p>",
+  "ar":"<p>ومنها السكوتر العادي والزلاجات ذات العجلات والدراجة أحادية العجلة والسيغواي. والأجهزة ذات المحرك لا تسير بحكم تصميمها بأكثر من 25 km/h. ومن لا يسير أسرع من سرعة المشي يُعدّ راجلًا. أما مستخدمو الكراسي المتحركة، حتى الكهربائية منها، فيُعدّون دائمًا من الراجلين.</p>",
+  "th":"<p>ได้แก่ สกูตเตอร์เตะ รองเท้าสเก็ต จักรยานล้อเดียว และเซกเวย์ อุปกรณ์ที่มีมอเตอร์ตามโครงสร้างวิ่งได้สูงสุด 25 km/h ผู้ที่ไม่เร็วกว่าความเร็วเท่าคนเดินถือเป็นคนเดินเท้า ส่วนผู้ใช้รถเข็นผู้พิการ รวมถึงรถเข็นไฟฟ้า ถือเป็นคนเดินเท้าเสมอ</p>"}},
+ {"lid":42125,"i":16,"text":{
+  "de":"<p>Landwirtschaftliche Fahrzeuge sind normalerweise höchstens 2,55 m breit. Bis 3 m Breite und — mit mehreren Anhängern — bis 25 m Zuglänge sind nur unter besonderen Bedingungen bzw. als Ausnahme erlaubt; ein normaler Zug ist höchstens 18,75 m lang. Plane entsprechend viel Platz ein.</p>",
+  "fr":"<p>Les véhicules agricoles ont normalement une largeur maximale de 2,55 m. Une largeur jusqu'à 3 m et, avec plusieurs remorques, une longueur d'ensemble jusqu'à 25 m ne sont autorisées que sous des conditions particulières ou à titre d'exception ; un ensemble normal mesure au maximum 18,75 m. Prévoyez en conséquence beaucoup de place.</p>",
+  "ar":"<p>عرض المركبات الزراعية في العادة 2,55 m كحد أقصى. ولا يُسمح بعرض يصل إلى 3 m، ولا بطول قطار يصل إلى 25 m مع عدة مقطورات، إلا بشروط خاصة أو كاستثناء؛ أما طول القطار العادي فلا يتجاوز 18,75 m. خطط لمساحة كبيرة بما يناسب ذلك.</p>",
+  "th":"<p>ยานพาหนะเกษตรโดยปกติกว้างไม่เกิน 2,55 m ความกว้างถึง 3 m และความยาวชุดรถพ่วงถึง 25 m เมื่อมีรถพ่วงหลายคัน อนุญาตเฉพาะภายใต้เงื่อนไขพิเศษหรือเป็นข้อยกเว้นเท่านั้น ส่วนชุดรถพ่วงปกติยาวไม่เกิน 18,75 m วางแผนเผื่อพื้นที่ให้มากตามนั้น</p>"}},
+ {"lid":42351,"i":4,"text":{
+  "de":"<p>Fahrzeuge und Fahrzeugzüge über 7,5 t müssen außerhalb geschlossener Ortschaften immer mindestens 50 m Abstand zueinander halten. Für Pkw gilt der 50-m-Abstand nur, wenn sie außerorts im Konvoi fahren.</p>",
+  "fr":"<p>Les véhicules et ensembles de véhicules de plus de 7,5 t doivent toujours, hors agglomération, garder entre eux une distance d'au moins 50 m. Pour les voitures, la distance de 50 m ne s'applique que lorsqu'elles circulent en convoi hors agglomération.</p>",
+  "ar":"<p>يجب على المركبات ومجموعات المركبات التي يزيد وزنها على 7,5 t أن تحافظ دائمًا خارج المناطق المأهولة المغلقة على مسافة 50 m على الأقل فيما بينها. أما السيارات فلا تنطبق عليها مسافة 50 m إلا إذا كانت تسير في رتل (قافلة) خارج المناطق المأهولة.</p>",
+  "th":"<p>ยานพาหนะและขบวนยานพาหนะที่หนักเกิน 7,5 t ต้องรักษาระยะห่างระหว่างกันอย่างน้อย 50 m นอกเขตชุมชนที่ปิดเสมอ สำหรับรถยนต์นั่ง ระยะห่าง 50 m ใช้เฉพาะเมื่อขับเป็นขบวน (คอนวอย) นอกเขตชุมชนเท่านั้น</p>"}},
+ {"lid":42351,"i":6,"head":{"de":"2-Sekunden-Regel: eine Empfehlung","fr":"Règle des 2 secondes : une recommandation","ar":"قاعدة الثانيتين: توصية","th":"กฎ 2 วินาที: คำแนะนำ"},
+  "text":{
+  "de":"<p>Die 2-Sekunden-Regel ist eine Empfehlung, mit der du leicht einen ausreichenden Sicherheitsabstand einhältst. Viele neue Autos zeigen den Abstand bereits an.</p>",
+  "fr":"<p>La règle des 2 secondes est une recommandation qui vous permet de garder facilement une distance de sécurité suffisante. De nombreuses voitures neuves affichent déjà la distance.</p>",
+  "ar":"<p>قاعدة الثانيتين توصية تساعدك على الحفاظ بسهولة على مسافة أمان كافية. وكثير من السيارات الجديدة تعرض المسافة منذ الآن.</p>",
+  "th":"<p>กฎ 2 วินาทีเป็นคำแนะนำที่ช่วยให้คุณรักษาระยะห่างปลอดภัยที่เพียงพอได้ง่าย รถใหม่หลายคันแสดงระยะห่างอยู่แล้ว</p>"}},
+ {"lid":42552,"i":7,"head":{"de":"Leichte Verletzungen: weg nur mit Erlaubnis der Polizei","fr":"Blessures légères : partir seulement avec l'accord de la police","ar":"إصابات خفيفة: المغادرة فقط بإذن من الشرطة","th":"บาดเจ็บเล็กน้อย: ออกจากที่เกิดเหตุได้เมื่อตำรวจอนุญาตเท่านั้น"},
+  "text":{
+  "de":"<p>Gibt es nur leichte Verletzungen, darfst du den Unfallort nur verlassen, wenn die Polizei es dir telefonisch (fernmündlich) erlaubt. Ohne diese Erlaubnis bleibst du vor Ort, bis die Polizei da ist.</p>",
+  "fr":"<p>S'il n'y a que des blessures légères, vous ne pouvez quitter les lieux de l'accident que si la police vous y autorise par téléphone. Sans cette autorisation, vous restez sur place jusqu'à l'arrivée de la police.</p>",
+  "ar":"<p>إذا كانت الإصابات خفيفة فقط، فلا يجوز لك مغادرة مكان الحادث إلا إذا سمحت لك الشرطة بذلك هاتفيًا. ومن دون هذا الإذن تبقى في المكان حتى تصل الشرطة.</p>",
+  "th":"<p>หากมีเพียงผู้บาดเจ็บเล็กน้อย คุณจะออกจากที่เกิดเหตุได้ก็ต่อเมื่อตำรวจอนุญาตทางโทรศัพท์เท่านั้น หากไม่ได้รับอนุญาต ให้อยู่ที่จุดเกิดเหตุจนกว่าตำรวจจะมาถึง</p>"},
+  "repl":{
+  "de":[[">Binnen 24 h zur Polizei<",">Weg nur mit Erlaubnis der Polizei<"],[">Bei ganz leichten Verletzungen<",">Telefonisch erteilt · bei leichten Verletzungen<"]],
+  "fr":[[">Dans les 24 h à la police<",">Partir seulement avec l'accord de la police<"],[">En cas de blessures très légères<",">Donné par téléphone · en cas de blessures légères<"]],
+  "ar":[[">خلال 24 ساعة إلى الشرطة<",">المغادرة فقط بإذن الشرطة<"],[">عند إصابات طفيفة جدًا<",">إذن هاتفي · عند الإصابات الخفيفة<"]],
+  "th":[[">ภายใน 24 ชม. ไปสถานีตำรวจ<",">ออกได้เมื่อตำรวจอนุญาตเท่านั้น<"],[">กรณีบาดเจ็บเล็กน้อยมาก<",">อนุญาตทางโทรศัพท์ · กรณีบาดเจ็บเล็กน้อย<"]]}},
+ {"lid":42600,"i":6,"text":{
+  "de":"<p>Rechtzeitig losfahren statt unterwegs zu hetzen. Für 50 km brauchst du mit 80 km/h 36 Minuten. Mit durchschnittlich 100 km/h bist du nur 6 Minuten früher am Ziel — läufst aber statistisch gesehen viermal mehr Gefahr, in einen Unfall verwickelt zu werden.</p>",
+  "fr":"<p>Partez à temps plutôt que de vous presser en route. Pour 50 km à 80 km/h, il vous faut 36 minutes. À une moyenne de 100 km/h, vous n'arrivez que 6 minutes plus tôt — mais, statistiquement, vous courez quatre fois plus de risques d'être impliqué dans un accident.</p>",
+  "ar":"<p>انطلق في الوقت المناسب بدل الاستعجال في الطريق. تحتاج إلى 36 دقيقة لقطع 50 km بسرعة 80 km/h. وبمتوسط سرعة 100 km/h تصل أبكر بـ 6 دقائق فقط، لكنك إحصائيًا تتعرض لخطر التورط في حادث أكبر بأربع مرات.</p>",
+  "th":"<p>ออกเดินทางให้เร็วพอ แทนที่จะรีบเร่งระหว่างทาง ระยะทาง 50 km ที่ความเร็ว 80 km/h ใช้เวลา 36 นาที หากขับเฉลี่ย 100 km/h คุณจะถึงเร็วขึ้นเพียง 6 นาที แต่ตามสถิติเสี่ยงที่จะเกิดอุบัติเหตุมากขึ้นสี่เท่า</p>"},
+  "repl":{
+  "de":[[">50 km: 100 statt 80 = 7,5 min<",">50 km: 100 statt 80 = nur 6 min früher<"],[">Kaum Zeitgewinn · viel mehr Risiko<",">Kaum Zeitgewinn · viermal mehr Unfallgefahr<"]],
+  "fr":[[">50 km : 100 au lieu de 80 = 7,5 min<",">50 km : 100 au lieu de 80 = 6 min plus tôt<"],[">Peu de gain · bien plus de risque<",">Peu de gain · quatre fois plus de risque<"]],
+  "ar":[[">50 كم: 100 بدل 80 = 7,5 دقيقة<",">50 كم: 100 بدل 80 = 6 دقائق فقط<"],[">مكسب ضئيل · خطر أكبر بكثير<",">مكسب ضئيل · خطر أكبر بأربع مرات<"]],
+  "th":[[">50 กม.: 100 แทน 80 = 7.5 นาที<",">50 กม.: 100 แทน 80 = เร็วขึ้นเพียง 6 นาที<"],[">ได้เวลาน้อย · เสี่ยงมาก<",">ได้เวลาน้อย · เสี่ยงมากขึ้นสี่เท่า<"]]}}
+]
