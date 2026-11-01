@@ -54,6 +54,7 @@ function am2_run($new, $old, $mode = 'dry', $backup = null){
           $sq = am2_norm_qs(am2_server_qs($id)); $nq = am2_json_qs($it['qs']); $oq = am2_json_qs($ot['qs']);
           $opt = get_post_meta($id, 'tutor_quiz_option', true); if (!is_array($opt)) $opt = [];
           $newopt = array_merge($opt, $it['opt'] ?: []);
+          if (strpos($it['src'], 'am-sim') !== 0) $newopt['max_questions_for_answer'] = count($it['qs']);
           $same_new = ($sq === $nq) && $post->post_content === $it['desc'] && $post->post_title === $it['title'] && $opt == $newopt;
           if ($same_new) { $rep['unveraendert']++; continue; }
           $same_old = ($sq === $oq) && $post->post_content === $ot['desc'] && $post->post_title === $ot['title'];
