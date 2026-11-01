@@ -13,7 +13,7 @@ function tr_startbild($srcs){
     $sh=(int)round(720*$W/1280); $sy=max(0,(int)(($H-$sh)/2));
     imagecopyresampled($c,$im,0,0,0,$sy,1280,720,$W,min($sh,$H));
     imagealphablending($c,true);
-    for($y=0;$y<340;$y++){ $a=(int)min(127,32+($y/340)*95); imageline($c,0,$y,1279,$y,imagecolorallocatealpha($c,10,18,28,$a)); }
+    for($y=0;$y<400;$y++){ $a=(int)min(127,8+pow($y/400,1.6)*119); imageline($c,0,$y,1279,$y,imagecolorallocatealpha($c,10,18,28,$a)); }
     $white=imagecolorallocate($c,255,255,255); $yel=imagecolorallocate($c,245,183,0);
     imagefilledrectangle($c,64,72,73,262,$yel);
     imagettftext($c,64,0,98,150,$white,$d.'Poppins-Bold.ttf','Fahrschule Homburg');
