@@ -29,8 +29,9 @@ function trb_get_kachel($lid,$i){ $p=trb_parts($lid); return $p[$i]??null; }
 function trb_put_kachel($lid,$i,$html){ global $wpdb; $p=trb_parts($lid); if(!isset($p[$i])) return "kachel $i fehlt"; trb_log('kachel',['lid'=>$lid,'i'=>$i,'alt'=>$p[$i]]); $p[$i]=$html; $wpdb->update($wpdb->posts,['post_content'=>implode('',$p)],['ID'=>$lid]); clean_post_cache($lid); return 'ok'; }
 // Nur den Fließtext (alles nach </h3> und nach Bild/Merk/Anim-Divs) einer Kachel ersetzen; $html z.B. '<p>…</p>'
 function trb_put_text($lid,$i,$html){ $k=trb_get_kachel($lid,$i); if($k===null) return "kachel $i fehlt";
-  if(!preg_match('/^(\s*(?:<h3[^>]*>.*?<\/h3>\s*)?(?:<div class="tr-(?:icon|play)[\s\S]*?<\/div>\s*<\/div>\s*|<div class="tr-icon[^"]*">\s*<img[^>]*>\s*<\/div>\s*)*)/s',$k,$m)) $m=[''];
-  $head=$m[1]??''; return trb_put_kachel($lid,$i,$head.$html."\n"); }
+  // Kopf = alles vor dem ersten <p>/<ul>/<ol> (Überschrift + Bild/Merkkarte/Animation bleiben unverändert)
+  if(!preg_match('/<(p|ul|ol)[\s>]/',$k,$m,PREG_OFFSET_CAPTURE)) return "kein Text-Absatz in Kachel $i – nutze trb_put_kachel";
+  $head=rtrim(substr($k,0,$m[0][1]))."\n"; return trb_put_kachel($lid,$i,$head.$html."\n"); }
 function trb_put_heading($lid,$i,$txt){ $k=trb_get_kachel($lid,$i); $n=preg_replace('/<h3([^>]*)>.*?<\/h3>/s','<h3$1>'.esc_html($txt).'</h3>',$k,1); return trb_put_kachel($lid,$i,$n); }
 
 // Quizfragen
