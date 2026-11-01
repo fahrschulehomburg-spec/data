@@ -4,7 +4,7 @@
 if (!defined('ABSPATH')) exit;
 $__u = wp_upload_dir(); require_once $__u['basedir'] . '/tr-import/import.php';
 
-function ccapd_data($lang){ static $C=[]; if(!isset($C[$lang])){ $u=wp_upload_dir(); $C[$lang]=json_decode(file_get_contents($u['basedir']."/tr-import/ccapd-$lang.json"),true); } return $C[$lang]; }
+function ccapd_data($lang){ static $C=[]; if(!isset($C[$lang])){ $u=wp_upload_dir(); $C[$lang]=json_decode(file_get_contents($u['basedir']."/tr-import/ccapd/ccapd-$lang.json"),true); } return $C[$lang]; }
 
 // Kursbild: vorhandene Datei fh-kurse/b/img/sit-8e34e202.jpg als Anhang registrieren (einmalig, ohne Kopie)
 function ccapd_thumb(){
