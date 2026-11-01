@@ -1,0 +1,1424 @@
+{
+"kachel_edits": [
+{
+"lid": 42567,
+"i": 1,
+"old": "sie funktioniert auch ohne SIM-Karte, Guthaben oder mit gesperrter Tastatur.",
+"new": "sie funktioniert auch ohne Guthaben und bei gesperrter Tastatur. In Belgien brauchst du dafür aber eine SIM-Karte im Handy — ohne SIM-Karte kommt kein Notruf zustande.",
+"note": "112 SIM",
+"de_lid": 42567,
+"lang": "de"
+},
+{
+"lid": 42809,
+"i": 1,
+"old": "il fonctionne même sans carte SIM, sans crédit ou avec le clavier verrouillé.",
+"new": "il fonctionne même sans crédit ou avec le clavier verrouillé. En Belgique, une carte SIM est toutefois nécessaire : sans carte SIM, l'appel d'urgence n'aboutit pas.",
+"note": "112 SIM",
+"de_lid": 42567,
+"lang": "fr"
+},
+{
+"lid": 42960,
+"i": 1,
+"old": "ويعمل حتى دون بطاقة SIM أو رصيد أو مع لوحة مفاتيح مقفلة.",
+"new": "ويعمل حتى دون رصيد أو مع لوحة مفاتيح مقفلة. لكن في بلجيكا تحتاج إلى بطاقة SIM في الهاتف — فبدون بطاقة SIM لا يتمّ اتصال الطوارئ.",
+"note": "112 SIM",
+"de_lid": 42567,
+"lang": "ar"
+},
+{
+"lid": 43111,
+"i": 1,
+"old": "ใช้ได้แม้ไม่มีซิมการ์ด ไม่มียอดเงินคงเหลือ หรือเมื่อแป้นพิมพ์ถูกล็อก",
+"new": "ใช้ได้แม้ไม่มียอดเงินคงเหลือ หรือเมื่อแป้นพิมพ์ถูกล็อก แต่ในเบลเยียมต้องมีซิมการ์ดในโทรศัพท์ — หากไม่มีซิมการ์ดจะโทรฉุกเฉินไม่ได้",
+"note": "112 SIM",
+"de_lid": 42567,
+"lang": "th"
+},
+{
+"lid": 43173,
+"i": 15,
+"old": "<h3>Busspur</h3>\n<div class=\"tr-icon\"><img alt=\"Busspur-Markierung mit durchgehender Linie, offizielle Fahrbahnmarkierung (wegcode.be)\" height=\"55\" src=\"https://www.fahrschule-homburg.be/wp-content/uploads/2026/10/tr-m14-022.png\" style=\"display:block;margin-bottom:8px;object-fit:cover;border-radius:6px;\" width=\"52\"/></div>\n<p>Weiße Fahrbahnmarkierung mit Aufschrift „BUS“ — diese Spur ist Bussen vorbehalten (ggf. auch Taxis oder Radfahrern, falls zusätzlich erlaubt).</p>\n",
+"new": "<h3>Busspur</h3>\n<div class=\"tr-icon\"><img alt=\"Busspur-Markierung: breite unterbrochene Linie, offizielle Fahrbahnmarkierung (wegcode.be)\" height=\"55\" src=\"https://www.fahrschule-homburg.be/wp-content/uploads/2026/10/tr-m14-023.png\" style=\"display:block;margin-bottom:8px;object-fit:cover;border-radius:6px;\" width=\"52\"/></div>\n<p>Breite unterbrochene weiße Linie mit Aufschrift „BUS“ — diese Spur ist Linienbussen vorbehalten (laut Schild F17 ggf. auch Taxis, Radfahrern oder anderen). Du darfst sie nur kurz benutzen: unmittelbar vor der Kreuzung zum Abbiegen, zum Umfahren eines Hindernisses oder um ein Grundstück bzw. einen Parkplatz zu erreichen.</p>\n\n",
+"note": "Busspur/Sonderspur Tausch",
+"de_lid": 43173,
+"lang": "de"
+},
+{
+"lid": 43173,
+"i": 16,
+"old": "<h3>Überfahrbare Sonderspur (Bus/Tram)</h3>\n<div class=\"tr-icon\"><img alt=\"Überfahrbare Sonderspur mit unterbrochener Linie, offizielle Fahrbahnmarkierung (wegcode.be)\" height=\"55\" src=\"https://www.fahrschule-homburg.be/wp-content/uploads/2026/10/tr-m14-023.png\" style=\"display:block;margin-bottom:8px;object-fit:cover;border-radius:6px;\" width=\"52\"/></div>\n<p>Die Linien dürfen kurz überfahren werden, etwa zum Ein-/Ausfädeln oder Abbiegen — die Spur selbst bleibt Bus und Tram vorbehalten.</p>\n",
+"new": "<h3>Überfahrbare Sonderspur (Bus/Tram)</h3>\n<div class=\"tr-icon\"><img alt=\"Überfahrbare Sonderspur: breite durchgehende Linie, offizielle Fahrbahnmarkierung (wegcode.be)\" height=\"55\" src=\"https://www.fahrschule-homburg.be/wp-content/uploads/2026/10/tr-m14-022.png\" style=\"display:block;margin-bottom:8px;object-fit:cover;border-radius:6px;\" width=\"52\"/></div>\n<p>Breite durchgehende weiße Linien (oder ein Schachbrettmuster) begrenzen die überfahrbare Sonderspur (Schild F18) für Bus und Tram. Du darfst sie nur befahren, um ein Hindernis zu umfahren, ein Grundstück oder einen Parkplatz zu erreichen oder eine Kreuzung zu überqueren — nicht, um an der Kreuzung abzubiegen.</p>\n\n",
+"note": "Busspur/Sonderspur Tausch",
+"de_lid": 43173,
+"lang": "de"
+},
+{
+"lid": 43363,
+"i": 15,
+"old": "<h3>Bande réservée aux autobus</h3>\n<div class=\"tr-icon\"><img alt=\"Marquage de bande réservée aux autobus avec ligne continue, marquage routier officiel (wegcode.be)\" height=\"55\" src=\"https://www.fahrschule-homburg.be/wp-content/uploads/2026/10/tr-m14-022.png\" style=\"display:block;margin-bottom:8px;object-fit:cover;border-radius:6px;\" width=\"52\"/></div>\n<p>Marquage blanc sur la chaussée portant l'inscription « BUS » — cette bande est réservée aux autobus (le cas échéant aussi aux taxis ou aux cyclistes, si cela est permis en plus).</p>\n",
+"new": "<h3>Bande réservée aux autobus</h3>\n<div class=\"tr-icon\"><img alt=\"Marquage de bande réservée aux autobus : large ligne discontinue, marquage routier officiel (wegcode.be)\" height=\"55\" src=\"https://www.fahrschule-homburg.be/wp-content/uploads/2026/10/tr-m14-023.png\" style=\"display:block;margin-bottom:8px;object-fit:cover;border-radius:6px;\" width=\"52\"/></div>\n<p>Large ligne blanche discontinue avec l'inscription « BUS » — cette bande est réservée aux autobus de ligne (selon le signal F17, le cas échéant aussi aux taxis, aux cyclistes ou à d'autres). Vous ne pouvez l'emprunter que brièvement : juste avant le carrefour pour tourner, pour contourner un obstacle ou pour rejoindre une propriété ou un parking.</p>\n\n",
+"note": "Busspur/Sonderspur Tausch",
+"de_lid": 43173,
+"lang": "fr"
+},
+{
+"lid": 43363,
+"i": 16,
+"old": "<h3>Bande spéciale franchissable (bus/tram)</h3>\n<div class=\"tr-icon\"><img alt=\"Bande spéciale franchissable avec ligne discontinue, marquage routier officiel (wegcode.be)\" height=\"55\" src=\"https://www.fahrschule-homburg.be/wp-content/uploads/2026/10/tr-m14-023.png\" style=\"display:block;margin-bottom:8px;object-fit:cover;border-radius:6px;\" width=\"52\"/></div>\n<p>Les lignes peuvent être franchies brièvement, par exemple pour s'insérer, quitter la bande ou tourner — la bande elle-même reste réservée aux bus et aux trams.</p>\n",
+"new": "<h3>Bande spéciale franchissable (bus/tram)</h3>\n<div class=\"tr-icon\"><img alt=\"Bande spéciale franchissable : large ligne continue, marquage routier officiel (wegcode.be)\" height=\"55\" src=\"https://www.fahrschule-homburg.be/wp-content/uploads/2026/10/tr-m14-022.png\" style=\"display:block;margin-bottom:8px;object-fit:cover;border-radius:6px;\" width=\"52\"/></div>\n<p>De larges lignes blanches continues (ou un damier) délimitent le site spécial franchissable (signal F18) réservé aux bus et aux trams. Vous ne pouvez l'emprunter que pour contourner un obstacle, rejoindre une propriété ou un parking ou traverser un carrefour — pas pour tourner au carrefour.</p>\n\n",
+"note": "Busspur/Sonderspur Tausch",
+"de_lid": 43173,
+"lang": "fr"
+},
+{
+"lid": 43381,
+"i": 15,
+"old": "<h3>مسار الحافلات</h3>\n<div class=\"tr-icon\"><img alt=\"علامة مسار الحافلات بخط متّصل، علامة طريق رسمية (wegcode.be)\" height=\"55\" src=\"https://www.fahrschule-homburg.be/wp-content/uploads/2026/10/tr-m14-022.png\" style=\"display:block;margin-bottom:8px;object-fit:cover;border-radius:6px;\" width=\"52\"/></div>\n<p>علامة بيضاء على الطريق مكتوب عليها «BUS» — هذا المسار مخصّص للحافلات (وكذلك لسيارات الأجرة أو لراكبي الدراجات عند السماح بذلك بإشارة إضافية).</p>\n",
+"new": "<h3>مسار الحافلات</h3>\n<div class=\"tr-icon\"><img alt=\"علامة مسار الحافلات: خط عريض متقطّع، علامة طريق رسمية (wegcode.be)\" height=\"55\" src=\"https://www.fahrschule-homburg.be/wp-content/uploads/2026/10/tr-m14-023.png\" style=\"display:block;margin-bottom:8px;object-fit:cover;border-radius:6px;\" width=\"52\"/></div>\n<p>خط أبيض عريض متقطّع مكتوب عليه «BUS» — هذا المسار مخصّص لحافلات الخطوط المنتظمة (وبحسب الإشارة F17 ربما أيضًا لسيارات الأجرة أو راكبي الدراجات أو غيرهم). لا يجوز لك استعماله إلا لفترة قصيرة: مباشرة قبل التقاطع للانعطاف، أو لتجاوز عائق، أو للوصول إلى عقار أو موقف سيارات.</p>\n\n",
+"note": "Busspur/Sonderspur Tausch",
+"de_lid": 43173,
+"lang": "ar"
+},
+{
+"lid": 43381,
+"i": 16,
+"old": "<h3>مسار خاص يجوز عبوره (حافلات/ترام)</h3>\n<div class=\"tr-icon\"><img alt=\"مسار خاص يجوز عبوره بخط متقطّع، علامة طريق رسمية (wegcode.be)\" height=\"55\" src=\"https://www.fahrschule-homburg.be/wp-content/uploads/2026/10/tr-m14-023.png\" style=\"display:block;margin-bottom:8px;object-fit:cover;border-radius:6px;\" width=\"52\"/></div>\n<p>يجوز عبور الخطوط لفترة قصيرة، مثلًا للدخول أو الخروج من المسار أو للانعطاف — أمّا المسار نفسه فيبقى مخصّصًا للحافلات والترام.</p>\n",
+"new": "<h3>مسار خاص يجوز عبوره (حافلات/ترام)</h3>\n<div class=\"tr-icon\"><img alt=\"مسار خاص يجوز عبوره: خط عريض متّصل، علامة طريق رسمية (wegcode.be)\" height=\"55\" src=\"https://www.fahrschule-homburg.be/wp-content/uploads/2026/10/tr-m14-022.png\" style=\"display:block;margin-bottom:8px;object-fit:cover;border-radius:6px;\" width=\"52\"/></div>\n<p>خطوط بيضاء عريضة متّصلة (أو نمط رقعة الشطرنج) تحدّ المسار الخاص القابل للعبور (الإشارة F18) المخصّص للحافلات والترام. لا يجوز لك السير عليه إلا لتجاوز عائق، أو للوصول إلى عقار أو موقف سيارات، أو لعبور تقاطع — وليس للانعطاف عند التقاطع.</p>\n\n",
+"note": "Busspur/Sonderspur Tausch",
+"de_lid": 43173,
+"lang": "ar"
+},
+{
+"lid": 43399,
+"i": 15,
+"old": "<h3>ช่องทางรถประจำทาง</h3>\n<div class=\"tr-icon\"><img alt=\"เครื่องหมายช่องทางรถประจำทางที่มีเส้นทึบ, เครื่องหมายบนผิวถนนอย่างเป็นทางการ (wegcode.be)\" height=\"55\" src=\"https://www.fahrschule-homburg.be/wp-content/uploads/2026/10/tr-m14-022.png\" style=\"display:block;margin-bottom:8px;object-fit:cover;border-radius:6px;\" width=\"52\"/></div>\n<p>เครื่องหมายบนผิวถนนสีขาวที่มีตัวอักษร “BUS” — ช่องนี้สงวนไว้สำหรับรถประจำทาง (และอาจรวมถึงแท็กซี่หรือผู้ขี่จักรยาน หากมีป้ายเสริมอนุญาตไว้)</p>\n",
+"new": "<h3>ช่องทางรถประจำทาง</h3>\n<div class=\"tr-icon\"><img alt=\"เครื่องหมายช่องทางรถประจำทาง: เส้นประกว้าง, เครื่องหมายบนผิวถนนอย่างเป็นทางการ (wegcode.be)\" height=\"55\" src=\"https://www.fahrschule-homburg.be/wp-content/uploads/2026/10/tr-m14-023.png\" style=\"display:block;margin-bottom:8px;object-fit:cover;border-radius:6px;\" width=\"52\"/></div>\n<p>เส้นประสีขาวกว้างพร้อมตัวอักษร “BUS” — ช่องนี้สงวนไว้สำหรับรถประจำทาง (ตามป้าย F17 อาจรวมถึงแท็กซี่ ผู้ขี่จักรยาน หรือกลุ่มอื่นด้วย) คุณใช้ได้เพียงชั่วครู่เท่านั้น: ก่อนถึงทางแยกเพื่อเลี้ยว เพื่อหลบสิ่งกีดขวาง หรือเพื่อเข้าออกที่ดินหรือที่จอดรถ</p>\n\n",
+"note": "Busspur/Sonderspur Tausch",
+"de_lid": 43173,
+"lang": "th"
+},
+{
+"lid": 43399,
+"i": 16,
+"old": "<h3>ช่องทางพิเศษที่ขับคร่อมได้ (รถประจำทาง/รถราง)</h3>\n<div class=\"tr-icon\"><img alt=\"ช่องทางพิเศษที่ขับคร่อมได้ซึ่งมีเส้นประ, เครื่องหมายบนผิวถนนอย่างเป็นทางการ (wegcode.be)\" height=\"55\" src=\"https://www.fahrschule-homburg.be/wp-content/uploads/2026/10/tr-m14-023.png\" style=\"display:block;margin-bottom:8px;object-fit:cover;border-radius:6px;\" width=\"52\"/></div>\n<p>คุณขับคร่อมเส้นได้ชั่วครู่ เช่น เพื่อเข้าหรือออกจากช่อง หรือเพื่อเลี้ยว — แต่ตัวช่องเองยังคงสงวนไว้สำหรับรถประจำทางและรถราง</p>\n",
+"new": "<h3>ช่องทางพิเศษที่ขับคร่อมได้ (รถประจำทาง/รถราง)</h3>\n<div class=\"tr-icon\"><img alt=\"ช่องทางพิเศษที่ขับคร่อมได้: เส้นทึบกว้าง, เครื่องหมายบนผิวถนนอย่างเป็นทางการ (wegcode.be)\" height=\"55\" src=\"https://www.fahrschule-homburg.be/wp-content/uploads/2026/10/tr-m14-022.png\" style=\"display:block;margin-bottom:8px;object-fit:cover;border-radius:6px;\" width=\"52\"/></div>\n<p>เส้นทึบสีขาวกว้าง (หรือลายตารางหมากรุก) กำหนดขอบช่องทางพิเศษที่ขับคร่อมได้ (ป้าย F18) สำหรับรถประจำทางและรถราง คุณขับเข้าไปได้เฉพาะเพื่อหลบสิ่งกีดขวาง เพื่อเข้าออกที่ดินหรือที่จอดรถ หรือเพื่อข้ามทางแยกเท่านั้น — ไม่ใช่เพื่อเลี้ยวที่ทางแยก</p>\n\n",
+"note": "Busspur/Sonderspur Tausch",
+"de_lid": 43173,
+"lang": "th"
+},
+{
+"lid": 43154,
+"i": 1,
+"old": "https://www.fahrschule-homburg.be/wp-content/uploads/2026/10/tr-m14-002.png",
+"new": "https://www.fahrschule-homburg.be/wp-content/uploads/fh-kurse/b/img/schild-A1a.png",
+"note": "A1a Linkskurve Bild",
+"de_lid": 43154,
+"lang": "de"
+},
+{
+"lid": 43361,
+"i": 1,
+"old": "https://www.fahrschule-homburg.be/wp-content/uploads/2026/10/tr-m14-002.png",
+"new": "https://www.fahrschule-homburg.be/wp-content/uploads/fh-kurse/b/img/schild-A1a.png",
+"note": "A1a Linkskurve Bild",
+"de_lid": 43154,
+"lang": "fr"
+},
+{
+"lid": 43379,
+"i": 1,
+"old": "https://www.fahrschule-homburg.be/wp-content/uploads/2026/10/tr-m14-002.png",
+"new": "https://www.fahrschule-homburg.be/wp-content/uploads/fh-kurse/b/img/schild-A1a.png",
+"note": "A1a Linkskurve Bild",
+"de_lid": 43154,
+"lang": "ar"
+},
+{
+"lid": 43397,
+"i": 1,
+"old": "https://www.fahrschule-homburg.be/wp-content/uploads/2026/10/tr-m14-002.png",
+"new": "https://www.fahrschule-homburg.be/wp-content/uploads/fh-kurse/b/img/schild-A1a.png",
+"note": "A1a Linkskurve Bild",
+"de_lid": 43154,
+"lang": "th"
+},
+{
+"lid": 42359,
+"i": 0,
+"old": "<img src=\"https://www.fahrschule-homburg.be/wp-content/uploads/2026/10/tr-m5-l6-05.jpg\" alt=\"Zonenschild mit Tempolimit 30\" loading=\"lazy\" style=\"max-width:100%;height:auto;border-radius:10px;\" />",
+"new": "<img src=\"https://www.fahrschule-homburg.be/wp-content/uploads/fh-kurse/b/img/015-7b8af5367032.png\" alt=\"Verkehrszeichen F4a: Beginn der Zone 30\" loading=\"lazy\" style=\"max-width:220px;height:auto;border-radius:10px;\" />",
+"note": "Zone30 deutsches Schildfoto -> F4a",
+"de_lid": 42359,
+"lang": "de"
+},
+{
+"lid": 42739,
+"i": 0,
+"old": "<img src=\"https://www.fahrschule-homburg.be/wp-content/uploads/2026/10/tr-m5-l6-05.jpg\" alt=\"Signal de zone avec limitation de vitesse à 30\" loading=\"lazy\" style=\"max-width:100%;height:auto;border-radius:10px;\" />",
+"new": "<img src=\"https://www.fahrschule-homburg.be/wp-content/uploads/fh-kurse/b/img/015-7b8af5367032.png\" alt=\"Signal F4a : début de la zone 30\" loading=\"lazy\" style=\"max-width:220px;height:auto;border-radius:10px;\" />",
+"note": "Zone30 deutsches Schildfoto -> F4a",
+"de_lid": 42359,
+"lang": "fr"
+},
+{
+"lid": 42890,
+"i": 0,
+"old": "<img src=\"https://www.fahrschule-homburg.be/wp-content/uploads/2026/10/tr-m5-l6-05.jpg\" alt=\"إشارة منطقة بحد سرعة 30\" loading=\"lazy\" style=\"max-width:100%;height:auto;border-radius:10px;\" />",
+"new": "<img src=\"https://www.fahrschule-homburg.be/wp-content/uploads/fh-kurse/b/img/015-7b8af5367032.png\" alt=\"الإشارة F4a: بداية المنطقة 30\" loading=\"lazy\" style=\"max-width:220px;height:auto;border-radius:10px;\" />",
+"note": "Zone30 deutsches Schildfoto -> F4a",
+"de_lid": 42359,
+"lang": "ar"
+},
+{
+"lid": 43041,
+"i": 0,
+"old": "<img src=\"https://www.fahrschule-homburg.be/wp-content/uploads/2026/10/tr-m5-l6-05.jpg\" alt=\"ป้ายโซนที่จำกัดความเร็ว 30\" loading=\"lazy\" style=\"max-width:100%;height:auto;border-radius:10px;\" />",
+"new": "<img src=\"https://www.fahrschule-homburg.be/wp-content/uploads/fh-kurse/b/img/015-7b8af5367032.png\" alt=\"ป้าย F4a: เริ่มต้นโซน 30\" loading=\"lazy\" style=\"max-width:220px;height:auto;border-radius:10px;\" />",
+"note": "Zone30 deutsches Schildfoto -> F4a",
+"de_lid": 42359,
+"lang": "th"
+},
+{
+"lid": 42382,
+"i": 8,
+"old": "<img src=\"https://www.fahrschule-homburg.be/wp-content/uploads/fh-kurse/b/img/sit-bf8df1b9.jpg\" alt=\"Am Radüberweg: gemäßigtes Tempo, Querende nicht gefährden\"",
+"new": "<img src=\"https://www.fahrschule-homburg.be/wp-content/uploads/fh-kurse/b/img/112-b00ecfae445f.png\" alt=\"Verkehrszeichen F50: Überweg für Radfahrer und Mofas\"",
+"note": "Radüberweg Zebra-Foto -> F50",
+"de_lid": 42382,
+"lang": "de"
+},
+{
+"lid": 42750,
+"i": 8,
+"old": "<img src=\"https://www.fahrschule-homburg.be/wp-content/uploads/fh-kurse/b/img/sit-bf8df1b9.jpg\" alt=\"Au passage cyclable : vitesse modérée, ne pas mettre en danger\"",
+"new": "<img src=\"https://www.fahrschule-homburg.be/wp-content/uploads/fh-kurse/b/img/112-b00ecfae445f.png\" alt=\"Signal F50 : passage pour cyclistes et cyclomoteurs\"",
+"note": "Radüberweg Zebra-Foto -> F50",
+"de_lid": 42382,
+"lang": "fr"
+},
+{
+"lid": 42901,
+"i": 8,
+"old": "<img src=\"https://www.fahrschule-homburg.be/wp-content/uploads/fh-kurse/b/img/sit-bf8df1b9.jpg\" alt=\"عند معبر الدراجات: سرعة معتدلة ولا تعرّض العابرين للخطر\"",
+"new": "<img src=\"https://www.fahrschule-homburg.be/wp-content/uploads/fh-kurse/b/img/112-b00ecfae445f.png\" alt=\"الإشارة F50: ممرّ لراكبي الدراجات والدراجات الصغيرة\"",
+"note": "Radüberweg Zebra-Foto -> F50",
+"de_lid": 42382,
+"lang": "ar"
+},
+{
+"lid": 43052,
+"i": 8,
+"old": "<img src=\"https://www.fahrschule-homburg.be/wp-content/uploads/fh-kurse/b/img/sit-bf8df1b9.jpg\" alt=\"ที่ทางข้ามจักรยาน: ชะลอและไม่ทำให้ผู้ข้ามเสี่ยง\"",
+"new": "<img src=\"https://www.fahrschule-homburg.be/wp-content/uploads/fh-kurse/b/img/112-b00ecfae445f.png\" alt=\"ป้าย F50: ทางข้ามสำหรับจักรยานและโมฟา\"",
+"note": "Radüberweg Zebra-Foto -> F50",
+"de_lid": 42382,
+"lang": "th"
+},
+{
+"lid": 42727,
+"i": 1,
+"old": "Le feu valable pour toi se trouve",
+"new": "Le feu valable pour vous se trouve",
+"note": "fr vous",
+"de_lid": 42317,
+"lang": "fr"
+},
+{
+"lid": 42728,
+"i": 2,
+"old": "tu peux rouler un peu plus à gauche",
+"new": "vous pouvez rouler un peu plus à gauche",
+"note": "fr vous",
+"de_lid": 42318,
+"lang": "fr"
+},
+{
+"lid": 42747,
+"i": 8,
+"old": "si elle est ouverte à ton sens",
+"new": "si elle est ouverte à votre sens",
+"note": "fr vous",
+"de_lid": 42373,
+"lang": "fr"
+},
+{
+"lid": 42821,
+"i": 4,
+"old": "L&#x27;assistance aide — tu conduis",
+"new": "L&#x27;assistance aide — vous conduisez",
+"note": "fr vous",
+"de_lid": 42615,
+"lang": "fr"
+},
+{
+"lid": 42821,
+"i": 4,
+"old": "La responsabilité reste la tienne",
+"new": "La responsabilité reste la vôtre",
+"note": "fr vous",
+"de_lid": 42615,
+"lang": "fr"
+},
+{
+"lid": 42839,
+"i": 5,
+"old": "tu n&#039;as pas la priorité",
+"new": "vous n&#039;avez pas la priorité",
+"note": "fr vous",
+"de_lid": 42687,
+"lang": "fr"
+},
+{
+"lid": 42693,
+"i": 0,
+"old": "alt=\"Luftaufnahme einer belgischen Autobahn: unsere Fahrtrichtung steht im Stau, ein Rettungswagen fährt durch die Gasse zwischen den Spuren, auf der Gegenfahrbahn fliesst der Verkehr normal\"",
+"new": "alt=\"Vue aérienne d'une autoroute belge : notre sens de circulation est à l'arrêt, une ambulance passe par le couloir de secours entre les files, la circulation est normale sur l'autre chaussée\"",
+"note": "Cover-Alt übersetzt",
+"de_lid": 42097,
+"lang": "fr"
+},
+{
+"lid": 42844,
+"i": 0,
+"old": "alt=\"Luftaufnahme einer belgischen Autobahn: unsere Fahrtrichtung steht im Stau, ein Rettungswagen fährt durch die Gasse zwischen den Spuren, auf der Gegenfahrbahn fliesst der Verkehr normal\"",
+"new": "alt=\"صورة جوية لطريق سريع بلجيكي: اتجاهنا متوقف في الازدحام، سيارة إسعاف تمرّ عبر ممرّ الطوارئ بين الصفوف، والحركة طبيعية في الاتجاه المعاكس\"",
+"note": "Cover-Alt übersetzt",
+"de_lid": 42097,
+"lang": "ar"
+},
+{
+"lid": 42995,
+"i": 0,
+"old": "alt=\"Luftaufnahme einer belgischen Autobahn: unsere Fahrtrichtung steht im Stau, ein Rettungswagen fährt durch die Gasse zwischen den Spuren, auf der Gegenfahrbahn fliesst der Verkehr normal\"",
+"new": "alt=\"ภาพมุมสูงของทางด่วนเบลเยียม: ฝั่งของเรารถติด รถพยาบาลวิ่งผ่านช่องทางฉุกเฉินระหว่างเลน ส่วนอีกฝั่งการจราจรปกติ\"",
+"note": "Cover-Alt übersetzt",
+"de_lid": 42097,
+"lang": "th"
+},
+{
+"lid": 42707,
+"i": 0,
+"old": "alt=\"Kreuzung von oben mit zwei Fahrzeugen\"",
+"new": "alt=\"Carrefour vu d'en haut avec deux véhicules\"",
+"note": "Cover-Alt übersetzt",
+"de_lid": 42135,
+"lang": "fr"
+},
+{
+"lid": 42858,
+"i": 0,
+"old": "alt=\"Kreuzung von oben mit zwei Fahrzeugen\"",
+"new": "alt=\"تقاطع من الأعلى مع مركبتين\"",
+"note": "Cover-Alt übersetzt",
+"de_lid": 42135,
+"lang": "ar"
+},
+{
+"lid": 43009,
+"i": 0,
+"old": "alt=\"Kreuzung von oben mit zwei Fahrzeugen\"",
+"new": "alt=\"ทางแยกมองจากด้านบนพร้อมรถสองคัน\"",
+"note": "Cover-Alt übersetzt",
+"de_lid": 42135,
+"lang": "th"
+},
+{
+"lid": 42718,
+"i": 0,
+"old": "alt=\"Kreisverkehr von oben mit Ein- und Ausfahrten\"",
+"new": "alt=\"Rond-point vu d'en haut avec entrées et sorties\"",
+"note": "Cover-Alt übersetzt",
+"de_lid": 42296,
+"lang": "fr"
+},
+{
+"lid": 42869,
+"i": 0,
+"old": "alt=\"Kreisverkehr von oben mit Ein- und Ausfahrten\"",
+"new": "alt=\"دوّار من الأعلى مع مداخل ومخارج\"",
+"note": "Cover-Alt übersetzt",
+"de_lid": 42296,
+"lang": "ar"
+},
+{
+"lid": 43020,
+"i": 0,
+"old": "alt=\"Kreisverkehr von oben mit Ein- und Ausfahrten\"",
+"new": "alt=\"วงเวียนมองจากด้านบนพร้อมทางเข้าและทางออก\"",
+"note": "Cover-Alt übersetzt",
+"de_lid": 42296,
+"lang": "th"
+},
+{
+"lid": 42733,
+"i": 0,
+"old": "alt=\"Zwei Autos mit Sicherheitsabstand auf einer Fahrbahn\"",
+"new": "alt=\"Deux voitures avec distance de sécurité sur une chaussée\"",
+"note": "Cover-Alt übersetzt",
+"de_lid": 42329,
+"lang": "fr"
+},
+{
+"lid": 42884,
+"i": 0,
+"old": "alt=\"Zwei Autos mit Sicherheitsabstand auf einer Fahrbahn\"",
+"new": "alt=\"سيارتان بمسافة أمان على الطريق\"",
+"note": "Cover-Alt übersetzt",
+"de_lid": 42329,
+"lang": "ar"
+},
+{
+"lid": 43035,
+"i": 0,
+"old": "alt=\"Zwei Autos mit Sicherheitsabstand auf einer Fahrbahn\"",
+"new": "alt=\"รถสองคันเว้นระยะห่างปลอดภัยบนถนน\"",
+"note": "Cover-Alt übersetzt",
+"de_lid": 42329,
+"lang": "th"
+},
+{
+"lid": 42754,
+"i": 0,
+"old": "alt=\"Parkbuchten mit zwei geparkten Autos und einer reservierten Bucht\"",
+"new": "alt=\"Places de stationnement avec deux voitures garées et une place réservée\"",
+"note": "Cover-Alt übersetzt",
+"de_lid": 42392,
+"lang": "fr"
+},
+{
+"lid": 42905,
+"i": 0,
+"old": "alt=\"Parkbuchten mit zwei geparkten Autos und einer reservierten Bucht\"",
+"new": "alt=\"مواقف سيارات مع سيارتين متوقفتين وموقف محجوز\"",
+"note": "Cover-Alt übersetzt",
+"de_lid": 42392,
+"lang": "ar"
+},
+{
+"lid": 43056,
+"i": 0,
+"old": "alt=\"Parkbuchten mit zwei geparkten Autos und einer reservierten Bucht\"",
+"new": "alt=\"ช่องจอดรถที่มีรถจอดสองคันและช่องสงวนหนึ่งช่อง\"",
+"note": "Cover-Alt übersetzt",
+"de_lid": 42392,
+"lang": "th"
+},
+{
+"lid": 42765,
+"i": 0,
+"old": "alt=\"Autobahn mit Auffahrt und einfädelndem Fahrzeug\"",
+"new": "alt=\"Autoroute avec bretelle d'accès et véhicule qui s'insère\"",
+"note": "Cover-Alt übersetzt",
+"de_lid": 42445,
+"lang": "fr"
+},
+{
+"lid": 42916,
+"i": 0,
+"old": "alt=\"Autobahn mit Auffahrt und einfädelndem Fahrzeug\"",
+"new": "alt=\"طريق سريع مع مدخل ومركبة تندمج في الحركة\"",
+"note": "Cover-Alt übersetzt",
+"de_lid": 42445,
+"lang": "ar"
+},
+{
+"lid": 43067,
+"i": 0,
+"old": "alt=\"Autobahn mit Auffahrt und einfädelndem Fahrzeug\"",
+"new": "alt=\"ทางด่วนพร้อมทางขึ้นและรถที่กำลังแทรกเข้าเลน\"",
+"note": "Cover-Alt übersetzt",
+"de_lid": 42445,
+"lang": "th"
+},
+{
+"lid": 42776,
+"i": 0,
+"old": "alt=\"Armaturenbrett mit Kontrollleuchten\"",
+"new": "alt=\"Tableau de bord avec témoins lumineux\"",
+"note": "Cover-Alt übersetzt",
+"de_lid": 42468,
+"lang": "fr"
+},
+{
+"lid": 42927,
+"i": 0,
+"old": "alt=\"Armaturenbrett mit Kontrollleuchten\"",
+"new": "alt=\"لوحة القيادة مع أضواء التحذير\"",
+"note": "Cover-Alt übersetzt",
+"de_lid": 42468,
+"lang": "ar"
+},
+{
+"lid": 43078,
+"i": 0,
+"old": "alt=\"Armaturenbrett mit Kontrollleuchten\"",
+"new": "alt=\"แผงหน้าปัดพร้อมไฟเตือน\"",
+"note": "Cover-Alt übersetzt",
+"de_lid": 42468,
+"lang": "th"
+},
+{
+"lid": 42793,
+"i": 0,
+"old": "alt=\"Polizeikontrolle mit Atemalkoholtest\"",
+"new": "alt=\"Contrôle de police avec test d'haleine\"",
+"note": "Cover-Alt übersetzt",
+"de_lid": 42521,
+"lang": "fr"
+},
+{
+"lid": 42944,
+"i": 0,
+"old": "alt=\"Polizeikontrolle mit Atemalkoholtest\"",
+"new": "alt=\"نقطة تفتيش للشرطة مع اختبار الكحول بالنفخ\"",
+"note": "Cover-Alt übersetzt",
+"de_lid": 42521,
+"lang": "ar"
+},
+{
+"lid": 43095,
+"i": 0,
+"old": "alt=\"Polizeikontrolle mit Atemalkoholtest\"",
+"new": "alt=\"ด่านตรวจของตำรวจพร้อมการตรวจแอลกอฮอล์ด้วยลมหายใจ\"",
+"note": "Cover-Alt übersetzt",
+"de_lid": 42521,
+"lang": "th"
+},
+{
+"lid": 42817,
+"i": 0,
+"old": "alt=\"Blick vom Fahrersitz auf eine kurvige Landstraße im Herbst\"",
+"new": "alt=\"Vue depuis le siège du conducteur sur une route de campagne sinueuse en automne\"",
+"note": "Cover-Alt übersetzt",
+"de_lid": 42593,
+"lang": "fr"
+},
+{
+"lid": 42968,
+"i": 0,
+"old": "alt=\"Blick vom Fahrersitz auf eine kurvige Landstraße im Herbst\"",
+"new": "alt=\"منظر من مقعد السائق لطريق ريفي متعرّج في الخريف\"",
+"note": "Cover-Alt übersetzt",
+"de_lid": 42593,
+"lang": "ar"
+},
+{
+"lid": 43119,
+"i": 0,
+"old": "alt=\"Blick vom Fahrersitz auf eine kurvige Landstraße im Herbst\"",
+"new": "alt=\"มุมมองจากที่นั่งคนขับสู่ถนนชนบทคดเคี้ยวในฤดูใบไม้ร่วง\"",
+"note": "Cover-Alt übersetzt",
+"de_lid": 42593,
+"lang": "th"
+},
+{
+"lid": 42834,
+"i": 0,
+"old": "alt=\"Prüfungsbogen mit Multiple-Choice-Fragen und Stoppuhr\"",
+"new": "alt=\"Feuille d'examen avec questions à choix multiple et chronomètre\"",
+"note": "Cover-Alt übersetzt",
+"de_lid": 42682,
+"lang": "fr"
+},
+{
+"lid": 42985,
+"i": 0,
+"old": "alt=\"Prüfungsbogen mit Multiple-Choice-Fragen und Stoppuhr\"",
+"new": "alt=\"ورقة امتحان بأسئلة اختيار من متعدّد وساعة توقيت\"",
+"note": "Cover-Alt übersetzt",
+"de_lid": 42682,
+"lang": "ar"
+},
+{
+"lid": 43136,
+"i": 0,
+"old": "alt=\"Prüfungsbogen mit Multiple-Choice-Fragen und Stoppuhr\"",
+"new": "alt=\"กระดาษข้อสอบแบบปรนัยพร้อมนาฬิกาจับเวลา\"",
+"note": "Cover-Alt übersetzt",
+"de_lid": 42682,
+"lang": "th"
+},
+{
+"lid": 43224,
+"i": 21,
+"old": "<h3>Verbot angekündigt</h3>\n",
+"new": "<h3>Verbot angekündigt</h3>\n<div class=\"tr-icon\"><img alt=\"Zusatzschild mit Entfernungsangabe – Voranzeige\" src=\"https://www.fahrschule-homburg.be/wp-content/uploads/fh-kurse/b/img/schild-GIa-150m.png\" style=\"margin:0;max-width:100%;object-fit:contain;\"/></div>\n",
+"note": "M13 Bild ergänzt",
+"de_lid": 43224,
+"lang": "de"
+},
+{
+"lid": 43366,
+"i": 21,
+"old": "<h3>Interdiction annoncée</h3>\n",
+"new": "<h3>Interdiction annoncée</h3>\n<div class=\"tr-icon\"><img alt=\"Signal additionnel de distance – présignalisation\" src=\"https://www.fahrschule-homburg.be/wp-content/uploads/fh-kurse/b/img/schild-GIa-150m.png\" style=\"margin:0;max-width:100%;object-fit:contain;\"/></div>\n",
+"note": "M13 Bild ergänzt",
+"de_lid": 43224,
+"lang": "fr"
+},
+{
+"lid": 43384,
+"i": 21,
+"old": "<h3>الإعلان عن منع</h3>\n",
+"new": "<h3>الإعلان عن منع</h3>\n<div class=\"tr-icon\"><img alt=\"لوحة إضافية بالمسافة – إنذار مسبق\" src=\"https://www.fahrschule-homburg.be/wp-content/uploads/fh-kurse/b/img/schild-GIa-150m.png\" style=\"margin:0;max-width:100%;object-fit:contain;\"/></div>\n",
+"note": "M13 Bild ergänzt",
+"de_lid": 43224,
+"lang": "ar"
+},
+{
+"lid": 43402,
+"i": 21,
+"old": "<h3>ประกาศข้อห้ามล่วงหน้า</h3>\n",
+"new": "<h3>ประกาศข้อห้ามล่วงหน้า</h3>\n<div class=\"tr-icon\"><img alt=\"ป้ายเสริมบอกระยะทาง – ประกาศล่วงหน้า\" src=\"https://www.fahrschule-homburg.be/wp-content/uploads/fh-kurse/b/img/schild-GIa-150m.png\" style=\"margin:0;max-width:100%;object-fit:contain;\"/></div>\n",
+"note": "M13 Bild ergänzt",
+"de_lid": 43224,
+"lang": "th"
+},
+{
+"lid": 43231,
+"i": 7,
+"old": "<h3>Gebot angekündigt</h3>\n",
+"new": "<h3>Gebot angekündigt</h3>\n<div class=\"tr-icon\"><img alt=\"Zusatzschild mit Entfernungsangabe – Voranzeige\" src=\"https://www.fahrschule-homburg.be/wp-content/uploads/fh-kurse/b/img/schild-GIa-150m.png\" style=\"margin:0;max-width:100%;object-fit:contain;\"/></div>\n",
+"note": "M13 Bild ergänzt",
+"de_lid": 43231,
+"lang": "de"
+},
+{
+"lid": 43367,
+"i": 7,
+"old": "<h3>Obligation annoncée</h3>\n",
+"new": "<h3>Obligation annoncée</h3>\n<div class=\"tr-icon\"><img alt=\"Signal additionnel de distance – présignalisation\" src=\"https://www.fahrschule-homburg.be/wp-content/uploads/fh-kurse/b/img/schild-GIa-150m.png\" style=\"margin:0;max-width:100%;object-fit:contain;\"/></div>\n",
+"note": "M13 Bild ergänzt",
+"de_lid": 43231,
+"lang": "fr"
+},
+{
+"lid": 43385,
+"i": 7,
+"old": "<h3>الإعلان عن إلزام</h3>\n",
+"new": "<h3>الإعلان عن إلزام</h3>\n<div class=\"tr-icon\"><img alt=\"لوحة إضافية بالمسافة – إنذار مسبق\" src=\"https://www.fahrschule-homburg.be/wp-content/uploads/fh-kurse/b/img/schild-GIa-150m.png\" style=\"margin:0;max-width:100%;object-fit:contain;\"/></div>\n",
+"note": "M13 Bild ergänzt",
+"de_lid": 43231,
+"lang": "ar"
+},
+{
+"lid": 43403,
+"i": 7,
+"old": "<h3>ประกาศข้อบังคับล่วงหน้า</h3>\n",
+"new": "<h3>ประกาศข้อบังคับล่วงหน้า</h3>\n<div class=\"tr-icon\"><img alt=\"ป้ายเสริมบอกระยะทาง – ประกาศล่วงหน้า\" src=\"https://www.fahrschule-homburg.be/wp-content/uploads/fh-kurse/b/img/schild-GIa-150m.png\" style=\"margin:0;max-width:100%;object-fit:contain;\"/></div>\n",
+"note": "M13 Bild ergänzt",
+"de_lid": 43231,
+"lang": "th"
+},
+{
+"lid": 43290,
+"i": 27,
+"old": "<h3>F1/F3 – Mit oder ohne Ortsname</h3>\n",
+"new": "<h3>F1/F3 – Mit oder ohne Ortsname</h3>\n<div class=\"tr-icon\"><img alt=\"Verkehrszeichen F1\" src=\"https://www.fahrschule-homburg.be/wp-content/uploads/fh-kurse/b/img/z-F1.png\" style=\"margin:0;max-width:100%;object-fit:contain;\"/><img alt=\"Verkehrszeichen F3\" src=\"https://www.fahrschule-homburg.be/wp-content/uploads/fh-kurse/b/img/z-F3.png\" style=\"margin:0;max-width:100%;object-fit:contain;\"/></div>\n",
+"note": "M13 Bild ergänzt",
+"de_lid": 43290,
+"lang": "de"
+},
+{
+"lid": 43369,
+"i": 27,
+"old": "<h3>F1/F3 – Avec ou sans nom de localité</h3>\n",
+"new": "<h3>F1/F3 – Avec ou sans nom de localité</h3>\n<div class=\"tr-icon\"><img alt=\"Signal F1\" src=\"https://www.fahrschule-homburg.be/wp-content/uploads/fh-kurse/b/img/z-F1.png\" style=\"margin:0;max-width:100%;object-fit:contain;\"/><img alt=\"Signal F3\" src=\"https://www.fahrschule-homburg.be/wp-content/uploads/fh-kurse/b/img/z-F3.png\" style=\"margin:0;max-width:100%;object-fit:contain;\"/></div>\n",
+"note": "M13 Bild ergänzt",
+"de_lid": 43290,
+"lang": "fr"
+},
+{
+"lid": 43387,
+"i": 27,
+"old": "<h3>F1/F3 – مع اسم المكان أو بدونه</h3>\n",
+"new": "<h3>F1/F3 – مع اسم المكان أو بدونه</h3>\n<div class=\"tr-icon\"><img alt=\"الإشارة F1\" src=\"https://www.fahrschule-homburg.be/wp-content/uploads/fh-kurse/b/img/z-F1.png\" style=\"margin:0;max-width:100%;object-fit:contain;\"/><img alt=\"الإشارة F3\" src=\"https://www.fahrschule-homburg.be/wp-content/uploads/fh-kurse/b/img/z-F3.png\" style=\"margin:0;max-width:100%;object-fit:contain;\"/></div>\n",
+"note": "M13 Bild ergänzt",
+"de_lid": 43290,
+"lang": "ar"
+},
+{
+"lid": 43405,
+"i": 27,
+"old": "<h3>F1/F3 – มีหรือไม่มีชื่อสถานที่</h3>\n",
+"new": "<h3>F1/F3 – มีหรือไม่มีชื่อสถานที่</h3>\n<div class=\"tr-icon\"><img alt=\"ป้าย F1\" src=\"https://www.fahrschule-homburg.be/wp-content/uploads/fh-kurse/b/img/z-F1.png\" style=\"margin:0;max-width:100%;object-fit:contain;\"/><img alt=\"ป้าย F3\" src=\"https://www.fahrschule-homburg.be/wp-content/uploads/fh-kurse/b/img/z-F3.png\" style=\"margin:0;max-width:100%;object-fit:contain;\"/></div>\n",
+"note": "M13 Bild ergänzt",
+"de_lid": 43290,
+"lang": "th"
+},
+{
+"lid": 43290,
+"i": 30,
+"old": "<h3>F23b/F23d – Autobahn- und Ringnummer</h3>\n",
+"new": "<h3>F23b/F23d – Autobahn- und Ringnummer</h3>\n<div class=\"tr-icon\"><img alt=\"Verkehrszeichen F23b\" src=\"https://www.fahrschule-homburg.be/wp-content/uploads/2026/10/tr-m14-155.png\" style=\"margin:0;max-width:100%;object-fit:contain;\"/><img alt=\"Verkehrszeichen F23d\" src=\"https://www.fahrschule-homburg.be/wp-content/uploads/2026/10/tr-m14-156.png\" style=\"margin:0;max-width:100%;object-fit:contain;\"/></div>\n",
+"note": "M13 Bild ergänzt",
+"de_lid": 43290,
+"lang": "de"
+},
+{
+"lid": 43369,
+"i": 30,
+"old": "<h3>F23b/F23d – Numéro d'autoroute et de ring</h3>\n",
+"new": "<h3>F23b/F23d – Numéro d'autoroute et de ring</h3>\n<div class=\"tr-icon\"><img alt=\"Signal F23b\" src=\"https://www.fahrschule-homburg.be/wp-content/uploads/2026/10/tr-m14-155.png\" style=\"margin:0;max-width:100%;object-fit:contain;\"/><img alt=\"Signal F23d\" src=\"https://www.fahrschule-homburg.be/wp-content/uploads/2026/10/tr-m14-156.png\" style=\"margin:0;max-width:100%;object-fit:contain;\"/></div>\n",
+"note": "M13 Bild ergänzt",
+"de_lid": 43290,
+"lang": "fr"
+},
+{
+"lid": 43387,
+"i": 30,
+"old": "<h3>F23b/F23d – رقم الطريق السريع ورقم الطريق الدائري</h3>\n",
+"new": "<h3>F23b/F23d – رقم الطريق السريع ورقم الطريق الدائري</h3>\n<div class=\"tr-icon\"><img alt=\"الإشارة F23b\" src=\"https://www.fahrschule-homburg.be/wp-content/uploads/2026/10/tr-m14-155.png\" style=\"margin:0;max-width:100%;object-fit:contain;\"/><img alt=\"الإشارة F23d\" src=\"https://www.fahrschule-homburg.be/wp-content/uploads/2026/10/tr-m14-156.png\" style=\"margin:0;max-width:100%;object-fit:contain;\"/></div>\n",
+"note": "M13 Bild ergänzt",
+"de_lid": 43290,
+"lang": "ar"
+},
+{
+"lid": 43405,
+"i": 30,
+"old": "<h3>F23b/F23d – หมายเลขทางด่วนและถนนวงแหวน</h3>\n",
+"new": "<h3>F23b/F23d – หมายเลขทางด่วนและถนนวงแหวน</h3>\n<div class=\"tr-icon\"><img alt=\"ป้าย F23b\" src=\"https://www.fahrschule-homburg.be/wp-content/uploads/2026/10/tr-m14-155.png\" style=\"margin:0;max-width:100%;object-fit:contain;\"/><img alt=\"ป้าย F23d\" src=\"https://www.fahrschule-homburg.be/wp-content/uploads/2026/10/tr-m14-156.png\" style=\"margin:0;max-width:100%;object-fit:contain;\"/></div>\n",
+"note": "M13 Bild ergänzt",
+"de_lid": 43290,
+"lang": "th"
+},
+{
+"lid": 43290,
+"i": 32,
+"old": "<h3>F43 – Ortsschild ohne Tempolimit</h3>\n",
+"new": "<h3>F43 – Ortsschild ohne Tempolimit</h3>\n<div class=\"tr-icon\"><img alt=\"Verkehrszeichen F43\" src=\"https://www.fahrschule-homburg.be/wp-content/uploads/2026/10/tr-m14-168.png\" style=\"margin:0;max-width:100%;object-fit:contain;\"/></div>\n",
+"note": "M13 Bild ergänzt",
+"de_lid": 43290,
+"lang": "de"
+},
+{
+"lid": 43369,
+"i": 32,
+"old": "<h3>F43 – Signal de localité sans limitation de vitesse</h3>\n",
+"new": "<h3>F43 – Signal de localité sans limitation de vitesse</h3>\n<div class=\"tr-icon\"><img alt=\"Signal F43\" src=\"https://www.fahrschule-homburg.be/wp-content/uploads/2026/10/tr-m14-168.png\" style=\"margin:0;max-width:100%;object-fit:contain;\"/></div>\n",
+"note": "M13 Bild ergänzt",
+"de_lid": 43290,
+"lang": "fr"
+},
+{
+"lid": 43387,
+"i": 32,
+"old": "<h3>F43 – لافتة اسم المكان بلا حدّ سرعة</h3>\n",
+"new": "<h3>F43 – لافتة اسم المكان بلا حدّ سرعة</h3>\n<div class=\"tr-icon\"><img alt=\"الإشارة F43\" src=\"https://www.fahrschule-homburg.be/wp-content/uploads/2026/10/tr-m14-168.png\" style=\"margin:0;max-width:100%;object-fit:contain;\"/></div>\n",
+"note": "M13 Bild ergänzt",
+"de_lid": 43290,
+"lang": "ar"
+},
+{
+"lid": 43405,
+"i": 32,
+"old": "<h3>F43 – ป้ายชื่อสถานที่ที่ไม่มีขีดจำกัดความเร็ว</h3>\n",
+"new": "<h3>F43 – ป้ายชื่อสถานที่ที่ไม่มีขีดจำกัดความเร็ว</h3>\n<div class=\"tr-icon\"><img alt=\"ป้าย F43\" src=\"https://www.fahrschule-homburg.be/wp-content/uploads/2026/10/tr-m14-168.png\" style=\"margin:0;max-width:100%;object-fit:contain;\"/></div>\n",
+"note": "M13 Bild ergänzt",
+"de_lid": 43290,
+"lang": "th"
+},
+{
+"lid": 43344,
+"i": 17,
+"old": "<h3>E9i – Parken nur für Motorräder</h3>\n",
+"new": "<h3>E9i – Parken nur für Motorräder</h3>\n<div class=\"tr-icon\"><img alt=\"Verkehrszeichen E9i\" src=\"https://www.fahrschule-homburg.be/wp-content/uploads/2026/10/tr-m14-096.png\" style=\"margin:0;max-width:100%;object-fit:contain;\"/></div>\n",
+"note": "M13 Bild ergänzt",
+"de_lid": 43344,
+"lang": "de"
+},
+{
+"lid": 43370,
+"i": 17,
+"old": "<h3>E9i – Stationnement réservé aux motos</h3>\n",
+"new": "<h3>E9i – Stationnement réservé aux motos</h3>\n<div class=\"tr-icon\"><img alt=\"Signal E9i\" src=\"https://www.fahrschule-homburg.be/wp-content/uploads/2026/10/tr-m14-096.png\" style=\"margin:0;max-width:100%;object-fit:contain;\"/></div>\n",
+"note": "M13 Bild ergänzt",
+"de_lid": 43344,
+"lang": "fr"
+},
+{
+"lid": 43388,
+"i": 17,
+"old": "<h3>E9i – الوقوف للدراجات النارية فقط</h3>\n",
+"new": "<h3>E9i – الوقوف للدراجات النارية فقط</h3>\n<div class=\"tr-icon\"><img alt=\"الإشارة E9i\" src=\"https://www.fahrschule-homburg.be/wp-content/uploads/2026/10/tr-m14-096.png\" style=\"margin:0;max-width:100%;object-fit:contain;\"/></div>\n",
+"note": "M13 Bild ergänzt",
+"de_lid": 43344,
+"lang": "ar"
+},
+{
+"lid": 43406,
+"i": 17,
+"old": "<h3>E9i – จอดได้เฉพาะรถจักรยานยนต์</h3>\n",
+"new": "<h3>E9i – จอดได้เฉพาะรถจักรยานยนต์</h3>\n<div class=\"tr-icon\"><img alt=\"ป้าย E9i\" src=\"https://www.fahrschule-homburg.be/wp-content/uploads/2026/10/tr-m14-096.png\" style=\"margin:0;max-width:100%;object-fit:contain;\"/></div>\n",
+"note": "M13 Bild ergänzt",
+"de_lid": 43344,
+"lang": "th"
+},
+{
+"lid": 43348,
+"i": 1,
+"old": "<h3>Zone – Zonenschilder für andere Verbote</h3>\n",
+"new": "<h3>Zone – Zonenschilder für andere Verbote</h3>\n<div class=\"tr-icon\"><img alt=\"Zonenschild mit C35 – Beginn und Ende der Zone\" src=\"https://www.fahrschule-homburg.be/wp-content/uploads/fh-kurse/b/img/schild-zone-C35.png\" style=\"margin:0;max-width:100%;object-fit:contain;\"/></div>\n",
+"note": "M13 Bild ergänzt",
+"de_lid": 43348,
+"lang": "de"
+},
+{
+"lid": 43371,
+"i": 1,
+"old": "<h3>Zone – Signaux de zone pour d'autres interdictions</h3>\n",
+"new": "<h3>Zone – Signaux de zone pour d'autres interdictions</h3>\n<div class=\"tr-icon\"><img alt=\"Signal de zone avec C35 – début et fin de zone\" src=\"https://www.fahrschule-homburg.be/wp-content/uploads/fh-kurse/b/img/schild-zone-C35.png\" style=\"margin:0;max-width:100%;object-fit:contain;\"/></div>\n",
+"note": "M13 Bild ergänzt",
+"de_lid": 43348,
+"lang": "fr"
+},
+{
+"lid": 43389,
+"i": 1,
+"old": "<h3>منطقة – إشارات المنطقة لمحظورات أخرى</h3>\n",
+"new": "<h3>منطقة – إشارات المنطقة لمحظورات أخرى</h3>\n<div class=\"tr-icon\"><img alt=\"إشارة منطقة مع C35 – بداية المنطقة ونهايتها\" src=\"https://www.fahrschule-homburg.be/wp-content/uploads/fh-kurse/b/img/schild-zone-C35.png\" style=\"margin:0;max-width:100%;object-fit:contain;\"/></div>\n",
+"note": "M13 Bild ergänzt",
+"de_lid": 43348,
+"lang": "ar"
+},
+{
+"lid": 43407,
+"i": 1,
+"old": "<h3>โซน – ป้ายโซนสำหรับข้อห้ามอื่น ๆ</h3>\n",
+"new": "<h3>โซน – ป้ายโซนสำหรับข้อห้ามอื่น ๆ</h3>\n<div class=\"tr-icon\"><img alt=\"ป้ายโซนพร้อม C35 – เริ่มต้นและสิ้นสุดโซน\" src=\"https://www.fahrschule-homburg.be/wp-content/uploads/fh-kurse/b/img/schild-zone-C35.png\" style=\"margin:0;max-width:100%;object-fit:contain;\"/></div>\n",
+"note": "M13 Bild ergänzt",
+"de_lid": 43348,
+"lang": "th"
+},
+{
+"lid": 43348,
+"i": 7,
+"old": "<h3>B / C / D / E – Unter C24a oder D4</h3>\n",
+"new": "<h3>B / C / D / E – Unter C24a oder D4</h3>\n<div class=\"tr-icon\"><img alt=\"D4 mit Zusatzschild B – Tunnelkategorie für Gefahrgut\" src=\"https://www.fahrschule-homburg.be/wp-content/uploads/2026/10/tr-m14-150.png\" style=\"margin:0;max-width:100%;object-fit:contain;\"/></div>\n",
+"note": "M13 Bild ergänzt",
+"de_lid": 43348,
+"lang": "de"
+},
+{
+"lid": 43371,
+"i": 7,
+"old": "<h3>B / C / D / E – Sous C24a ou D4</h3>\n",
+"new": "<h3>B / C / D / E – Sous C24a ou D4</h3>\n<div class=\"tr-icon\"><img alt=\"D4 avec additionnel B – catégorie de tunnel pour marchandises dangereuses\" src=\"https://www.fahrschule-homburg.be/wp-content/uploads/2026/10/tr-m14-150.png\" style=\"margin:0;max-width:100%;object-fit:contain;\"/></div>\n",
+"note": "M13 Bild ergänzt",
+"de_lid": 43348,
+"lang": "fr"
+},
+{
+"lid": 43389,
+"i": 7,
+"old": "<h3>B / C / D / E – تحت C24a أو D4</h3>\n",
+"new": "<h3>B / C / D / E – تحت C24a أو D4</h3>\n<div class=\"tr-icon\"><img alt=\"D4 مع لوحة B – فئة النفق للبضائع الخطرة\" src=\"https://www.fahrschule-homburg.be/wp-content/uploads/2026/10/tr-m14-150.png\" style=\"margin:0;max-width:100%;object-fit:contain;\"/></div>\n",
+"note": "M13 Bild ergänzt",
+"de_lid": 43348,
+"lang": "ar"
+},
+{
+"lid": 43407,
+"i": 7,
+"old": "<h3>B / C / D / E – ใต้ป้าย C24a หรือ D4</h3>\n",
+"new": "<h3>B / C / D / E – ใต้ป้าย C24a หรือ D4</h3>\n<div class=\"tr-icon\"><img alt=\"D4 พร้อมป้ายเสริม B – ประเภทอุโมงค์สำหรับสินค้าอันตราย\" src=\"https://www.fahrschule-homburg.be/wp-content/uploads/2026/10/tr-m14-150.png\" style=\"margin:0;max-width:100%;object-fit:contain;\"/></div>\n",
+"note": "M13 Bild ergänzt",
+"de_lid": 43348,
+"lang": "th"
+},
+{
+"lid": 43348,
+"i": 8,
+"old": "<h3>Entfernung – Voranzeige eines Verbots</h3>\n",
+"new": "<h3>Entfernung – Voranzeige eines Verbots</h3>\n<div class=\"tr-icon\"><img alt=\"Zusatzschild mit Entfernungsangabe – Voranzeige\" src=\"https://www.fahrschule-homburg.be/wp-content/uploads/fh-kurse/b/img/schild-GIa-150m.png\" style=\"margin:0;max-width:100%;object-fit:contain;\"/></div>\n",
+"note": "M13 Bild ergänzt",
+"de_lid": 43348,
+"lang": "de"
+},
+{
+"lid": 43371,
+"i": 8,
+"old": "<h3>Distance – Présignalisation d'une interdiction</h3>\n",
+"new": "<h3>Distance – Présignalisation d'une interdiction</h3>\n<div class=\"tr-icon\"><img alt=\"Signal additionnel de distance – présignalisation\" src=\"https://www.fahrschule-homburg.be/wp-content/uploads/fh-kurse/b/img/schild-GIa-150m.png\" style=\"margin:0;max-width:100%;object-fit:contain;\"/></div>\n",
+"note": "M13 Bild ergänzt",
+"de_lid": 43348,
+"lang": "fr"
+},
+{
+"lid": 43389,
+"i": 8,
+"old": "<h3>المسافة – إنذار مسبق بمنع</h3>\n",
+"new": "<h3>المسافة – إنذار مسبق بمنع</h3>\n<div class=\"tr-icon\"><img alt=\"لوحة إضافية بالمسافة – إنذار مسبق\" src=\"https://www.fahrschule-homburg.be/wp-content/uploads/fh-kurse/b/img/schild-GIa-150m.png\" style=\"margin:0;max-width:100%;object-fit:contain;\"/></div>\n",
+"note": "M13 Bild ergänzt",
+"de_lid": 43348,
+"lang": "ar"
+},
+{
+"lid": 43407,
+"i": 8,
+"old": "<h3>ระยะทาง – แจ้งข้อห้ามล่วงหน้า</h3>\n",
+"new": "<h3>ระยะทาง – แจ้งข้อห้ามล่วงหน้า</h3>\n<div class=\"tr-icon\"><img alt=\"ป้ายเสริมบอกระยะทาง – ประกาศล่วงหน้า\" src=\"https://www.fahrschule-homburg.be/wp-content/uploads/fh-kurse/b/img/schild-GIa-150m.png\" style=\"margin:0;max-width:100%;object-fit:contain;\"/></div>\n",
+"note": "M13 Bild ergänzt",
+"de_lid": 43348,
+"lang": "th"
+},
+{
+"lid": 43348,
+"i": 9,
+"old": "<h3>Länge – Unter Gefahrenschildern</h3>\n",
+"new": "<h3>Länge – Unter Gefahrenschildern</h3>\n<div class=\"tr-icon\"><img alt=\"Zusatzschild: Streckenlänge\" src=\"https://www.fahrschule-homburg.be/wp-content/uploads/fh-kurse/b/img/schild-GII-10km.png\" style=\"margin:0;max-width:100%;object-fit:contain;\"/></div>\n",
+"note": "M13 Bild ergänzt",
+"de_lid": 43348,
+"lang": "de"
+},
+{
+"lid": 43371,
+"i": 9,
+"old": "<h3>Longueur – Sous les signaux de danger</h3>\n",
+"new": "<h3>Longueur – Sous les signaux de danger</h3>\n<div class=\"tr-icon\"><img alt=\"Signal additionnel : longueur du tronçon\" src=\"https://www.fahrschule-homburg.be/wp-content/uploads/fh-kurse/b/img/schild-GII-10km.png\" style=\"margin:0;max-width:100%;object-fit:contain;\"/></div>\n",
+"note": "M13 Bild ergänzt",
+"de_lid": 43348,
+"lang": "fr"
+},
+{
+"lid": 43389,
+"i": 9,
+"old": "<h3>الطول – تحت إشارات التحذير</h3>\n",
+"new": "<h3>الطول – تحت إشارات التحذير</h3>\n<div class=\"tr-icon\"><img alt=\"لوحة إضافية: طول المقطع\" src=\"https://www.fahrschule-homburg.be/wp-content/uploads/fh-kurse/b/img/schild-GII-10km.png\" style=\"margin:0;max-width:100%;object-fit:contain;\"/></div>\n",
+"note": "M13 Bild ergänzt",
+"de_lid": 43348,
+"lang": "ar"
+},
+{
+"lid": 43407,
+"i": 9,
+"old": "<h3>ความยาว – ใต้ป้ายเตือนอันตราย</h3>\n",
+"new": "<h3>ความยาว – ใต้ป้ายเตือนอันตราย</h3>\n<div class=\"tr-icon\"><img alt=\"ป้ายเสริม: ความยาวช่วงถนน\" src=\"https://www.fahrschule-homburg.be/wp-content/uploads/fh-kurse/b/img/schild-GII-10km.png\" style=\"margin:0;max-width:100%;object-fit:contain;\"/></div>\n",
+"note": "M13 Bild ergänzt",
+"de_lid": 43348,
+"lang": "th"
+},
+{
+"lid": 43348,
+"i": 10,
+"old": "<h3>Ausfahrt – Gilt nur für die Ausfahrt rechts</h3>\n",
+"new": "<h3>Ausfahrt – Gilt nur für die Ausfahrt rechts</h3>\n<div class=\"tr-icon\"><img alt=\"Zusatzschild: schräger Pfeil – gilt nur für die Ausfahrt\" src=\"https://www.fahrschule-homburg.be/wp-content/uploads/fh-kurse/b/img/schild-GXI.png\" style=\"margin:0;max-width:100%;object-fit:contain;\"/></div>\n",
+"note": "M13 Bild ergänzt",
+"de_lid": 43348,
+"lang": "de"
+},
+{
+"lid": 43371,
+"i": 10,
+"old": "<h3>Sortie – S'applique uniquement à la sortie de droite</h3>\n",
+"new": "<h3>Sortie – S'applique uniquement à la sortie de droite</h3>\n<div class=\"tr-icon\"><img alt=\"Signal additionnel : flèche oblique – ne vaut que pour la sortie\" src=\"https://www.fahrschule-homburg.be/wp-content/uploads/fh-kurse/b/img/schild-GXI.png\" style=\"margin:0;max-width:100%;object-fit:contain;\"/></div>\n",
+"note": "M13 Bild ergänzt",
+"de_lid": 43348,
+"lang": "fr"
+},
+{
+"lid": 43389,
+"i": 10,
+"old": "<h3>المخرج – تسري على المخرج الأيمن فقط</h3>\n",
+"new": "<h3>المخرج – تسري على المخرج الأيمن فقط</h3>\n<div class=\"tr-icon\"><img alt=\"لوحة إضافية: سهم مائل – للمخرج فقط\" src=\"https://www.fahrschule-homburg.be/wp-content/uploads/fh-kurse/b/img/schild-GXI.png\" style=\"margin:0;max-width:100%;object-fit:contain;\"/></div>\n",
+"note": "M13 Bild ergänzt",
+"de_lid": 43348,
+"lang": "ar"
+},
+{
+"lid": 43407,
+"i": 10,
+"old": "<h3>ทางออก – ใช้เฉพาะทางออกทางขวา</h3>\n",
+"new": "<h3>ทางออก – ใช้เฉพาะทางออกทางขวา</h3>\n<div class=\"tr-icon\"><img alt=\"ป้ายเสริม: ลูกศรเฉียง – ใช้เฉพาะทางออก\" src=\"https://www.fahrschule-homburg.be/wp-content/uploads/fh-kurse/b/img/schild-GXI.png\" style=\"margin:0;max-width:100%;object-fit:contain;\"/></div>\n",
+"note": "M13 Bild ergänzt",
+"de_lid": 43348,
+"lang": "th"
+},
+{
+"lid": 43354,
+"i": 5,
+"old": "<h3>Schräger Pfeil nach unten</h3>\n",
+"new": "<h3>Schräger Pfeil nach unten</h3>\n<div class=\"tr-icon\"><img alt=\"Zusatzschild: schräger Pfeil – gilt nur für die Ausfahrt\" src=\"https://www.fahrschule-homburg.be/wp-content/uploads/fh-kurse/b/img/schild-GXI.png\" style=\"margin:0;max-width:100%;object-fit:contain;\"/></div>\n",
+"note": "M13 Bild ergänzt",
+"de_lid": 43354,
+"lang": "de"
+},
+{
+"lid": 43373,
+"i": 5,
+"old": "<h3>Flèche oblique vers le bas</h3>\n",
+"new": "<h3>Flèche oblique vers le bas</h3>\n<div class=\"tr-icon\"><img alt=\"Signal additionnel : flèche oblique – ne vaut que pour la sortie\" src=\"https://www.fahrschule-homburg.be/wp-content/uploads/fh-kurse/b/img/schild-GXI.png\" style=\"margin:0;max-width:100%;object-fit:contain;\"/></div>\n",
+"note": "M13 Bild ergänzt",
+"de_lid": 43354,
+"lang": "fr"
+},
+{
+"lid": 43391,
+"i": 5,
+"old": "<h3>سهم مائل إلى الأسفل</h3>\n",
+"new": "<h3>سهم مائل إلى الأسفل</h3>\n<div class=\"tr-icon\"><img alt=\"لوحة إضافية: سهم مائل – للمخرج فقط\" src=\"https://www.fahrschule-homburg.be/wp-content/uploads/fh-kurse/b/img/schild-GXI.png\" style=\"margin:0;max-width:100%;object-fit:contain;\"/></div>\n",
+"note": "M13 Bild ergänzt",
+"de_lid": 43354,
+"lang": "ar"
+},
+{
+"lid": 43409,
+"i": 5,
+"old": "<h3>ลูกศรเฉียงชี้ลง</h3>\n",
+"new": "<h3>ลูกศรเฉียงชี้ลง</h3>\n<div class=\"tr-icon\"><img alt=\"ป้ายเสริม: ลูกศรเฉียง – ใช้เฉพาะทางออก\" src=\"https://www.fahrschule-homburg.be/wp-content/uploads/fh-kurse/b/img/schild-GXI.png\" style=\"margin:0;max-width:100%;object-fit:contain;\"/></div>\n",
+"note": "M13 Bild ergänzt",
+"de_lid": 43354,
+"lang": "th"
+},
+{
+"lid": 43354,
+"i": 6,
+"old": "<h3>M-Schilder für Radfahrer – Zusatz für Zweiräder</h3>\n",
+"new": "<h3>M-Schilder für Radfahrer – Zusatz für Zweiräder</h3>\n<div class=\"tr-icon\"><img alt=\"Verkehrszeichen M2\" src=\"https://www.fahrschule-homburg.be/wp-content/uploads/2026/10/tr-m14-190.png\" style=\"margin:0;max-width:100%;object-fit:contain;\"/><img alt=\"Verkehrszeichen M8\" src=\"https://www.fahrschule-homburg.be/wp-content/uploads/2026/10/tr-m14-192.png\" style=\"margin:0;max-width:100%;object-fit:contain;\"/></div>\n",
+"note": "M13 Bild ergänzt",
+"de_lid": 43354,
+"lang": "de"
+},
+{
+"lid": 43373,
+"i": 6,
+"old": "<h3>Signaux M pour cyclistes – Additionnel pour deux-roues</h3>\n",
+"new": "<h3>Signaux M pour cyclistes – Additionnel pour deux-roues</h3>\n<div class=\"tr-icon\"><img alt=\"Signal M2\" src=\"https://www.fahrschule-homburg.be/wp-content/uploads/2026/10/tr-m14-190.png\" style=\"margin:0;max-width:100%;object-fit:contain;\"/><img alt=\"Signal M8\" src=\"https://www.fahrschule-homburg.be/wp-content/uploads/2026/10/tr-m14-192.png\" style=\"margin:0;max-width:100%;object-fit:contain;\"/></div>\n",
+"note": "M13 Bild ergänzt",
+"de_lid": 43354,
+"lang": "fr"
+},
+{
+"lid": 43391,
+"i": 6,
+"old": "<h3>إشارات M لراكبي الدراجات – لوحة إضافية للمركبات ذات العجلتين</h3>\n",
+"new": "<h3>إشارات M لراكبي الدراجات – لوحة إضافية للمركبات ذات العجلتين</h3>\n<div class=\"tr-icon\"><img alt=\"الإشارة M2\" src=\"https://www.fahrschule-homburg.be/wp-content/uploads/2026/10/tr-m14-190.png\" style=\"margin:0;max-width:100%;object-fit:contain;\"/><img alt=\"الإشارة M8\" src=\"https://www.fahrschule-homburg.be/wp-content/uploads/2026/10/tr-m14-192.png\" style=\"margin:0;max-width:100%;object-fit:contain;\"/></div>\n",
+"note": "M13 Bild ergänzt",
+"de_lid": 43354,
+"lang": "ar"
+},
+{
+"lid": 43409,
+"i": 6,
+"old": "<h3>ป้าย M สำหรับผู้ขี่จักรยาน – ป้ายเสริมสำหรับสองล้อ</h3>\n",
+"new": "<h3>ป้าย M สำหรับผู้ขี่จักรยาน – ป้ายเสริมสำหรับสองล้อ</h3>\n<div class=\"tr-icon\"><img alt=\"ป้าย M2\" src=\"https://www.fahrschule-homburg.be/wp-content/uploads/2026/10/tr-m14-190.png\" style=\"margin:0;max-width:100%;object-fit:contain;\"/><img alt=\"ป้าย M8\" src=\"https://www.fahrschule-homburg.be/wp-content/uploads/2026/10/tr-m14-192.png\" style=\"margin:0;max-width:100%;object-fit:contain;\"/></div>\n",
+"note": "M13 Bild ergänzt",
+"de_lid": 43354,
+"lang": "th"
+},
+{
+"lid": 43204,
+"i": 25,
+"old": "<h3>A15/A51 + Zusatz – Gefahr genauer bezeichnet</h3>\n",
+"new": "<h3>A15/A51 + Zusatz – Gefahr genauer bezeichnet</h3>\n<div class=\"tr-icon tr-kachel\"><div class=\"tr-merk\" style=\"background:#16202B;color:#fff;border-left:6px solid #F5B700;border-radius:10px;padding:14px 18px;margin:6px 0 10px;max-width:560px;\"><div style=\"font-size:1.35em;font-weight:700;line-height:1.25;\">A15 + Glatteis · A51 + Lkw-Ausfahrt</div><div style=\"opacity:.85;margin-top:4px;font-size:.95em;\">Zusatzschild benennt die Gefahr genauer</div></div></div>\n",
+"note": "M13 Merkkarte ergänzt",
+"de_lid": 43204,
+"lang": "de"
+},
+{
+"lid": 43365,
+"i": 25,
+"old": "<h3>A15/A51 + additionnel – Danger précisé</h3>\n",
+"new": "<h3>A15/A51 + additionnel – Danger précisé</h3>\n<div class=\"tr-icon tr-kachel\"><div class=\"tr-merk\" style=\"background:#16202B;color:#fff;border-left:6px solid #F5B700;border-radius:10px;padding:14px 18px;margin:6px 0 10px;max-width:560px;\"><div style=\"font-size:1.35em;font-weight:700;line-height:1.25;\">A15 + verglas · A51 + sortie de camions</div><div style=\"opacity:.85;margin-top:4px;font-size:.95em;\">Le signal additionnel précise le danger</div></div></div>\n",
+"note": "M13 Merkkarte ergänzt",
+"de_lid": 43204,
+"lang": "fr"
+},
+{
+"lid": 43383,
+"i": 25,
+"old": "<h3>A15/A51 + لوحة إضافية – وصف الخطر بدقة</h3>\n",
+"new": "<h3>A15/A51 + لوحة إضافية – وصف الخطر بدقة</h3>\n<div class=\"tr-icon tr-kachel\"><div class=\"tr-merk\" style=\"background:#16202B;color:#fff;border-left:6px solid #F5B700;border-radius:10px;padding:14px 18px;margin:6px 0 10px;max-width:560px;\"><div style=\"font-size:1.35em;font-weight:700;line-height:1.25;\">A15 + جليد · A51 + مخرج شاحنات</div><div style=\"opacity:.85;margin-top:4px;font-size:.95em;\">اللوحة الإضافية تحدّد الخطر بدقة</div></div></div>\n",
+"note": "M13 Merkkarte ergänzt",
+"de_lid": 43204,
+"lang": "ar"
+},
+{
+"lid": 43401,
+"i": 25,
+"old": "<h3>A15/A51 + ป้ายเสริม – ระบุอันตรายให้ชัดเจนขึ้น</h3>\n",
+"new": "<h3>A15/A51 + ป้ายเสริม – ระบุอันตรายให้ชัดเจนขึ้น</h3>\n<div class=\"tr-icon tr-kachel\"><div class=\"tr-merk\" style=\"background:#16202B;color:#fff;border-left:6px solid #F5B700;border-radius:10px;padding:14px 18px;margin:6px 0 10px;max-width:560px;\"><div style=\"font-size:1.35em;font-weight:700;line-height:1.25;\">A15 + น้ำแข็ง · A51 + ทางออกรถบรรทุก</div><div style=\"opacity:.85;margin-top:4px;font-size:.95em;\">ป้ายเสริมระบุอันตรายให้ชัดเจน</div></div></div>\n",
+"note": "M13 Merkkarte ergänzt",
+"de_lid": 43204,
+"lang": "th"
+},
+{
+"lid": 43224,
+"i": 22,
+"old": "<h3>Veränderliche Anzeigetafeln</h3>\n",
+"new": "<h3>Veränderliche Anzeigetafeln</h3>\n<div class=\"tr-icon tr-kachel\"><div class=\"tr-merk\" style=\"background:#16202B;color:#fff;border-left:6px solid #F5B700;border-radius:10px;padding:14px 18px;margin:6px 0 10px;max-width:560px;\"><div style=\"font-size:1.35em;font-weight:700;line-height:1.25;\">Rot bleibt Rot</div><div style=\"opacity:.85;margin-top:4px;font-size:.95em;\">Leuchttafel: helle Symbole, dunkler Grund</div></div></div>\n",
+"note": "M13 Merkkarte ergänzt",
+"de_lid": 43224,
+"lang": "de"
+},
+{
+"lid": 43366,
+"i": 22,
+"old": "<h3>Panneaux à affichage variable</h3>\n",
+"new": "<h3>Panneaux à affichage variable</h3>\n<div class=\"tr-icon tr-kachel\"><div class=\"tr-merk\" style=\"background:#16202B;color:#fff;border-left:6px solid #F5B700;border-radius:10px;padding:14px 18px;margin:6px 0 10px;max-width:560px;\"><div style=\"font-size:1.35em;font-weight:700;line-height:1.25;\">Le rouge reste rouge</div><div style=\"opacity:.85;margin-top:4px;font-size:.95em;\">Panneau lumineux : symboles clairs, fond sombre</div></div></div>\n",
+"note": "M13 Merkkarte ergänzt",
+"de_lid": 43224,
+"lang": "fr"
+},
+{
+"lid": 43384,
+"i": 22,
+"old": "<h3>لوحات العرض المتغيّرة</h3>\n",
+"new": "<h3>لوحات العرض المتغيّرة</h3>\n<div class=\"tr-icon tr-kachel\"><div class=\"tr-merk\" style=\"background:#16202B;color:#fff;border-left:6px solid #F5B700;border-radius:10px;padding:14px 18px;margin:6px 0 10px;max-width:560px;\"><div style=\"font-size:1.35em;font-weight:700;line-height:1.25;\">الأحمر يبقى أحمر</div><div style=\"opacity:.85;margin-top:4px;font-size:.95em;\">لوحة مضيئة: رموز فاتحة وخلفية داكنة</div></div></div>\n",
+"note": "M13 Merkkarte ergänzt",
+"de_lid": 43224,
+"lang": "ar"
+},
+{
+"lid": 43402,
+"i": 22,
+"old": "<h3>ป้ายแสดงผลที่เปลี่ยนแปลงได้</h3>\n",
+"new": "<h3>ป้ายแสดงผลที่เปลี่ยนแปลงได้</h3>\n<div class=\"tr-icon tr-kachel\"><div class=\"tr-merk\" style=\"background:#16202B;color:#fff;border-left:6px solid #F5B700;border-radius:10px;padding:14px 18px;margin:6px 0 10px;max-width:560px;\"><div style=\"font-size:1.35em;font-weight:700;line-height:1.25;\">สีแดงยังคงเป็นสีแดง</div><div style=\"opacity:.85;margin-top:4px;font-size:.95em;\">แผงไฟ: สัญลักษณ์สว่าง พื้นหลังเข้ม</div></div></div>\n",
+"note": "M13 Merkkarte ergänzt",
+"de_lid": 43224,
+"lang": "th"
+},
+{
+"lid": 43254,
+"i": 22,
+"old": "<h3>Elektrofahrzeuge</h3>\n",
+"new": "<h3>Elektrofahrzeuge</h3>\n<div class=\"tr-icon tr-kachel\"><div class=\"tr-merk\" style=\"background:#16202B;color:#fff;border-left:6px solid #F5B700;border-radius:10px;padding:14px 18px;margin:6px 0 10px;max-width:560px;\"><div style=\"font-size:1.35em;font-weight:700;line-height:1.25;\">P + Stecker</div><div style=\"opacity:.85;margin-top:4px;font-size:.95em;\">Nur Elektro/Hybrid — und nur beim Laden</div></div></div>\n",
+"note": "M13 Merkkarte ergänzt",
+"de_lid": 43254,
+"lang": "de"
+},
+{
+"lid": 43368,
+"i": 22,
+"old": "<h3>Véhicules électriques</h3>\n",
+"new": "<h3>Véhicules électriques</h3>\n<div class=\"tr-icon tr-kachel\"><div class=\"tr-merk\" style=\"background:#16202B;color:#fff;border-left:6px solid #F5B700;border-radius:10px;padding:14px 18px;margin:6px 0 10px;max-width:560px;\"><div style=\"font-size:1.35em;font-weight:700;line-height:1.25;\">P + prise</div><div style=\"opacity:.85;margin-top:4px;font-size:.95em;\">Électriques/hybrides uniquement — et seulement en charge</div></div></div>\n",
+"note": "M13 Merkkarte ergänzt",
+"de_lid": 43254,
+"lang": "fr"
+},
+{
+"lid": 43386,
+"i": 22,
+"old": "<h3>المركبات الكهربائية</h3>\n",
+"new": "<h3>المركبات الكهربائية</h3>\n<div class=\"tr-icon tr-kachel\"><div class=\"tr-merk\" style=\"background:#16202B;color:#fff;border-left:6px solid #F5B700;border-radius:10px;padding:14px 18px;margin:6px 0 10px;max-width:560px;\"><div style=\"font-size:1.35em;font-weight:700;line-height:1.25;\">P + قابس</div><div style=\"opacity:.85;margin-top:4px;font-size:.95em;\">للكهربائية/الهجينة فقط — وأثناء الشحن فقط</div></div></div>\n",
+"note": "M13 Merkkarte ergänzt",
+"de_lid": 43254,
+"lang": "ar"
+},
+{
+"lid": 43404,
+"i": 22,
+"old": "<h3>ยานพาหนะไฟฟ้า</h3>\n",
+"new": "<h3>ยานพาหนะไฟฟ้า</h3>\n<div class=\"tr-icon tr-kachel\"><div class=\"tr-merk\" style=\"background:#16202B;color:#fff;border-left:6px solid #F5B700;border-radius:10px;padding:14px 18px;margin:6px 0 10px;max-width:560px;\"><div style=\"font-size:1.35em;font-weight:700;line-height:1.25;\">P + ปลั๊ก</div><div style=\"opacity:.85;margin-top:4px;font-size:.95em;\">เฉพาะรถไฟฟ้า/ไฮบริด — และเฉพาะขณะชาร์จ</div></div></div>\n",
+"note": "M13 Merkkarte ergänzt",
+"de_lid": 43254,
+"lang": "th"
+},
+{
+"lid": 43254,
+"i": 23,
+"old": "<h3>Fahrradstellplätze</h3>\n",
+"new": "<h3>Fahrradstellplätze</h3>\n<div class=\"tr-icon tr-kachel\"><div class=\"tr-merk\" style=\"background:#16202B;color:#fff;border-left:6px solid #F5B700;border-radius:10px;padding:14px 18px;margin:6px 0 10px;max-width:560px;\"><div style=\"font-size:1.35em;font-weight:700;line-height:1.25;\">P + M1 = Fahrräder</div><div style=\"opacity:.85;margin-top:4px;font-size:.95em;\">M20: auch Speed Pedelecs</div></div></div>\n",
+"note": "M13 Merkkarte ergänzt",
+"de_lid": 43254,
+"lang": "de"
+},
+{
+"lid": 43368,
+"i": 23,
+"old": "<h3>Emplacements pour vélos</h3>\n",
+"new": "<h3>Emplacements pour vélos</h3>\n<div class=\"tr-icon tr-kachel\"><div class=\"tr-merk\" style=\"background:#16202B;color:#fff;border-left:6px solid #F5B700;border-radius:10px;padding:14px 18px;margin:6px 0 10px;max-width:560px;\"><div style=\"font-size:1.35em;font-weight:700;line-height:1.25;\">P + M1 = vélos</div><div style=\"opacity:.85;margin-top:4px;font-size:.95em;\">M20 : aussi speed pedelecs</div></div></div>\n",
+"note": "M13 Merkkarte ergänzt",
+"de_lid": 43254,
+"lang": "fr"
+},
+{
+"lid": 43386,
+"i": 23,
+"old": "<h3>مواقف الدراجات الهوائية</h3>\n",
+"new": "<h3>مواقف الدراجات الهوائية</h3>\n<div class=\"tr-icon tr-kachel\"><div class=\"tr-merk\" style=\"background:#16202B;color:#fff;border-left:6px solid #F5B700;border-radius:10px;padding:14px 18px;margin:6px 0 10px;max-width:560px;\"><div style=\"font-size:1.35em;font-weight:700;line-height:1.25;\">P + M1 = دراجات هوائية</div><div style=\"opacity:.85;margin-top:4px;font-size:.95em;\">M20: أيضًا الدراجات الكهربائية السريعة</div></div></div>\n",
+"note": "M13 Merkkarte ergänzt",
+"de_lid": 43254,
+"lang": "ar"
+},
+{
+"lid": 43404,
+"i": 23,
+"old": "<h3>ที่จอดจักรยาน</h3>\n",
+"new": "<h3>ที่จอดจักรยาน</h3>\n<div class=\"tr-icon tr-kachel\"><div class=\"tr-merk\" style=\"background:#16202B;color:#fff;border-left:6px solid #F5B700;border-radius:10px;padding:14px 18px;margin:6px 0 10px;max-width:560px;\"><div style=\"font-size:1.35em;font-weight:700;line-height:1.25;\">P + M1 = จักรยาน</div><div style=\"opacity:.85;margin-top:4px;font-size:.95em;\">M20: รวมสปีดเพเดเล็คด้วย</div></div></div>\n",
+"note": "M13 Merkkarte ergänzt",
+"de_lid": 43254,
+"lang": "th"
+},
+{
+"lid": 43348,
+"i": 5,
+"old": "<h3>M11 – Unter C3</h3>\n",
+"new": "<h3>M11 – Unter C3</h3>\n<div class=\"tr-icon tr-kachel\"><div class=\"tr-merk\" style=\"background:#16202B;color:#fff;border-left:6px solid #F5B700;border-radius:10px;padding:14px 18px;margin:6px 0 10px;max-width:560px;\"><div style=\"font-size:1.35em;font-weight:700;line-height:1.25;\">M11 unter C3</div><div style=\"opacity:.85;margin-top:4px;font-size:.95em;\">Frei für Fahrrad, Mofa A, Speed Pedelec</div></div></div>\n",
+"note": "M13 Merkkarte ergänzt",
+"de_lid": 43348,
+"lang": "de"
+},
+{
+"lid": 43371,
+"i": 5,
+"old": "<h3>M11 – Sous C3</h3>\n",
+"new": "<h3>M11 – Sous C3</h3>\n<div class=\"tr-icon tr-kachel\"><div class=\"tr-merk\" style=\"background:#16202B;color:#fff;border-left:6px solid #F5B700;border-radius:10px;padding:14px 18px;margin:6px 0 10px;max-width:560px;\"><div style=\"font-size:1.35em;font-weight:700;line-height:1.25;\">M11 sous C3</div><div style=\"opacity:.85;margin-top:4px;font-size:.95em;\">Libre pour vélos, cyclos A, speed pedelecs</div></div></div>\n",
+"note": "M13 Merkkarte ergänzt",
+"de_lid": 43348,
+"lang": "fr"
+},
+{
+"lid": 43389,
+"i": 5,
+"old": "<h3>M11 – تحت C3</h3>\n",
+"new": "<h3>M11 – تحت C3</h3>\n<div class=\"tr-icon tr-kachel\"><div class=\"tr-merk\" style=\"background:#16202B;color:#fff;border-left:6px solid #F5B700;border-radius:10px;padding:14px 18px;margin:6px 0 10px;max-width:560px;\"><div style=\"font-size:1.35em;font-weight:700;line-height:1.25;\">M11 تحت C3</div><div style=\"opacity:.85;margin-top:4px;font-size:.95em;\">مسموح للدراجات والدراجات الصغيرة A والسريعة</div></div></div>\n",
+"note": "M13 Merkkarte ergänzt",
+"de_lid": 43348,
+"lang": "ar"
+},
+{
+"lid": 43407,
+"i": 5,
+"old": "<h3>M11 – ใต้ป้าย C3</h3>\n",
+"new": "<h3>M11 – ใต้ป้าย C3</h3>\n<div class=\"tr-icon tr-kachel\"><div class=\"tr-merk\" style=\"background:#16202B;color:#fff;border-left:6px solid #F5B700;border-radius:10px;padding:14px 18px;margin:6px 0 10px;max-width:560px;\"><div style=\"font-size:1.35em;font-weight:700;line-height:1.25;\">M11 ใต้ C3</div><div style=\"opacity:.85;margin-top:4px;font-size:.95em;\">ผ่านได้: จักรยาน โมฟา A สปีดเพเดเล็ค</div></div></div>\n",
+"note": "M13 Merkkarte ergänzt",
+"de_lid": 43348,
+"lang": "th"
+},
+{
+"lid": 43348,
+"i": 6,
+"old": "<h3>Außer 2+ – Unter C5</h3>\n",
+"new": "<h3>Außer 2+ – Unter C5</h3>\n<div class=\"tr-icon tr-kachel\"><div class=\"tr-merk\" style=\"background:#16202B;color:#fff;border-left:6px solid #F5B700;border-radius:10px;padding:14px 18px;margin:6px 0 10px;max-width:560px;\"><div style=\"font-size:1.35em;font-weight:700;line-height:1.25;\">Außer 2+</div><div style=\"opacity:.85;margin-top:4px;font-size:.95em;\">Mindestens zwei Insassen dürfen trotzdem fahren</div></div></div>\n",
+"note": "M13 Merkkarte ergänzt",
+"de_lid": 43348,
+"lang": "de"
+},
+{
+"lid": 43371,
+"i": 6,
+"old": "<h3>Excepté 2+ – Sous C5</h3>\n",
+"new": "<h3>Excepté 2+ – Sous C5</h3>\n<div class=\"tr-icon tr-kachel\"><div class=\"tr-merk\" style=\"background:#16202B;color:#fff;border-left:6px solid #F5B700;border-radius:10px;padding:14px 18px;margin:6px 0 10px;max-width:560px;\"><div style=\"font-size:1.35em;font-weight:700;line-height:1.25;\">Excepté 2+</div><div style=\"opacity:.85;margin-top:4px;font-size:.95em;\">Au moins deux occupants : circulation permise</div></div></div>\n",
+"note": "M13 Merkkarte ergänzt",
+"de_lid": 43348,
+"lang": "fr"
+},
+{
+"lid": 43389,
+"i": 6,
+"old": "<h3>باستثناء 2+ – تحت C5</h3>\n",
+"new": "<h3>باستثناء 2+ – تحت C5</h3>\n<div class=\"tr-icon tr-kachel\"><div class=\"tr-merk\" style=\"background:#16202B;color:#fff;border-left:6px solid #F5B700;border-radius:10px;padding:14px 18px;margin:6px 0 10px;max-width:560px;\"><div style=\"font-size:1.35em;font-weight:700;line-height:1.25;\">باستثناء 2+</div><div style=\"opacity:.85;margin-top:4px;font-size:.95em;\">شخصان على الأقل: يجوز السير</div></div></div>\n",
+"note": "M13 Merkkarte ergänzt",
+"de_lid": 43348,
+"lang": "ar"
+},
+{
+"lid": 43407,
+"i": 6,
+"old": "<h3>ยกเว้น 2+ – ใต้ป้าย C5</h3>\n",
+"new": "<h3>ยกเว้น 2+ – ใต้ป้าย C5</h3>\n<div class=\"tr-icon tr-kachel\"><div class=\"tr-merk\" style=\"background:#16202B;color:#fff;border-left:6px solid #F5B700;border-radius:10px;padding:14px 18px;margin:6px 0 10px;max-width:560px;\"><div style=\"font-size:1.35em;font-weight:700;line-height:1.25;\">ยกเว้น 2+</div><div style=\"opacity:.85;margin-top:4px;font-size:.95em;\">มีผู้โดยสารอย่างน้อย 2 คน: ขับผ่านได้</div></div></div>\n",
+"note": "M13 Merkkarte ergänzt",
+"de_lid": 43348,
+"lang": "th"
+},
+{
+"lid": 43348,
+"i": 11,
+"old": "<h3>Glatteis · Aquaplaning · Ausfahrt – Unter A15 bzw. A51</h3>\n",
+"new": "<h3>Glatteis · Aquaplaning · Ausfahrt – Unter A15 bzw. A51</h3>\n<div class=\"tr-icon tr-kachel\"><div class=\"tr-merk\" style=\"background:#16202B;color:#fff;border-left:6px solid #F5B700;border-radius:10px;padding:14px 18px;margin:6px 0 10px;max-width:560px;\"><div style=\"font-size:1.35em;font-weight:700;line-height:1.25;\">Glatteis · Aquaplaning · Ausfahrt</div><div style=\"opacity:.85;margin-top:4px;font-size:.95em;\">Zusatz unter A15 bzw. A51</div></div></div>\n",
+"note": "M13 Merkkarte ergänzt",
+"de_lid": 43348,
+"lang": "de"
+},
+{
+"lid": 43371,
+"i": 11,
+"old": "<h3>Verglas · Aquaplanage · Sortie – Sous A15 ou A51</h3>\n",
+"new": "<h3>Verglas · Aquaplanage · Sortie – Sous A15 ou A51</h3>\n<div class=\"tr-icon tr-kachel\"><div class=\"tr-merk\" style=\"background:#16202B;color:#fff;border-left:6px solid #F5B700;border-radius:10px;padding:14px 18px;margin:6px 0 10px;max-width:560px;\"><div style=\"font-size:1.35em;font-weight:700;line-height:1.25;\">Verglas · Aquaplanage · Sortie</div><div style=\"opacity:.85;margin-top:4px;font-size:.95em;\">Additionnel sous A15 ou A51</div></div></div>\n",
+"note": "M13 Merkkarte ergänzt",
+"de_lid": 43348,
+"lang": "fr"
+},
+{
+"lid": 43389,
+"i": 11,
+"old": "<h3>جليد · انزلاق مائي · مخرج – تحت A15 أو A51</h3>\n",
+"new": "<h3>جليد · انزلاق مائي · مخرج – تحت A15 أو A51</h3>\n<div class=\"tr-icon tr-kachel\"><div class=\"tr-merk\" style=\"background:#16202B;color:#fff;border-left:6px solid #F5B700;border-radius:10px;padding:14px 18px;margin:6px 0 10px;max-width:560px;\"><div style=\"font-size:1.35em;font-weight:700;line-height:1.25;\">جليد · انزلاق مائي · مخرج</div><div style=\"opacity:.85;margin-top:4px;font-size:.95em;\">لوحة إضافية تحت A15 أو A51</div></div></div>\n",
+"note": "M13 Merkkarte ergänzt",
+"de_lid": 43348,
+"lang": "ar"
+},
+{
+"lid": 43407,
+"i": 11,
+"old": "<h3>น้ำแข็งเกาะถนน · รถเหินน้ำ · ทางออก – ใต้ป้าย A15 หรือ A51</h3>\n",
+"new": "<h3>น้ำแข็งเกาะถนน · รถเหินน้ำ · ทางออก – ใต้ป้าย A15 หรือ A51</h3>\n<div class=\"tr-icon tr-kachel\"><div class=\"tr-merk\" style=\"background:#16202B;color:#fff;border-left:6px solid #F5B700;border-radius:10px;padding:14px 18px;margin:6px 0 10px;max-width:560px;\"><div style=\"font-size:1.35em;font-weight:700;line-height:1.25;\">น้ำแข็ง · รถเหินน้ำ · ทางออก</div><div style=\"opacity:.85;margin-top:4px;font-size:.95em;\">ป้ายเสริมใต้ A15 หรือ A51</div></div></div>\n",
+"note": "M13 Merkkarte ergänzt",
+"de_lid": 43348,
+"lang": "th"
+}
+],
+"q350": {
+"de": "Die europaweite Notrufnummer ist die 112. Sie gilt in der ganzen EU und funktioniert auch ohne Guthaben – in Belgien aber nur mit eingelegter SIM-Karte. 911 ist die amerikanische Nummer, die du hier nicht verwechseln solltest.",
+"fr": "Le numéro d'appel d'urgence européen est le 112. Il est valable dans toute l'UE et fonctionne même sans crédit – mais en Belgique uniquement avec une carte SIM dans le téléphone. Le 911 est le numéro américain, que vous ne devez pas confondre ici.",
+"ar": "رقم الطوارئ الموحّد في أوروبا هو 112. وهو يعمل في كل دول الاتحاد الأوروبي وحتى دون رصيد — لكن في بلجيكا فقط مع وجود شريحة اتصال في الهاتف. أما 911 فهو الرقم الأمريكي الذي لا ينبغي أن تخلط بينه وبين هذا.",
+"th": "หมายเลขฉุกเฉินทั่วยุโรปคือ 112 ใช้ได้ทั่วทั้งสหภาพยุโรป และใช้ได้แม้ไม่มีเงินในบัญชี — แต่ในเบลเยียมต้องมีซิมการ์ดในโทรศัพท์เท่านั้น 911 เป็นหมายเลขของอเมริกา ซึ่งคุณไม่ควรสับสนที่นี่"
+},
+"du_fix": {
+"356": {
+"title": "Du näherst dich einer Kreuzung mit einem achteckigen roten Schild mit der Aufschrift „STOP“. Was musst du tun?",
+"answers": [
+"Nur die Geschwindigkeit verringern und weiterfahren, wenn frei ist",
+"Vollständig anhalten und dem Querverkehr Vorfahrt gewähren",
+"Nur dem von rechts kommenden Verkehr Vorfahrt gewähren, ohne anzuhalten"
+]
+},
+"357": {
+"title": "150 Meter vor einer Kreuzung siehst du ein Zusatzschild mit Entfernungsangabe, gefolgt vom „Vorfahrt gewähren“-Schild direkt an der Kreuzung. Wie verhältst du dich an der Kreuzung?",
+"answers": [
+"Du musst in jedem Fall vollständig anhalten",
+"Du musst dem Verkehr auf der bevorrechtigten Straße Vorfahrt gewähren und nötigenfalls anhalten",
+"Du darfst ohne Rücksicht auf den Querverkehr weiterfahren"
+]
+},
+"360": {
+"title": "Ein rundes blaues Schild zeigt einen nach links weisenden weißen Pfeil. Was bedeutet dieses Schild?",
+"answers": [
+"Es ist eine empfohlene Route, Geradeausfahrt ist auch erlaubt",
+"Du musst der angezeigten Richtung folgen",
+"Es markiert das Ende einer Einbahnstraße"
+]
+},
+"362": {
+"title": "An einer Kreuzung blinkt statt der normalen Ampelschaltung nur ein gelbes Licht. Wie verhältst du dich?",
+"answers": [
+"Du darfst ohne besondere Vorsicht normal weiterfahren",
+"Du musst mit erhöhter Vorsicht fahren, die normalen Vorfahrtsregeln gelten weiterhin",
+"Du musst in jedem Fall anhalten, bis das Licht erlischt"
+]
+},
+"363": {
+"title": "An einer Ampel leuchtet Rot, gleichzeitig ein zusätzlicher grüner Pfeil nach rechts. Was bedeutet das für dich als Rechtsabbieger?",
+"answers": [
+"Du darfst abbiegen, musst dabei aber Fußgängern und freigegebenem Querverkehr Vorrang gewähren",
+"Du musst trotzdem vollständig warten, bis die Ampel grün wird",
+"Der grüne Pfeil gilt nur für Busse und Straßenbahnen"
+]
+},
+"367": {
+"title": "Du überschreitest die zulässige Höchstgeschwindigkeit außerorts um 6 km/h. Welche ungefähre sofortige Geldbuße musst du erwarten?",
+"answers": [
+"58 €",
+"128 €",
+"191 €"
+]
+},
+"368": {
+"title": "Du fährst mit 110 km/h auf trockener Fahrbahn. Wie lang ist der gesamte Anhalteweg vom Erkennen der Gefahr bis zum Stillstand?",
+"answers": [
+"55 Meter",
+"110 Meter",
+"121 Meter"
+]
+},
+"369": {
+"title": "Du fährst durch eine als „Schulstraße“ ausgewiesene Zone. Welche Höchstgeschwindigkeit gilt dort für dich?",
+"answers": [
+"30 km/h",
+"20 km/h",
+"Schrittgeschwindigkeit"
+]
+},
+"371": {
+"title": "In welchen Situationen musst du zwingend den Fahrtrichtungsanzeiger benutzen?",
+"answers": [
+"Nur beim Überholen eines anderen Fahrzeugs",
+"Immer, wenn du die Richtung änderst, überholst oder seitlich ausscherst",
+"Nur außerhalb geschlossener Ortschaften"
+]
+},
+"372": {
+"title": "Ein Lkw vor dir nähert sich erkennbar einem Fußgängerüberweg, um dort anzuhalten. Darfst du ihn in diesem Moment überholen?",
+"answers": [
+"Ja, solange die Gegenfahrbahn frei ist",
+"Nein, das Überholen ist in dieser Situation verboten",
+"Ja, aber nur mit eingeschaltetem Warnblinklicht"
+]
+},
+"373": {
+"title": "Du näherst dich einem unbeschrankten Bahnübergang ohne Lichtzeichenanlage, vor dir fährt ein Traktor. Darfst du ihn direkt am Bahnübergang überholen?",
+"answers": [
+"Ja, wenn keine Bahn in Sicht ist",
+"Nein, das Überholen ist an einem solchen Bahnübergang verboten",
+"Ja, aber nur bei Tageslicht"
+]
+},
+"374": {
+"title": "An einer Ampel möchtest du mit deinem Pkw nach rechts abbiegen, der rechte Fahrstreifen ist als Busspur markiert. Darfst du diese Spur kurz benutzen?",
+"answers": [
+"Nein, Busspuren dürfen von Pkw niemals benutzt werden",
+"Ja, im Kreuzungsbereich darfst du dich zum Abbiegen auf der Busspur einordnen",
+"Ja, auch schon mehrere hundert Meter vor der Kreuzung"
+]
+},
+"375": {
+"title": "Du fährst auf einer dreispurigen Autobahn ohne dichten Verkehr durchgehend auf der linken Spur, obwohl die rechten Spuren frei sind. Ist das erlaubt?",
+"answers": [
+"Ja, das ist immer erlaubt",
+"Nein, die linke Spur darf nur benutzt werden, wenn die Verkehrslage es rechtfertigt, z. B. zum Überholen",
+"Ja, solange man mindestens 120 km/h fährt"
+]
+},
+"378": {
+"title": "Dir kommt nachts ein Fahrzeug entgegen und nähert sich zunehmend. Wann musst du spätestens von Fernlicht auf Abblendlicht umschalten?",
+"answers": [
+"Erst, wenn das Gegenfahrzeug die Lichthupe betätigt",
+"Sobald sich das entgegenkommende Fahrzeug nähert, auch ohne Lichthupe",
+"Erst unmittelbar vor der Begegnung"
+]
+},
+"379": {
+"title": "Du bist tagsüber außerorts unterwegs und möchtest ein Fahrzeug überholen. Darfst du hupen, um den Fahrer zu warnen?",
+"answers": [
+"Nein, tagsüber ist Hupen generell verboten",
+"Ja, das ist in dieser Situation erlaubt",
+"Ja, aber nur innerorts"
+]
+},
+"381": {
+"title": "Darfst du innerorts grundsätzlich auf dem erhöhten Gehweg parken, wenn kein Schild dies ausdrücklich erlaubt?",
+"answers": [
+"Ja, immer",
+"Nein, das ist grundsätzlich verboten",
+"Ja, aber nur für maximal 30 Minuten"
+]
+},
+"382": {
+"title": "Du kommst als Erster an einen Unfallort mit Verletzten. Was ist deine erste Priorität?",
+"answers": [
+"Sofort die Fahrzeuge von der Fahrbahn wegräumen",
+"Die Unfallstelle absichern, um weitere Gefahren zu vermeiden",
+"Die Kennzeichen aller beteiligten Fahrzeuge notieren"
+]
+},
+"383": {
+"title": "Du bist an einem Unfall mit ausschließlich geringem Sachschaden beteiligt, keine Verletzten. Musst du diesen Unfall der Polizei melden?",
+"answers": [
+"Ja, jeder Unfall muss der Polizei gemeldet werden",
+"Nein, eine Meldepflicht besteht in diesem Fall nicht",
+"Nur wenn der Schaden über 5000 € liegt"
+]
+},
+"384": {
+"title": "Dein Fahrzeug bleibt an einer Stelle liegen, an der Halten und Parken verboten ist und ein Wegräumen nicht möglich ist. Was musst du zusätzlich zur Warnblinkanlage tun?",
+"answers": [
+"Nichts weiter, die Warnblinkanlage genügt immer",
+"Ein Warndreieck in ausreichendem Abstand aufstellen",
+"Nur bei Dunkelheit ein Warndreieck aufstellen"
+]
+}
+}
+}
