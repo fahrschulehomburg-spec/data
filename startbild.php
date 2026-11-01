@@ -15,6 +15,7 @@ function tr_startbild($srcs){
     imagealphablending($c,true);
     for($y=0;$y<400;$y++){ $a=(int)min(127,8+pow($y/400,1.6)*119); imageline($c,0,$y,1279,$y,imagecolorallocatealpha($c,10,18,28,$a)); }
     $white=imagecolorallocate($c,255,255,255); $yel=imagecolorallocate($c,245,183,0);
+    imagefilledrectangle($c,40,52,900,290,imagecolorallocatealpha($c,10,18,28,38));
     imagefilledrectangle($c,64,72,73,262,$yel);
     imagettftext($c,64,0,98,150,$white,$d.'Poppins-Bold.ttf','Fahrschule Homburg');
     imagettftext($c,36,0,100,212,$white,$d.'Poppins-Medium.ttf',$txt[$k][0]);
