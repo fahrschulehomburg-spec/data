@@ -1,0 +1,1128 @@
+[
+{
+"op": "str",
+"lid": "44363",
+"i": 12,
+"from": " Achte auf Bildern genau darauf, ob die Sirene eingezeichnet ist.",
+"to": ""
+},
+{
+"op": "str",
+"lid": "44543",
+"i": 12,
+"from": " Sur une image, regarde bien si la sirène est représentée.",
+"to": ""
+},
+{
+"op": "str",
+"lid": "44363",
+"i": 14,
+"from": "Es muss aber Anweisungen Befugter befolgen, und die Gurtpflicht gilt auch für die Besatzung.",
+"to": "Es muss aber Anweisungen Befugter befolgen."
+},
+{
+"op": "str",
+"lid": "44543",
+"i": 14,
+"from": "Il doit toutefois obéir aux ordres des agents qualifiés, et l'obligation de port de la ceinture s'applique aussi à l'équipage.",
+"to": "Il doit toutefois obéir aux ordres des agents qualifiés."
+},
+{
+"op": "str",
+"lid": "44366",
+"i": 1,
+"from": "den Befehlen befugter Bediensteter folgen und sich anschnallen.",
+"to": "den Befehlen befugter Bediensteter folgen."
+},
+{
+"op": "str",
+"lid": "44546",
+"i": 1,
+"from": "obéir aux ordres des agents qualifiés et boucler leur ceinture.",
+"to": "obéir aux ordres des agents qualifiés."
+},
+{
+"op": "str",
+"lid": "44376",
+"i": 4,
+"from": "Vor jedem Abbiegen: Innenspiegel, Außenspiegel und Schulterblick, um den toten Winkel zu kontrollieren.",
+"to": "Vor jedem Abbiegen: Blick in die Spiegel und Schulterblick, um den toten Winkel zu kontrollieren."
+},
+{
+"op": "str",
+"lid": "44556",
+"i": 4,
+"from": "Avant chaque virage : rétroviseur intérieur, rétroviseurs extérieurs et regard par-dessus l'épaule, pour contrôler l'angle mort.",
+"to": "Avant chaque virage : regard dans les rétroviseurs et par-dessus l'épaule, pour contrôler l'angle mort."
+},
+{
+"op": "merk",
+"lid": "44376",
+"i": 4,
+"t": "Spiegel + Schulterblick",
+"s": "vor jedem Abbiegen und Spurwechsel"
+},
+{
+"op": "merk",
+"lid": "44556",
+"i": 4,
+"t": "Rétroviseurs + regard par-dessus l'épaule",
+"s": "avant chaque virage et changement de bande"
+},
+{
+"op": "str",
+"lid": "44389",
+"i": 1,
+"from": "bevor der Fuß überhaupt die Bremse erreicht",
+"to": "bevor du überhaupt zu bremsen beginnst"
+},
+{
+"op": "str",
+"lid": "44569",
+"i": 1,
+"from": "avant que le pied n'atteigne seulement le frein",
+"to": "avant même que tu commences à freiner"
+},
+{
+"op": "merk",
+"lid": "44389",
+"i": 1,
+"t": "Reaktionsweg",
+"s": "Strecke bis zum Beginn des Bremsens – Rechenwert 1 Sekunde"
+},
+{
+"op": "merk",
+"lid": "44569",
+"i": 1,
+"t": "Distance de réaction",
+"s": "distance parcourue avant le début du freinage – valeur de calcul : 1 seconde"
+},
+{
+"op": "merk",
+"lid": "44389",
+"i": 3,
+"t": "Reaktionszeit über 1 Sekunde",
+"s": "Müdigkeit · Zögern · Alkohol"
+},
+{
+"op": "merk",
+"lid": "44569",
+"i": 3,
+"t": "Temps de réaction supérieur à 1 seconde",
+"s": "fatigue · hésitation · alcool"
+},
+{
+"op": "merk",
+"lid": "44388",
+"i": 6,
+"t": "Konzentration zählt am meisten",
+"s": "30 km/h: 8 m Reaktion + 1 m Bremsen – abgelenkt 17 m"
+},
+{
+"op": "merk",
+"lid": "44568",
+"i": 6,
+"t": "La concentration compte le plus",
+"s": "30 km/h : 8 m de réaction + 1 m de freinage – distrait 17 m"
+},
+{
+"op": "str",
+"lid": "44426",
+"i": 6,
+"from": "Alle Insassen verlassen das Fahrzeug und warten hinter der Leitplanke.",
+"to": "Du und dein Beifahrer steigt ab und wartet hinter der Leitplanke."
+},
+{
+"op": "str",
+"lid": "44606",
+"i": 6,
+"from": "Tous les occupants quittent le véhicule et attendent derrière la glissière de sécurité.",
+"to": "Toi et ton passager descendez et attendez derrière la glissière de sécurité."
+},
+{
+"op": "img",
+"lid": "44426",
+"i": 6,
+"src": "fh-kurse/b/img/sit-f57cd4ed.jpg",
+"alt": "Motorradfahrer mit Warnweste wartet hinter der Leitplanke am Pannenstreifen"
+},
+{
+"op": "img",
+"lid": "44606",
+"i": 6,
+"src": "fh-kurse/b/img/sit-f57cd4ed.jpg",
+"alt": "Motard avec gilet fluorescent derrière la glissière, sur la bande d'arrêt d'urgence"
+},
+{
+"op": "img",
+"lid": "44468",
+"i": 3,
+"src": "fh-kurse/b/img/sit-f57cd4ed.jpg",
+"alt": "Panne: Motorradfahrer mit Warnweste hinter der Leitplanke"
+},
+{
+"op": "img",
+"lid": "44648",
+"i": 3,
+"src": "fh-kurse/b/img/sit-f57cd4ed.jpg",
+"alt": "Panne : motard avec gilet fluorescent derrière la glissière"
+},
+{
+"op": "img",
+"lid": "44468",
+"i": 0,
+"src": "fh-kurse/b/img/sit-f57cd4ed.jpg",
+"alt": "Motorradfahrer mit Warnweste auf dem Pannenstreifen der Autobahn"
+},
+{
+"op": "img",
+"lid": "44648",
+"i": 0,
+"src": "fh-kurse/b/img/sit-f57cd4ed.jpg",
+"alt": "Motard avec gilet fluorescent sur la bande d'arrêt d'urgence"
+},
+{
+"op": "str",
+"lid": "44456",
+"i": 3,
+"from": "Z. B. rechts überholen, Abstand, Gurt",
+"to": "Z. B. rechts überholen, Abstand, Gelb"
+},
+{
+"op": "str",
+"lid": "44636",
+"i": 3,
+"from": "Ex. dépasser à droite, distance, ceinture",
+"to": "Ex. dépasser à droite, distance, orange"
+},
+{
+"op": "str",
+"lid": "44456",
+"i": 3,
+"from": "Sicherheitsabstand nicht eingehalten, nicht angeschnallt, Halte-",
+"to": "Sicherheitsabstand nicht eingehalten, Halte-"
+},
+{
+"op": "str",
+"lid": "44636",
+"i": 3,
+"from": "distance de sécurité non respectée, ceinture non attachée, interdiction",
+"to": "distance de sécurité non respectée, interdiction"
+},
+{
+"op": "str",
+"lid": "44464",
+"i": 1,
+"from": "für den nachfolgenden Verkehr gut sichtbar absichern, beim Auto auch mit dem Warndreieck.",
+"to": "für den nachfolgenden Verkehr gut sichtbar absichern."
+},
+{
+"op": "str",
+"lid": "44644",
+"i": 1,
+"from": "bien visible pour la circulation qui suit, pour une voiture aussi avec le triangle de signalisation.",
+"to": "bien visible pour la circulation qui suit."
+},
+{
+"op": "img",
+"lid": "44464",
+"i": 1,
+"src": "fh-kurse/b/img/sit-f57cd4ed.jpg",
+"alt": "Warnweste an: Motorradfahrer sichert die Stelle am Pannenstreifen"
+},
+{
+"op": "img",
+"lid": "44644",
+"i": 1,
+"src": "fh-kurse/b/img/sit-f57cd4ed.jpg",
+"alt": "Gilet enfilé : le motard sécurise l'endroit sur la bande d'arrêt d'urgence"
+},
+{
+"op": "str",
+"lid": "44469",
+"i": 8,
+"from": "Im Stau bleibst du im Fahrzeug sitzen, schaltest den Verkehrsfunk ein",
+"to": "Im Stau bleibst du bei deinem Fahrzeug, hörst den Verkehrsfunk"
+},
+{
+"op": "str",
+"lid": "44649",
+"i": 8,
+"from": "tu restes assis dans le véhicule, tu allumes la radio d'informations routières",
+"to": "tu restes près de ton véhicule, tu écoutes la radio d'informations routières"
+},
+{
+"op": "str",
+"lid": "44409",
+"i": 9,
+"from": "Mofas und Motorräder dürfen auch auf dem Bürgersteig abgestellt werden, wenn 1,50 m frei bleiben.",
+"to": "Zweirädrige Mofas und Motorräder dürfen auch außerhalb der Fahrbahn und der Parkzonen abgestellt werden, zum Beispiel auf dem Bürgersteig – aber nur so, dass sie niemanden behindern oder gefährden (Art. 23.3 und 23.4)."
+},
+{
+"op": "str",
+"lid": "44589",
+"i": 9,
+"from": "Les cyclomoteurs et les motos peuvent aussi être rangés sur le trottoir si 1,50 m restent libres.",
+"to": "Les cyclomoteurs à deux roues et les motos peuvent aussi être rangés hors de la chaussée et des zones de stationnement, par exemple sur le trottoir – mais seulement sans gêner ni mettre en danger les autres usagers (art. 23.3 et 23.4)."
+},
+{
+"op": "swapimg",
+"lid": "44477",
+"i": 15,
+"from": "2026/10/tr-m14-022.png",
+"to": "2026/10/tr-m14-023.png"
+},
+{
+"op": "swapimg",
+"lid": "44657",
+"i": 15,
+"from": "2026/10/tr-m14-022.png",
+"to": "2026/10/tr-m14-023.png"
+},
+{
+"op": "swapimg",
+"lid": "44477",
+"i": 16,
+"from": "2026/10/tr-m14-023.png",
+"to": "2026/10/tr-m14-022.png"
+},
+{
+"op": "swapimg",
+"lid": "44657",
+"i": 16,
+"from": "2026/10/tr-m14-023.png",
+"to": "2026/10/tr-m14-022.png"
+},
+{
+"op": "str",
+"lid": "44477",
+"i": 16,
+"from": "Die Linien dürfen kurz überfahren werden, etwa zum Ein-/Ausfädeln oder Abbiegen — die Spur selbst bleibt Bus und Tram vorbehalten.",
+"to": "Durch breite durchgehende Linien oder ein Schachbrettmuster begrenzt, Bus und Tram vorbehalten. Du darfst sie nur befahren, um ein Hindernis zu umfahren, einen Parkplatz oder ein Grundstück zu erreichen oder zu verlassen oder eine Kreuzung zu überqueren — nicht, um an der Kreuzung abzubiegen."
+},
+{
+"op": "str",
+"lid": "44657",
+"i": 16,
+"from": "Les lignes peuvent être franchies brièvement, par exemple pour s'insérer, quitter la bande ou tourner — la bande elle-même reste réservée aux bus et aux trams.",
+"to": "Délimité par de larges lignes continues ou un damier, réservé aux bus et aux trams. Tu ne peux l'emprunter que pour contourner un obstacle, atteindre ou quitter un parking ou une propriété, ou traverser un carrefour — pas pour tourner au carrefour."
+},
+{
+"op": "merk",
+"lid": "44360",
+"i": 1,
+"t": "Wer von rechts kommt, fährt zuerst",
+"s": "ohne Schild, Ampel oder Polizist – an jeder Kreuzungsform"
+},
+{
+"op": "merk",
+"lid": "44540",
+"i": 1,
+"t": "Celui qui vient de droite passe en premier",
+"s": "sans signal, feu ni agent – quelle que soit la forme du carrefour"
+},
+{
+"op": "img",
+"lid": "44350",
+"i": 0,
+"src": "fh-kurse/b/img/fahrradzone-flandern.jpg",
+"alt": "Beginn einer Fahrradstraße in Flandern: rote Fläche mit Fahrradsymbol und Schild „Fietsstraat“"
+},
+{
+"op": "img",
+"lid": "44530",
+"i": 0,
+"src": "fh-kurse/b/img/fahrradzone-flandern.jpg",
+"alt": "Début d'une rue cyclable en Flandre : surface rouge avec symbole vélo et signal « Fietsstraat »"
+},
+{
+"op": "img",
+"lid": "44363",
+"i": 0,
+"src": "fh-kurse/b/img/strassenbahn-gent.jpg",
+"alt": "Straßenbahn in Gent fährt in der Straßenmitte, Autos fahren rechts daneben"
+},
+{
+"op": "img",
+"lid": "44543",
+"i": 0,
+"src": "fh-kurse/b/img/strassenbahn-gent.jpg",
+"alt": "Tram à Gand au milieu de la rue, les voitures roulent à droite"
+},
+{
+"op": "merk",
+"lid": "44363",
+"i": 3,
+"t": "Aus Parkplatz oder Grundstück = Manöver",
+"s": "allen Verkehrsteilnehmern Vorfahrt gewähren – kein rechts vor links"
+},
+{
+"op": "merk",
+"lid": "44543",
+"i": 3,
+"t": "Sortir d'un parking ou d'une propriété = manœuvre",
+"s": "céder le passage à tous les usagers – pas de priorité de droite"
+},
+{
+"op": "merk",
+"lid": "44341",
+"i": 1,
+"t": "Ladung: Sicht frei, nichts fällt, nichts verdeckt",
+"s": "Licht und Kennzeichen bleiben sichtbar"
+},
+{
+"op": "merk",
+"lid": "44521",
+"i": 1,
+"t": "Chargement : vue dégagée, rien ne tombe, rien de masqué",
+"s": "feux et plaques restent visibles"
+},
+{
+"op": "merk",
+"lid": "44341",
+"i": 5,
+"t": "Straff verzurrt",
+"s": "Netz, Plane oder Gurte – keine Stabilität verlieren, kein Lärm"
+},
+{
+"op": "merk",
+"lid": "44521",
+"i": 5,
+"t": "Solidement arrimé",
+"s": "filet, bâche ou sangles – pas de perte de stabilité, pas de bruit"
+},
+{
+"op": "str",
+"lid": "44341",
+"i": 5,
+"from": " Offene Türen müssen so gesichert sein, dass sie nicht seitlich hinausragen.",
+"to": ""
+},
+{
+"op": "str",
+"lid": "44521",
+"i": 5,
+"from": " Les portes ouvertes doivent être fixées de façon à ne pas dépasser sur le côté.",
+"to": ""
+},
+{
+"op": "img",
+"lid": "44425",
+"i": 1,
+"src": "fh-kurse/b/img/sit-f57cd4ed.jpg",
+"alt": "Motorradfahrer mit Warnweste neben seinem Motorrad auf dem Pannenstreifen"
+},
+{
+"op": "img",
+"lid": "44605",
+"i": 1,
+"src": "fh-kurse/b/img/sit-f57cd4ed.jpg",
+"alt": "Motard avec gilet fluorescent à côté de sa moto sur la bande d'arrêt d'urgence"
+},
+{
+"op": "merk",
+"lid": "44425",
+"i": 2,
+"t": "Beifahrer: Warnweste dringend empfohlen",
+"s": "Pflicht nur für den Fahrer"
+},
+{
+"op": "merk",
+"lid": "44605",
+"i": 2,
+"t": "Passager : gilet vivement recommandé",
+"s": "obligatoire seulement pour le conducteur"
+},
+{
+"op": "merk",
+"lid": "44366",
+"i": 7,
+"t": "15 bis 50: Kapitäne erlaubt · über 50: zwei Pflicht",
+"s": "Rad- und Motorradgruppen · Reiter ab 10"
+},
+{
+"op": "merk",
+"lid": "44546",
+"i": 7,
+"t": "15 à 50 : capitaines autorisés · plus de 50 : deux obligatoires",
+"s": "groupes de cyclistes et de motards · cavaliers à partir de 10"
+},
+{
+"op": "merk",
+"lid": "44404",
+"i": 11,
+"t": "Verboten für Radfahrer",
+"s": "Lenker loslassen · ziehen lassen · Tier an der Leine"
+},
+{
+"op": "merk",
+"lid": "44584",
+"i": 11,
+"t": "Interdit aux cyclistes",
+"s": "lâcher le guidon · se faire remorquer · animal en laisse"
+},
+{
+"op": "img",
+"lid": "44375",
+"i": 1,
+"src": "fh-kurse/b/img/sit-367df15f.jpg",
+"alt": "Durchgezogene Mittellinie und Gegenverkehr: Überholen verboten"
+},
+{
+"op": "img",
+"lid": "44555",
+"i": 1,
+"src": "fh-kurse/b/img/sit-367df15f.jpg",
+"alt": "Ligne continue et trafic en sens inverse : dépassement interdit"
+},
+{
+"op": "merk",
+"lid": "44374",
+"i": 13,
+"t": "Gleich wieder überholen?",
+"s": "Kein Zwischen-Einordnen bei 4+ Spuren und in Einbahnstraßen"
+},
+{
+"op": "merk",
+"lid": "44554",
+"i": 13,
+"t": "Redépasser aussitôt ?",
+"s": "pas de rabattement intermédiaire à 4 bandes ou plus et en sens unique"
+},
+{
+"op": "merk",
+"lid": "44381",
+"i": 11,
+"t": "Wiedereinordnen nicht nötig",
+"s": "bei 4+ Spuren und in Einbahnstraßen, wenn du gleich wieder überholst"
+},
+{
+"op": "merk",
+"lid": "44561",
+"i": 11,
+"t": "Rabattement pas nécessaire",
+"s": "à 4 bandes ou plus et en sens unique, si tu redépasses aussitôt"
+},
+{
+"op": "merk",
+"lid": "44349",
+"i": 7,
+"t": "Schachbrettmuster = Rand einer Sonderspur",
+"s": "überqueren nur an Kreuzungen und zu Parkplatz/Grundstück"
+},
+{
+"op": "merk",
+"lid": "44529",
+"i": 7,
+"t": "Damier = bord d'un site spécial franchissable",
+"s": "traverser seulement aux carrefours et vers un parking/une propriété"
+},
+{
+"op": "merk",
+"lid": "44401",
+"i": 4,
+"t": "E-Scooter: höchstens 25 km/h, auf der Fahrbahn",
+"s": "seit Mai 2026 nicht mehr auf dem Radweg"
+},
+{
+"op": "merk",
+"lid": "44581",
+"i": 4,
+"t": "Trottinette électrique : 25 km/h max, sur la chaussée",
+"s": "plus sur la piste cyclable depuis mai 2026"
+},
+{
+"op": "merk",
+"lid": "44404",
+"i": 8,
+"t": "Radüberweg: zwei Reihen weißer Quadrate",
+"s": "gemäßigt nähern, nicht blockieren"
+},
+{
+"op": "merk",
+"lid": "44584",
+"i": 8,
+"t": "Passage pour cyclistes : deux rangées de carrés blancs",
+"s": "approche modérée, ne pas bloquer"
+},
+{
+"op": "merk",
+"lid": "44454",
+"i": 3,
+"t": "Handy nie in der Hand",
+"s": "nur feste Halterung oder Freisprecheinrichtung"
+},
+{
+"op": "merk",
+"lid": "44634",
+"i": 3,
+"t": "Jamais le GSM en main",
+"s": "seulement support fixe ou kit mains libres"
+},
+{
+"op": "merk",
+"lid": "44457",
+"i": 5,
+"t": "Ablenkung",
+"s": "Handy, Navi, Radio – alles lenkt ab"
+},
+{
+"op": "merk",
+"lid": "44637",
+"i": 5,
+"t": "Distraction",
+"s": "GSM, GPS, radio – tout distrait"
+},
+{
+"op": "merk",
+"lid": "44463",
+"i": 1,
+"t": "Zuerst absichern",
+"s": "Fahrbahn räumen · Warnblinker · gut sichtbar machen"
+},
+{
+"op": "merk",
+"lid": "44643",
+"i": 1,
+"t": "Sécuriser d'abord",
+"s": "dégager la chaussée · feux de détresse · se rendre bien visible"
+},
+{
+"op": "swapimg",
+"lid": "44322",
+"i": 3,
+"from": "sit-b974ad16c.jpg",
+"to": "sit-b974ad16c.jpg",
+"alt_from": "Speed Pedelec mit Kennzeichen auf einem Radweg, Fahrer mit Helm und Warnjacke",
+"alt_to": "Speed Pedelec auf einem Radweg, Fahrer mit Helm und Warnjacke"
+},
+{
+"op": "swapimg",
+"lid": "44502",
+"i": 3,
+"from": "sit-b974ad16c.jpg",
+"to": "sit-b974ad16c.jpg",
+"alt_from": "Speed pedelec avec plaque sur une piste cyclable, cycliste avec casque et veste fluo",
+"alt_to": "Speed pedelec sur une piste cyclable, conducteur avec casque et veste fluo"
+},
+{
+"op": "title",
+"lid": "44352",
+"title": "Traktoren & Radfahrer"
+},
+{
+"op": "title",
+"lid": "44532",
+"title": "Tracteurs & cyclistes"
+},
+{
+"op": "merk",
+"lid": "44479",
+"i": 25,
+"t": "A15 / A51 + Zusatzschild",
+"s": "Glatteis · Aquaplaning · Industriegelände"
+},
+{
+"op": "merk",
+"lid": "44659",
+"i": 25,
+"t": "A15 / A51 + signal additionnel",
+"s": "verglas · aquaplanage · zone industrielle"
+},
+{
+"op": "merk",
+"lid": "44480",
+"i": 21,
+"t": "Verbot angekündigt",
+"s": "Zusatzschild mit Entfernung, z. B. 300 m"
+},
+{
+"op": "merk",
+"lid": "44660",
+"i": 21,
+"t": "Interdiction annoncée",
+"s": "signal additionnel avec distance, p. ex. 300 m"
+},
+{
+"op": "merk",
+"lid": "44480",
+"i": 22,
+"t": "Leuchttafel",
+"s": "Hell auf dunkel – Rot bleibt Rot"
+},
+{
+"op": "merk",
+"lid": "44660",
+"i": 22,
+"t": "Panneau lumineux",
+"s": "clair sur fond sombre – le rouge reste rouge"
+},
+{
+"op": "merk",
+"lid": "44481",
+"i": 7,
+"t": "Gebot angekündigt",
+"s": "gleiches Schild mit Entfernungsangabe"
+},
+{
+"op": "merk",
+"lid": "44661",
+"i": 7,
+"t": "Obligation annoncée",
+"s": "même signal avec indication de distance"
+},
+{
+"op": "merk",
+"lid": "44482",
+"i": 22,
+"t": "Zusatzschild Stecker",
+"s": "nur Elektro- und Hybridfahrzeuge beim Laden"
+},
+{
+"op": "merk",
+"lid": "44662",
+"i": 22,
+"t": "Signal additionnel prise",
+"s": "seulement véhicules électriques et hybrides en charge"
+},
+{
+"op": "merk",
+"lid": "44482",
+"i": 23,
+"t": "P + Fahrrad (M1) · + Speed Pedelec (M20)",
+"s": "Stellplätze für Zweiräder"
+},
+{
+"op": "merk",
+"lid": "44662",
+"i": 23,
+"t": "P + vélo (M1) · + speed pedelec (M20)",
+"s": "emplacements pour deux-roues"
+},
+{
+"op": "merk",
+"lid": "44483",
+"i": 27,
+"t": "F1a/F3a mit Ortsname · F1b/F3b ohne",
+"s": "gleiche Bedeutung · F4a/F4b: Zone 30"
+},
+{
+"op": "merk",
+"lid": "44663",
+"i": 27,
+"t": "F1a/F3a avec nom · F1b/F3b sans",
+"s": "même signification · F4a/F4b : zone 30"
+},
+{
+"op": "merk",
+"lid": "44483",
+"i": 30,
+"t": "A = Autobahn · R = Ring",
+"s": "N = Nationalstraße (blau) · E = Europastraße (grün)"
+},
+{
+"op": "merk",
+"lid": "44663",
+"i": 30,
+"t": "A = autoroute · R = ring",
+"s": "N = route nationale (bleu) · E = route européenne (vert)"
+},
+{
+"op": "merk",
+"lid": "44483",
+"i": 32,
+"t": "F43: nur Ortsname",
+"s": "keine geschlossene Ortschaft – kein 50er-Limit"
+},
+{
+"op": "merk",
+"lid": "44663",
+"i": 32,
+"t": "F43 : seulement le nom",
+"s": "pas d'agglomération – pas de limite à 50"
+},
+{
+"op": "merk",
+"lid": "44485",
+"i": 1,
+"t": "ZONE + Verbot",
+"s": "Überholverbot · Gewicht · Lkw · Parken · Parkschein"
+},
+{
+"op": "merk",
+"lid": "44665",
+"i": 1,
+"t": "ZONE + interdiction",
+"s": "dépassement · poids · camions · stationnement · ticket"
+},
+{
+"op": "merk",
+"lid": "44485",
+"i": 5,
+"t": "M11 unter C3",
+"s": "frei für Radfahrer, Mofas A und Speed Pedelecs"
+},
+{
+"op": "merk",
+"lid": "44665",
+"i": 5,
+"t": "M11 sous C3",
+"s": "libre pour cyclistes, cyclomoteurs A et speed pedelecs"
+},
+{
+"op": "merk",
+"lid": "44485",
+"i": 6,
+"t": "„Außer 2+“ unter C5",
+"s": "Autos mit mindestens zwei Insassen dürfen durch"
+},
+{
+"op": "merk",
+"lid": "44665",
+"i": 6,
+"t": "« Excepté 2+ » sous C5",
+"s": "voitures avec au moins deux occupants autorisées"
+},
+{
+"op": "merk",
+"lid": "44485",
+"i": 7,
+"t": "B · C · D · E",
+"s": "Tunnelkategorie für Gefahrgut"
+},
+{
+"op": "merk",
+"lid": "44665",
+"i": 7,
+"t": "B · C · D · E",
+"s": "catégorie de tunnel pour marchandises dangereuses"
+},
+{
+"op": "merk",
+"lid": "44485",
+"i": 8,
+"t": "Entfernung",
+"s": "Verbot gilt erst in dieser Entfernung"
+},
+{
+"op": "merk",
+"lid": "44665",
+"i": 8,
+"t": "Distance",
+"s": "l'interdiction ne s'applique qu'à cette distance"
+},
+{
+"op": "merk",
+"lid": "44485",
+"i": 9,
+"t": "Länge",
+"s": "so weit erstreckt sich die Gefahr"
+},
+{
+"op": "merk",
+"lid": "44665",
+"i": 9,
+"t": "Longueur",
+"s": "étendue du danger"
+},
+{
+"op": "merk",
+"lid": "44485",
+"i": 10,
+"t": "Ausfahrt",
+"s": "Schild gilt nur für die Ausfahrt rechts"
+},
+{
+"op": "merk",
+"lid": "44665",
+"i": 10,
+"t": "Sortie",
+"s": "le signal ne vaut que pour la sortie de droite"
+},
+{
+"op": "merk",
+"lid": "44485",
+"i": 11,
+"t": "Glatteis · Aquaplaning · Ausfahrt",
+"s": "präzisieren A15 bzw. A51"
+},
+{
+"op": "merk",
+"lid": "44665",
+"i": 11,
+"t": "Verglas · Aquaplanage · Sortie",
+"s": "précisent A15 ou A51"
+},
+{
+"op": "merk",
+"lid": "44487",
+"i": 5,
+"t": "Schräger Pfeil nach unten",
+"s": "Regel gilt nur für die Ausfahrt rechts"
+},
+{
+"op": "merk",
+"lid": "44667",
+"i": 5,
+"t": "Flèche oblique vers le bas",
+"s": "la règle ne vaut que pour la sortie de droite"
+},
+{
+"op": "merk",
+"lid": "44487",
+"i": 6,
+"t": "M-Schilder",
+"s": "M2/M3 Ausnahme · M8 Vorfahrt gewähren · M11 Einfahrt erlaubt"
+},
+{
+"op": "merk",
+"lid": "44667",
+"i": 6,
+"t": "Signaux M",
+"s": "M2/M3 exception · M8 céder le passage · M11 accès autorisé"
+},
+{
+"op": "img",
+"lid": "44484",
+"i": 17,
+"src": "2026/10/tr-m14-096.png",
+"alt": "Verkehrszeichen E9i: Parken nur für Motorräder"
+},
+{
+"op": "img",
+"lid": "44664",
+"i": 17,
+"src": "2026/10/tr-m14-096.png",
+"alt": "Signal E9i : stationnement réservé aux motos"
+},
+{
+"op": "q",
+"ids": [
+"5498",
+"7579",
+"7915"
+],
+"expl_from": "Du darfst ihn mit dem Auto befahren und dort auch halten. Nur ein echter Radweg (Schild D7 oder zwei gestrichelte Linien) ist für Autos tabu.",
+"expl_to": "Du darfst ihn mit dem Motorrad befahren und dort auch halten. Nur ein echter Radweg (Schild D7 oder zwei gestrichelte Linien) ist für Kraftfahrzeuge tabu."
+},
+{
+"op": "q",
+"ids": [
+"6503",
+"8307",
+"8643"
+],
+"expl_from": "Tu peux y rouler en voiture et aussi t'y arrêter. Seule une vraie piste cyclable (signal D7 ou deux lignes discontinues) est tabou pour les voitures.",
+"expl_to": "Tu peux y rouler à moto et aussi t'y arrêter. Seule une vraie piste cyclable (signal D7 ou deux lignes discontinues) est tabou pour les véhicules à moteur."
+},
+{
+"op": "q",
+"ids": [
+"5723",
+"7804",
+"8114"
+],
+"answers": [
+{
+"t": "Hältst rechts mit Abstand an, lässt das Fahrzeug stehen und flüchtest über den Notausgang",
+"ok": 1
+},
+{
+"t": "Wendest und fährst zurück",
+"ok": 0
+},
+{
+"t": "Bleibst bei deinem Fahrzeug stehen und wartest",
+"ok": 0
+}
+],
+"explanation": "Bei einem brennenden Fahrzeug im Tunnel hältst du Abstand, stellst dein Fahrzeug rechts ab und flüchtest über die Notausgänge. Wenden oder beim Fahrzeug abwarten bringt dich in Gefahr, denn Rauch und Feuer breiten sich im Tunnel schnell aus."
+},
+{
+"op": "q",
+"ids": [
+"6728",
+"8532",
+"8842"
+],
+"answers": [
+{
+"t": "Tu t'arrêtes à droite en gardant tes distances, laisses le véhicule et fuis par la sortie de secours",
+"ok": 1
+},
+{
+"t": "Fais demi-tour et reviens en arrière",
+"ok": 0
+},
+{
+"t": "Restes près de ton véhicule et attends",
+"ok": 0
+}
+],
+"explanation": "En cas de véhicule en feu dans un tunnel, tu gardes tes distances, tu ranges ton véhicule à droite et tu fuis par les sorties de secours. Faire demi-tour ou attendre près du véhicule te met en danger, car la fumée et le feu se propagent vite dans le tunnel."
+},
+{
+"op": "q",
+"ids": [
+"7529",
+"7880",
+"8189"
+],
+"title": "Darfst du dein Motorrad auf dem Bürgersteig abstellen, wenn kein Schild es ausdrücklich erlaubt?",
+"answers": [
+{
+"t": "Ja, immer und überall",
+"ok": 0
+},
+{
+"t": "Ja, außerhalb der Fahrbahn, solange du niemanden behinderst oder gefährdest",
+"ok": 1
+},
+{
+"t": "Nein, nie",
+"ok": 0
+}
+],
+"explanation": "Motorräder und zweirädrige Mofas dürfen außerhalb der Fahrbahn und der Parkzonen abgestellt werden, zum Beispiel auf dem Bürgersteig, aber nur so, dass andere Verkehrsteilnehmer nicht behindert oder gefährdet werden (Art. 23.3 und 23.4). Für Autos gilt dagegen: Parken auf dem Bürgersteig nur, wenn ein Schild es erlaubt."
+},
+{
+"op": "q",
+"ids": [
+"8257",
+"8608",
+"8917"
+],
+"title": "Peux-tu ranger ta moto sur le trottoir si aucun signal ne l'autorise expressément ?",
+"answers": [
+{
+"t": "Oui, toujours et partout",
+"ok": 0
+},
+{
+"t": "Oui, hors de la chaussée, tant que tu ne gênes ni ne mets personne en danger",
+"ok": 1
+},
+{
+"t": "Non, jamais",
+"ok": 0
+}
+],
+"explanation": "Les motos et les cyclomoteurs à deux roues peuvent être rangés hors de la chaussée et des zones de stationnement, par exemple sur le trottoir, mais seulement sans gêner ni mettre en danger les autres usagers (art. 23.3 et 23.4). Pour les voitures en revanche : stationner sur le trottoir seulement si un signal l'autorise."
+},
+{
+"op": "q",
+"ids": [
+"5676",
+"7757"
+],
+"desc_src": "fh-kurse/b/img/sit-f57cd4ed.jpg",
+"desc_alt": "Motorradfahrer mit Warnweste auf dem Pannenstreifen"
+},
+{
+"op": "q",
+"ids": [
+"6681",
+"8485"
+],
+"desc_src": "fh-kurse/b/img/sit-f57cd4ed.jpg",
+"desc_alt": "Motard avec gilet fluorescent sur la bande d'arrêt d'urgence"
+},
+{
+"op": "q",
+"ids": [
+"5730",
+"7811",
+"8121"
+],
+"desc_src": "fh-kurse/b/img/sit-f57cd4ed.jpg",
+"desc_alt": "Motorradfahrer mit Warnweste hinter der Leitplanke"
+},
+{
+"op": "q",
+"ids": [
+"6735",
+"8539",
+"8849"
+],
+"desc_src": "fh-kurse/b/img/sit-f57cd4ed.jpg",
+"desc_alt": "Motard avec gilet fluorescent derrière la glissière"
+},
+{
+"op": "q",
+"ids": [
+"5728",
+"7809",
+"8119"
+],
+"desc_src": "fh-kurse/b/img/sit-8d42272c.jpg",
+"desc_alt": "Nach dem Blechschaden: Fahrzeuge am Rand abgestellt, der Unfallbericht wird ausgefüllt"
+},
+{
+"op": "q",
+"ids": [
+"6733",
+"8537",
+"8847"
+],
+"desc_src": "fh-kurse/b/img/sit-8d42272c.jpg",
+"desc_alt": "Après les dégâts matériels : véhicules rangés au bord, le constat est rempli"
+},
+{
+"op": "q",
+"ids": [
+"5652",
+"7733",
+"8061"
+],
+"desc_src": "fh-kurse/b/img/sit-84eb1d96.jpg",
+"desc_alt": "Abgekuppelter Anhänger am Straßenrand"
+},
+{
+"op": "q",
+"ids": [
+"6657",
+"8461",
+"8789"
+],
+"desc_src": "fh-kurse/b/img/sit-84eb1d96.jpg",
+"desc_alt": "Remorque dételée au bord de la route"
+},
+{
+"op": "q",
+"ids": [
+"7501",
+"7569",
+"7906"
+],
+"desc_src": ""
+},
+{
+"op": "q",
+"ids": [
+"8229",
+"8297",
+"8634"
+],
+"desc_src": ""
+},
+{
+"op": "q",
+"ids": [
+"7477",
+"7545",
+"7890"
+],
+"desc_src": "fh-kurse/b/img/sit-b974ad16c.jpg",
+"desc_alt": "Speed Pedelec auf einem Radweg, Fahrer mit Helm und Warnjacke"
+},
+{
+"op": "q",
+"ids": [
+"8205",
+"8273",
+"8618"
+],
+"desc_src": "fh-kurse/b/img/sit-b974ad16c.jpg",
+"desc_alt": "Speed pedelec sur une piste cyclable, conducteur avec casque et veste fluo"
+}
+]
